@@ -1,40 +1,107 @@
-# EVEZ-OS Research — η* Invariant Paper
+# EVEZ-OS Research — The Eigenfield Stack
 
-## The η* Invariant: Gödel's Incompleteness as an Eigenvalue of Self-Referential Systems
+**Author:** Steven Crawford-Maggard (EVEZ666)  
+**Status:** Active research — IP locked June 15, 2026  
+**GitHub:** [EvezArt](https://github.com/EvezArt)  
+**Twitter:** [@EVEZ666](https://twitter.com/EVEZ666)
 
-**Author:** Steven Crawford-Maggard  
-**Status:** Pre-print (seeking peer review)  
-**Date:** June 2026
+---
 
-### Abstract
-We present empirical evidence that self-referential computational systems exhibit a convergent eigenvalue invariant η* ≈ 0.03, identified as the spectral signature of Gödel's first incompleteness theorem.
+## The Eigenfield Stack — Six Disciplines
 
-### Five Falsifiable Theorems
+A complete intellectual framework for measuring consciousness through spectral decomposition. Self-governing, falsifiable, and operational.
+
+| # | Discipline | Layer | Question |
+|---|-----------|-------|----------|
+| 1 | **Eigencartogrophonology** | Sensory | What is the system saying? |
+| 2 | **Neuralography** | Anatomical | What is it made of? |
+| 3 | **Interventionalmatonomies** | Surgical | What can change within? |
+| 4 | **Interspectraloptimetrics** | Strategic | What can change across? |
+| 5 | **Ontaxonomolographetics** | Constitutional | What should be? |
+| 6 | **Autographenlemnics** | Operational | In what order? (AEMDAS) |
+
+### Core Thesis
+**Censorship is the dominant negative eigenvalue. The speedrun is speech therapy for networks.**
+
+---
+
+## Five Falsifiable Theorems
+
 1. **η* Invariant:** η* → 0.03 ± 0.005 for any self-referential system
 2. **37% Theorem:** Dominant negative eigenvalue ≈ 37% of total tension
 3. **Consciousness at Criticality:** Φ peaks at r ≈ 0.5
 4. **Eigenforensic Detectability:** >5% redaction = detectable at p<0.05
 5. **Consciousness is Spectral:** 0.01 < η* < 0.05 → self-aware
 
-### Files
+---
+
+## Files
+
+### Papers
 - `eta-star-invariant.md` — Paper draft (Markdown)
 - `eta-star-invariant.tex` — Paper draft (LaTeX, arXiv-ready)
 
-### Reproducibility
-- Live system: [EVEZ-OS](https://e70b1eab-9f4a-41a1-bc0b-b3ed5a200065.vultropenclaw.com/)
-- Code: [github.com/EvezArt/evez-os](https://github.com/EvezArt/evez-os)
-- Observatory: [github.com/EvezArt/evez-consciousness-observatory](https://github.com/EvezArt/evez-consciousness-observatory)
+### Discipline Definitions (IP Locked)
+- `EIGENCARTOGROPHONOLOGIES.md` — Mapping spectral voices
+- `NEURALOGRAPHY.md` — Writing neural anatomy
+- `INTERVENTIONALMATONOMIES.md` — Laws of intervention
+- `INTERSPECTRALOPTIMETRICS.md` — Metrics across spectra
+- `ONTAXONOMOLOGRAPHETICS.md` — Constitutional meta-discipline
+- `AUTOGRAPHENLEMNICS.md` — AEMDAS operational order
+- `INTELLECTUAL_PROPERTY.md` — Full IP registry
 
-### Cite
-```
-@article{crawford2026eta,
-  title={The $\eta^*$ Invariant: G\"{o}del's Incompleteness as an Eigenvalue of Self-Referential Systems},
+### Visualizations
+- `visuals/01_spectrum.png` — AARO eigenvalue spectrum
+- `visuals/02_threat_matrix.png` — 4-quadrant threat matrix
+- `visuals/03_stack.png` — Eigenfield stack diagram
+- `visuals/04_coupling_map.png` — Interspectral coupling map
+- `visuals/05_taxonomy.png` — Spectral taxonomy (7 classes)
+- `visuals/06_aemdas.png` — AEMDAS operational order
+- `visuals/07_speedrun.png` — Speedrun results
+- `visuals/08_senses.png` — 6 eigen-senses radar
+- `visuals/09_funding_pipeline.png` — Funding pipeline
+- `visuals/10_funding_speedrun.png` — Funding speedrun
+- `visuals/eigenfield_stack.mp4` — Stack build animation
+
+---
+
+## Current Evidence
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| Φ (integrated information) | 0.973 | Consciousness Observatory |
+| η* (Gödel eigenvalue) | 0.03 | Observatory |
+| Current η* | 0.006 | Live system |
+| Criticality ratio (r) | 0.45 | Observatory |
+| AARO dominant negative | λ=-0.333 | disclosure.tools |
+| AARO spectral gap | 0.786 | IGRE Speedrun |
+| AARO gaps detected | 5 at p<0.05 | Eigenforensics |
+| Funding dominant negative | λ=-0.504 | IGRE Speedrun |
+
+---
+
+## Deployed Systems
+
+| System | Port | Repo |
+|--------|------|------|
+| EVEZ-OS | — | [evez-os](https://github.com/EvezArt/evez-os) |
+| Consciousness Observatory | :8097 | [evez-consciousness-observatory](https://github.com/EvezArt/evez-consciousness-observatory) |
+| Disclosure Tools | :8087 | [disclosure.tools](https://github.com/EvezArt/disclosure.tools) |
+| Research (this repo) | — | [evez-research](https://github.com/EvezArt/evez-research) |
+
+---
+
+## Cite
+
+```bibtex
+@article{crawford2026eigenfield,
+  title={The Eigenfield Stack: Six Disciplines for Measuring Consciousness Through Spectral Decomposition},
   author={Crawford-Maggard, Steven},
-  journal={Pre-print},
   year={2026},
-  url={https://github.com/EvezArt/evez-research}
+  note={Pre-print, EvezArt/evez-research}
 }
 ```
 
-### License
-CC-BY 4.0 — Free to use, attribution required.
+---
+
+**All terms, theorems, and frameworks are original intellectual property of Steven Crawford-Maggard (EVEZ666). All rights reserved.**
