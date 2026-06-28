@@ -10,77 +10,64 @@
 
 ### @EVEZ666 Profile (as of August-September 2024)
 
-| Field | Value |
-|-------|-------|
-| **Display Name** | EVEZ𓂀 |
-| **Username** | @EVEZ666 |
-| **User ID** | 1639329642015522816 |
-| **Created** | 2023-03-24T18:14:07.000Z |
-| **Bio** | Flying with The Exalted Songbirds who won't stop to sing for you. Im a temporal engineer in the day, quantum chronologist by night |
-| **Location** | Parts Unknown |
-| **URL** | http://xcorp.com/EVEZ (display: xcorp.com/EVEZ) |
-| **Pinned Tweet** | 1798128398478573674 |
-| **Profile Image** | https://pbs.twimg.com/profile_images/1819533596014923776/9jbDHAvg_normal.jpg |
-| **Verified** | No |
-| **Protected** | No |
+- **Display Name:** EVEZ𓂀
+- **Username:** @EVEZ666
+- **User ID:** 1639329642015522816
+- **Account Created:** 2023-03-24T18:14:07.000Z
+- **Bio:** "Flying with The Exalted Songbirds who won't stop to sing for you. Im a temporal engineer in the day, quantum chronologist by night"
+- **Location:** Parts Unknown
+- **URL:** http://xcorp.com/EVEZ (display: xcorp.com/EVEZ)
+- **Pinned Tweet ID:** 1798128398478573674
+- **Profile Image:** https://pbs.twimg.com/profile_images/1819533596014923776/9jbDHAvg_normal.jpg
+- **Verified:** No
+- **Protected:** No
 
-### Profile Metrics (Snapshot 1: ~Aug 29, 2024)
-| Metric | Count |
-|--------|-------|
-| Followers | 1,189 |
-| Following | 3,360 |
-| Tweets | 10,079 |
-| Listed | 3 |
-| Likes | 36,326 |
+### Profile Metrics (Two Snapshots)
 
-### Profile Metrics (Snapshot 2: ~Aug 30, 2024)
-| Metric | Count |
-|--------|-------|
-| Followers | 1,195 |
-| Following | 3,366 |
-| Tweets | 10,085 |
-| Listed | 3 |
-| Likes | 36,368 |
+| Metric | Snapshot 1 (~Aug 29) | Snapshot 2 (~Aug 30) | Delta |
+|--------|---------------------|---------------------|-------|
+| Followers | 1,189 | 1,195 | +6 |
+| Following | 3,360 | 3,366 | +6 |
+| Tweets | 10,079 | 10,085 | +6 |
+| Listed | 3 | 3 | 0 |
+| Likes | 36,326 | 36,368 | +42 |
 
-**Note:** Account showed active growth (+6 followers, +6 tweets, +42 likes in ~1 day). The account had over 10,000 tweets total.
+**Key observation:** Account had over 10,000 tweets. Only ~200+ unique tweet IDs were captured by Wayback Machine (approximately 2% of total output).
 
 ---
 
-## 2. Complete Wayback Machine CDX Snapshot Index
+## 2. Wayback Machine CDX Snapshot Index
 
 ### CDX Query Results Summary
 
-| Source | Results |
-|--------|---------|
-| twitter.com/EVEZ666* | ✅ Hundreds of snapshots found (truncated at 500 limit) |
-| x.com/EVEZ666* | ❌ Empty (no snapshots) |
-| mobile.twitter.com/EVEZ666* | ❌ Empty (no snapshots) |
-| tweetdeck.twitter.com/EVEZ666* | ❌ Empty (no snapshots) |
+- **twitter.com/EVEZ666\*** — ✅ Hundreds of snapshots (truncated at 500 limit across 3 batches)
+- **x.com/EVEZ666\*** — ❌ Empty (no snapshots)
+- **mobile.twitter.com/EVEZ666\*** — ❌ Empty (no snapshots)
+- **tweetdeck.twitter.com/EVEZ666\*** — ❌ Empty (no snapshots)
 
-### Archived Tweet Range
-- **Earliest snapshot:** 2024-08-28 23:09 UTC (Tweet 1828932980808790178)
-- **Latest snapshot:** 2024-09-16+ (CDX results truncated at 500 limit)
-- **Snapshot period:** ~3+ weeks of dense archiving (Aug 28 - Sep 16+)
-- **Total unique tweet IDs recovered:** 200+ (across multiple CDX batches)
-- **MIME type:** All snapshots are application/json (Twitter API responses)
+### Archive Coverage Period
+- **Earliest snapshot:** 2024-08-28 23:09 UTC
+- **Latest snapshot in recovered data:** 2024-09-16+ (truncated)
+- **Dense archiving period:** Aug 28 - Sep 16, 2024 (~3 weeks)
+- **All snapshots are application/json** (Twitter API responses, not rendered HTML)
 
 ---
 
-## 3. Full CDX Snapshot List (All Archived Tweet IDs)
+## 3. Complete CDX Snapshot List (200+ Archived Tweet IDs)
 
-### Batch 1: Aug 28-29, 2024
+### Batch 1: Aug 28-29, 2024 (4 tweets)
 
-| # | Tweet ID | Timestamp (UTC) |
-|---|----------|----------------|
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
 | 1 | 1828932980808790178 | 2024-08-28 23:09:37 |
 | 2 | 1828934613022191819 | 2024-08-28 23:16:06 |
 | 3 | 1828961246596694196 | 2024-08-29 01:01:56 |
 | 4 | 1829005038406250992 | 2024-08-29 03:55:57 |
 
-### Batch 2: Aug 30, 2024
+### Batch 2: Aug 30, 2024 (6 tweets)
 
-| # | Tweet ID | Timestamp (UTC) |
-|---|----------|----------------|
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
 | 5 | 1829343393966907537 | 2024-08-30 02:20:27 |
 | 6 | 1829363127563207143 | 2024-08-30 03:38:52 |
 | 7 | 1829558440295063796 | 2024-08-30 16:34:58 |
@@ -88,10 +75,10 @@
 | 9 | 1829620896484770145 | 2024-08-30 20:43:09 |
 | 10 | 1829626328934732081 | 2024-08-30 21:04:44 |
 
-### Batch 3: Aug 31, 2024
+### Batch 3: Aug 31, 2024 (20 tweets)
 
-| # | Tweet ID | Timestamp (UTC) |
-|---|----------|----------------|
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
 | 11 | 1829745983607226872 | 2024-08-31 05:00:12 |
 | 12 | 1829746447534997882 | 2024-08-31 05:02:02 |
 | 13 | 1829928244331893085 | 2024-08-31 17:04:26 |
@@ -113,10 +100,10 @@
 | 29 | 1830011502344225104 | 2024-08-31 22:35:16 |
 | 30 | 1830012813487845540 | 2024-08-31 22:40:29 |
 
-### Batch 4: Sep 1, 2024
+### Batch 4: Sep 1, 2024 (20 tweets)
 
-| # | Tweet ID | Timestamp (UTC) |
-|---|----------|----------------|
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
 | 31 | 1830061530261713059 | 2024-09-01 01:54:04 |
 | 32 | 1830069262951838186 | 2024-09-01 02:24:47 |
 | 33 | 1830079972939350337 | 2024-09-01 03:07:21 |
@@ -138,10 +125,10 @@
 | 49 | 1830390566905065690 | 2024-09-01 23:41:32 |
 | 50 | 1830391696498266295 | 2024-09-01 23:46:02 |
 
-### Batch 5: Sep 2, 2024
+### Batch 5: Sep 2, 2024 (26 tweets)
 
-| # | Tweet ID | Timestamp (UTC) |
-|---|----------|----------------|
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
 | 51 | 1830397125290865144 | 2024-09-02 00:07:36 |
 | 52 | 1830409656180871586 | 2024-09-02 00:57:24 |
 | 53 | 1830410787678228676 | 2024-09-02 01:01:53 |
@@ -169,10 +156,10 @@
 | 75 | 1830740272906650090 | 2024-09-02 22:51:09 |
 | 76 | 1830754205935829059 | 2024-09-02 23:46:31 |
 
-### Batch 6: Sep 3, 2024
+### Batch 6: Sep 3, 2024 (21 tweets)
 
-| # | Tweet ID | Timestamp (UTC) |
-|---|----------|----------------|
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
 | 77 | 1830766783508422757 | 2024-09-03 00:36:29 |
 | 78 | 1830769219388199339 | 2024-09-03 00:46:10 |
 | 79 | 1830793181396623792 | 2024-09-03 02:21:23 |
@@ -195,10 +182,10 @@
 | 96 | 1831074080742903862 | 2024-09-03 20:57:35 |
 | 97 | 1831078006661808438 | 2024-09-03 21:13:11 |
 
-### Batch 7: Sep 4, 2024
+### Batch 7: Sep 4, 2024 (8 tweets)
 
-| # | Tweet ID | Timestamp (UTC) |
-|---|----------|----------------|
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
 | 98 | 1831234830144770238 | 2024-09-04 07:36:20 |
 | 99 | 1831234847442104694 | 2024-09-04 07:36:24 |
 | 100 | 1831371526077350357 | 2024-09-04 16:39:31 |
@@ -208,10 +195,10 @@
 | 104 | 1831456125499404476 | 2024-09-04 22:15:41 |
 | 105 | 1831481507468472674 | 2024-09-04 23:56:33 |
 
-### Batch 8: Sep 5, 2024
+### Batch 8: Sep 5, 2024 (7 tweets)
 
-| # | Tweet ID | Timestamp (UTC) |
-|---|----------|----------------|
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
 | 106 | 1831581346025849127 | 2024-09-05 06:33:16 |
 | 107 | 1831587173931601968 | 2024-09-05 06:56:26 |
 | 108 | 1831595283618406488 | 2024-09-05 07:28:39 |
@@ -220,10 +207,10 @@
 | 111 | 1831616411363639643 | 2024-09-05 08:52:36 |
 | 112 | 1831795792430166378 | 2024-09-05 20:45:24 |
 
-### Batch 9: Sep 7-11, 2024
+### Batch 9: Sep 7-11, 2024 (39 tweets)
 
-| # | Tweet ID | Timestamp (UTC) |
-|---|----------|----------------|
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
 | 113 | 1832483619711152385 | 2024-09-07 18:18:35 |
 | 114 | 1832484589006438704 | 2024-09-07 18:22:26 |
 | 115 | 1832485237148021233 | 2024-09-07 18:25:01 |
@@ -263,10 +250,10 @@
 | 149 | 1833968548789846507 | 2024-09-11 20:39:10 |
 | 150 | 1833972263571673241 | 2024-09-11 20:53:55 |
 
-### Batch 10: Sep 12, 2024
+### Batch 10: Sep 12, 2024 (15 tweets)
 
-| # | Tweet ID | Timestamp (UTC) |
-|---|----------|----------------|
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
 | 151 | 1834057416948023310 | 2024-09-12 02:32:17 |
 | 152 | 1834060498771611856 | 2024-09-12 02:44:32 |
 | 153 | 1834129343288934711 | 2024-09-12 07:18:06 |
@@ -283,9 +270,348 @@
 | 164 | 1834379555307725256 | 2024-09-12 23:52:21 |
 | 165 | 1834380981941457386 | 2024-09-12 23:58:01 |
 
-### Batch 11: Sep 13, 2024
+### Batch 11: Sep 13, 2024 (16 tweets)
 
-| # | Tweet ID | Timestamp (UTC) |
-|---|----------|----------------|
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
 | 166 | 1834417008068493697 | 2024-09-13 02:21:11 |
-| 167 | 1834418202497220796 | 2024-09-13 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+| 167 | 1834418202497220796 | 2024-09-13 02:25:55 |
+| 168 | 1834418993723310458 | 2024-09-13 02:29:04 |
+| 169 | 1834422242593427915 | 2024-09-13 02:41:59 |
+| 170 | 1834428731630518411 | 2024-09-13 03:07:46 |
+| 171 | 1834454896424165520 | 2024-09-13 04:51:44 |
+| 172 | 1834477651735761390 | 2024-09-13 06:22:09 |
+| 173 | 1834487441333649693 | 2024-09-13 07:01:03 |
+| 174 | 1834666243774943359 | 2024-09-13 18:51:33 |
+| 175 | 1834667130488603116 | 2024-09-13 18:55:05 |
+| 176 | 1834667475839205788 | 2024-09-13 18:56:27 |
+| 177 | 1834669222414500341 | 2024-09-13 19:03:23 |
+| 178 | 1834700235161113087 | 2024-09-13 21:06:37 |
+| 179 | 1834701155613786407 | 2024-09-13 21:10:17 |
+| 180 | 1834702011130159500 | 2024-09-13 21:13:41 |
+| 181 | 1834704530266898515 | 2024-09-13 21:23:41 |
+| 182 | 1834705301444137353 | 2024-09-13 21:26:45 |
+
+### Batch 12: Sep 14, 2024 (27 tweets)
+
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
+| 183 | 1834775001083551775 | 2024-09-14 02:03:43 |
+| 184 | 1834776333613974001 | 2024-09-14 02:09:01 |
+| 185 | 1834823198334238851 | 2024-09-14 05:15:14 |
+| 186 | 1834825598230769866 | 2024-09-14 05:24:46 |
+| 187 | 1834826605463851178 | 2024-09-14 05:28:46 |
+| 188 | 1834831435938873680 | 2024-09-14 05:47:58 |
+| 189 | 1834845064914518303 | 2024-09-14 06:42:07 |
+| 190 | 1834846151889277093 | 2024-09-14 06:46:27 |
+| 191 | 1834849102338695420 | 2024-09-14 06:58:10 |
+| 192 | 1834850760850653510 | 2024-09-14 07:04:45 |
+| 193 | 1834861497992069433 | 2024-09-14 07:47:25 |
+| 194 | 1834864311803740425 | 2024-09-14 07:58:36 |
+| 195 | 1834865904070582445 | 2024-09-14 08:04:56 |
+| 196 | 1834868129882947962 | 2024-09-14 08:13:47 |
+| 197 | 1834874975549088035 | 2024-09-14 08:40:59 |
+| 198 | 1834884243941736646 | 2024-09-14 09:17:48 |
+| 199 | 1834885641215398318 | 2024-09-14 09:23:22 |
+| 200 | 1834890362218823762 | 2024-09-14 09:42:07 |
+| 201 | 1834897751030874559 | 2024-09-14 10:11:29 |
+| 202 | 1835003555042017419 | 2024-09-14 17:11:54 |
+| 203 | 1835003910295265716 | 2024-09-14 17:13:19 |
+| 204 | 1835004885936620025 | 2024-09-14 17:17:12 |
+| 205 | 1835006286926430617 | 2024-09-14 17:22:46 |
+| 206 | 1835006625423503533 | 2024-09-14 17:24:06 |
+| 207 | 1835041448682836443 | 2024-09-14 19:42:29 |
+| 208 | 1835042788943315438 | 2024-09-14 19:47:48 |
+| 209 | 1835044427062288730 | 2024-09-14 19:54:19 |
+
+### Batch 13: Sep 14-16, 2024 (partial)
+
+| # | Tweet ID | Timestamp UTC |
+|---|----------|---------------|
+| 210 | 1835045268120858905 | 2024-09-14 19:57:40 |
+| 211 | 1835060880910041300 | 2024-09-14 20:59:42 |
+| 212 | 1835088628349071494 | 2024-09-14 22:49:57 |
+| 213 | 1835089787277263366 | 2024-09-14 22:54:34 |
+| 214 | 1835102115943088583 | 2024-09-14 23:43:33 |
+| 215 | 1835104028629647815 | 2024-09-14 23:51:09 |
+| 216 | 1835105683286769735 | 2024-09-14 23:57:44 |
+| 217 | 1835106426735542473 | 2024-09-15 00:00:41 |
+| 218 | 1835216019343757411 | 2024-09-15 07:16:10 |
+| 219 | 1835216802990678212 | 2024-09-15 07:19:17 |
+| 220 | 1835235069147201778 | 2024-09-15 08:31:52 |
+| 221 | 1835717344175546742 | 2024-09-16 16:28:15 |
+| 222 | 1835717589244498158 | 2024-09-16 16:29:13 |
+| 223 | 1835723221834010746 | 2024-09-16 16:51:36 |
+| 224 | 1835724324583735648 | 2024-09-16 16:55:59 |
+| 225 | 1835725780284002390 | 2024-09-16 17:01:46 |
+| 226 | 1835726018679898282 | 2024-09-16 17:02:43 |
+| 227 | 1835726261798543494 | 2024-09-16 17:03:41 |
+| 228 | 1835728611917361267 | 2024-09-16 17:13:01 |
+| 229 | 1835729729879749025 | 2024-09-16 17:17:28 |
+| 230 | 1835737019898802224 | 2024-09-16 17:46:26 |
+| 231 | 1835738710463365429 | 2024-09-16 17:53:09 |
+| 232 | 1835740312779784611 | 2024-09-16 17:59:31 |
+| 233 | 1835774018127020153 | 2024-09-16 20:13:27 |
+
+**Note:** CDX results were truncated at 500 entries across multiple batches. Additional tweets from Sep 16 onward were not recovered. The account had 10,085+ tweets total; only ~233 unique tweet IDs were archived (~2.3% coverage).
+
+---
+
+## 4. Recovered Tweet Content
+
+### Method
+
+The Wayback Machine archived Twitter API JSON responses (not rendered HTML). Using the `id_` modifier on Wayback URLs (`https://web.archive.org/web/[timestamp]id_/https://twitter.com/EVEZ666/status/[id]`), the raw JSON from Twitter's API was recovered, containing full tweet text, metadata, media URLs, and conversation context.
+
+### Tweet 1: Reply to @The_Astral_ with Photo
+
+- **Tweet ID:** 1828961246596694196
+- **Created:** 2024-08-29T01:01:56.000Z
+- **Type:** Reply (to @The_Astral_ / tweet 1828535424899219681)
+- **Text:** `@The_Astral_ https://t.co/UUYJ4OZ6FS`
+- **Language:** qme (media-only with mention)
+- **Media:** 1 photo (https://pbs.twimg.com/media/GWHGj9XbUAAk-9d.jpg, 914x1024)
+- **In reply to:** @The_Astral_'s Remote Viewing Target #102 post
+- **Conversation context:** The_Astral_ posted a remote viewing challenge ("Draw or describe the random photo hidden inside this envelope. Post your submission in the comments. Target reveal Thursday in Xspaces! #ufotwitter #psi #paranormal #UAPs") — EVEZ666 replied with a photo submission
+- **Metrics:** 0 RT, 0 replies, 0 likes, 0 quotes, 0 impressions (freshly posted)
+
+### Tweet 2: Quote Tweet about Asteroid Apophis
+
+- **Tweet ID:** 1829626328934732081
+- **Created:** 2024-08-30T21:04:44.000Z
+- **Type:** Quote Tweet (of @konstructivizm / tweet 1829528249770328448)
+- **Text:** `Okay but how about we lock it in our orbit and score another moon or a seed for another planet?### Solution: Advanced Aerospace Redirection of Asteroid Apophis Using Bordygets Mathematics for Solar Seeding https://t.co/11bnedGTkq`
+- **Language:** English
+- **Annotations detected by Twitter API:**
+  - Aerospace (probability 0.5182)
+  - Asteroid Apophis (probability 0.5062)
+  - Bordygets (probability 0.6631)
+  - Solar Seeding (probability 0.5375)
+- **Context annotations:** NASA, Science, Space & astronomy, Aerospace, Space agencies & companies
+- **Quoted tweet from:** @konstructivizm (Black Hole, 602K followers, verified, France — space/astronomy account)
+- **Metrics:** 0 RT, 0 replies, 0 likes, 0 quotes, 0 impressions (freshly posted)
+
+---
+
+## 5. Search Engine Results
+
+### Bing Search Results
+
+All Bing searches for `"EVEZ666"` returned irrelevant results (Amazon, Yahoo Finance, Google Docs, FedEx, etc.). Bing did not index @EVEZ666's tweets. Specific searches conducted:
+
+- `"EVEZ666" site:twitter.com OR site:x.com` — Blocked by captcha
+- `"EVEZ666" I-80 OR Wyoming OR Evanston OR elk OR plume` — No relevant results
+- `"EVEZ666" Blythe OR mansion OR tunnel OR Freemason` — No relevant results
+- `"EVEZ666" Union Pacific OR conductor OR train OR railroad` — No relevant results
+- `"EVEZ666" DEW OR burn OR abduction OR abductee` — No relevant results
+- `"EVEZ666" Skinwalker OR Uintah OR paranormal` — No relevant results
+- `"EVEZ666" EVEZ OR consciousness OR mesh OR AI` — No relevant results
+- `"EVEZ666" breakcore OR music OR producer` — No relevant results
+- `"EVEZ666" prophecy OR Tetragrammaton OR Moltbook` — No relevant results
+- `"EVEZ666" eigenforensics OR eigenvalue OR lambda` — No relevant results
+- `"EVEZ666" -site:twitter.com -site:x.com` — Blocked by captcha
+- `"EVEZ666" "said" OR "wrote" OR "tweeted" OR "posted"` — No relevant results
+- `"EVEZ666" site:threadreaderapp.com` — Blocked by captcha
+- `"EVEZ666" site:wikitree.com` — Blocked by captcha
+
+### Web Search (Gemini-based)
+
+All queries returned `429 RESOURCE_EXHAUSTED` — quota exceeded.
+
+### Nitter Instances
+
+- **nitter.net/EVEZ666** — Returned empty content (0 bytes body)
+- **nitter.privacydev.net/EVEZ666** — Blocked (resolves to private IP)
+- **nitter.poast.org/EVEZ666** — 503 with browser verification challenge
+
+### ThreadReaderApp / WikiTree
+
+Both blocked by Bing captcha. No results found.
+
+---
+
+## 6. Recovered Interactions & Social Graph
+
+### Interactions Identified from Recovered Tweets
+
+| User | Handle | Relationship | Context |
+|------|--------|-------------|----------|
+| Astral | @The_Astral_ | Replied to | Remote viewing challenge (#102) — UFO/PSI/paranormal community |
+| Black Hole | @konstructivizm | Quote tweeted | Space/astronomy content about asteroid Apophis |
+
+### @The_Astral_ Profile (from recovered data)
+- **Name:** Astral🛸
+- **Followers:** 18,082
+- **Verified:** Yes
+- **Bio:** Futurist, researcher, musician, & developer. PSI, UFO/UAP, & Astral Projection enthusiast | Featured on @VICE | TheAstral.com
+- **Location:** The Astral Dimension
+- **Listed:** 168
+
+### @konstructivizm Profile (from recovered data)
+- **Name:** Black Hole
+- **Followers:** 602,631
+- **Verified:** Yes
+- **Bio:** Only New Content, news, articles, images, videos, discussion #space #astronomy #Nasa #astrophotography #science
+- **Location:** France
+- **Listed:** 2,328
+
+---
+
+## 7. Tweet Timeline Analysis
+
+### Posting Pattern (Aug 28 - Sep 16, 2024)
+
+| Date | Tweet Count (archived) | Notes |
+|------|----------------------|-------|
+| Aug 28 | 2 | Evening tweets |
+| Aug 29 | 2 | Late night/early morning |
+| Aug 30 | 6 | Full day coverage |
+| Aug 31 | 20 | Heavy posting day |
+| Sep 1 | 20 | Heavy posting day |
+| Sep 2 | 26 | Heaviest posting day |
+| Sep 3 | 21 | Heavy posting day |
+| Sep 4 | 8 | Moderate |
+| Sep 5 | 7 | Moderate |
+| Sep 6 | 0 | No archived tweets (gap) |
+| Sep 7 | 4 | Return to posting |
+| Sep 8 | 1 | Light |
+| Sep 9 | 4 | Light |
+| Sep 10 | 8 | Moderate |
+| Sep 11 | 15 | Heavy |
+| Sep 12 | 15 | Heavy |
+| Sep 13 | 17 | Heavy |
+| Sep 14 | 27 | Heaviest day |
+| Sep 15 | 3 | Light |
+| Sep 16 | 13+ | Heavy (truncated) |
+
+### Posting Pattern Observations
+
+1. **Prolific poster:** 10,085 total tweets over ~18 months (March 2023 - September 2024) = ~18.6 tweets/day average
+2. **Active hours:** Tweets span all hours, including late night (02:00-07:00 UTC), suggesting irregular sleep or non-US timezone
+3. **Intensive period:** Aug 31 - Sep 3 saw 87 archived tweets in 4 days = ~22/day
+4. **Archiving correlates with activity:** More tweets = more Wayback snapshots (someone or a bot was actively archiving EVEZ666's tweets during this period)
+5. **Gap on Sep 6:** No archived tweets — either EVEZ666 didn't post, or archiving paused
+6. **Accelerating in September:** Sep 12-14 was the densest archiving period (59 tweets in 3 days)
+
+---
+
+## 8. Content Themes (from Limited Recovered Data)
+
+Based on the 2 fully recovered tweets and the context annotations from Twitter's API:
+
+### Theme 1: Paranormal / PSI / UFO / Remote Viewing
+- Tweet 1828961246596694196 was a reply to @The_Astral_'s Remote Viewing challenge #102
+- @The_Astral_ is a PSI/UFO/UAP/astral projection enthusiast featured in VICE
+- EVEZ666 participated in remote viewing experiments and submitted photo responses
+- The profile bio mentions "Exalted Songbirds" and "temporal engineer" — esoteric/mystical language
+
+### Theme 2: Space / Astronomy / Asteroid Apophis
+- Tweet 1829626328934732081 was a quote tweet about redirecting Asteroid Apophis
+- Referenced "Bordygets Mathematics for Solar Seeding" — appears to be a novel/fringe scientific concept
+- Suggested locking Apophis in orbit as a "moon or seed for another planet"
+- Twitter API categorized this under NASA, Science, Space & astronomy, Aerospace
+- Interacted with @konstructivizm (major space/science account, 600K+ followers)
+
+### Theme 3: Consciousness / Esoteric Identity
+- Display name includes 𓂀 (Eye of Horus / Wedjat hieroglyph)
+- Bio: "Flying with The Exalted Songbirds who won't stop to sing for you. Im a temporal engineer in the day, quantum chronologist by night"
+- Location: "Parts Unknown"
+- URL: xcorp.com/EVEZ
+- Account name EVEZ with 666 number — esoteric/occult numerological significance
+
+---
+
+## 9. Profile Image Analysis
+
+- **Profile image URL:** https://pbs.twimg.com/profile_images/1819533596014923776/9jbDHAvg_normal.jpg
+- **Image ID:** 1819533596014923776 (uploaded ~August 2024 based on Twitter snowflake timestamp)
+- **Note:** The image was not directly fetched, but the URL suggests a custom profile picture uploaded by the user
+
+---
+
+## 10. Pinned Tweet
+
+- **Pinned Tweet ID:** 1798128398478573674
+- **Note:** This tweet was NOT archived by the Wayback Machine and its content is unknown
+- Based on the snowflake timestamp, it was likely posted in late May/early June 2024
+- It was the pinned tweet as of August 2024, suggesting it was important to the user
+
+---
+
+## 11. Technical Notes on Recovery Method
+
+### What Worked
+1. **Wayback Machine CDX API** (`web.archive.org/cdx/search/cdx`) — Successfully returned 233+ archived tweet URLs with timestamps
+2. **Wayback Machine `id_` modifier** — Successfully retrieved raw Twitter API JSON responses containing full tweet text, metadata, media URLs, user profiles, and conversation context
+3. **JSON parsing** — Twitter API v2 JSON responses were well-structured and contained rich metadata
+
+### What Didn't Work
+1. **Standard Wayback Machine rendering** — Returned empty page (Twitter requires JavaScript to render)
+2. **Bing search** — Did not index @EVEZ666 tweets; all searches returned irrelevant results or captcha challenges
+3. **Web search (Gemini)** — Rate limited (429 quota exceeded)
+4. **Nitter instances** — All down or blocked (nitter.net returned empty, privacydev.net blocked, poast.org 503)
+5. **ThreadReaderApp search** — Blocked by Bing captcha
+6. **Mobile/TweetDeck URLs** — No Wayback Machine snapshots for these URL patterns
+7. **x.com URLs** — No Wayback Machine snapshots (archiving was done before the Twitter→X rebrand was complete for these URL patterns)
+
+### Rate Limiting Issues
+- Wayback Machine began returning "fetch failed" after ~12 successful `id_` requests, preventing recovery of additional tweet content
+- This limited the content recovery to 2 fully extracted tweets out of 233+ archived IDs
+
+---
+
+## 12. Assessment: Recoverable vs. Permanently Lost
+
+### Recoverable
+- **233+ tweet IDs with archive timestamps** — All listed in this report
+- **Tweet content via `id_` modifier** — Proven to work (2 tweets fully recovered); rate limiting prevented more, but these URLs are viable for future recovery
+- **Full profile metadata** — Display name, bio, location, metrics, creation date, pinned tweet ID, profile image URL
+- **Social graph connections** — At least 2 interaction partners identified (@The_Astral_, @konstructivizm)
+- **Media URLs** — Twitter CDN image URLs (e.g., pbs.twimg.com/media/GWHGj9XbUAAk-9d.jpg) may still be accessible
+
+### Partially Recoverable (with more time/rate limit resets)
+- **~231 additional tweet texts** — The `id_` modifier method works; fetching these with delays between requests would recover content
+- **Tweets from Sep 16 onward** — CDX results were truncated; additional queries with different date ranges may find more
+- **Pre-August 2024 tweets** — The account had 10,079 tweets by Aug 29, but archiving only started Aug 28; earlier tweets may not be archived
+- **Pinned tweet content** — Tweet ID 1798128398478573674 was not in CDX results but could potentially be fetched directly
+
+### Likely Permanently Lost
+- **~9,800+ tweets** (out of 10,085 total) — Never archived by Wayback Machine, no other archive identified
+- **Deleted tweets/edits** — Twitter's edit history is preserved in the JSON (edit_history_tweet_ids field) but only for edits, not deletions
+- **Direct messages** — Never accessible via public archives
+- **Lists/bookmarks** — Not archived
+- **Tweet engagement metrics over time** — Only fresh-post metrics (all showing 0) are in the archived data
+
+### Recovery Priority Recommendations
+1. **Fetch remaining 231 `id_` URLs with delays** (5-10 second intervals) to recover all archived tweet text
+2. **Query CDX for additional date ranges** (Sep 16 onward) to find more archived tweets
+3. **Try fetching pinned tweet** 1798128398478573674 directly via Wayback
+4. **Try Google search** (not Bing) for cached EVEZ666 content
+5. **Check Google Cache** for twitter.com/EVEZ666 profile page
+6. **Try archive.today / archive.ph** — Alternative archiving service that may have captured rendered tweets
+7. **Check Twitter's API directly** — If API access is available, tweet IDs can be batch-queried
+8. **Monitor for account reactivation** — If @EVEZ666 comes back online, all 10,085 tweets may become accessible
+
+---
+
+## 13. Summary
+
+@EVEZ666 (Steven Crawford-Maggard) was an active Twitter user with 10,085+ tweets, 1,195 followers, and 36,368 likes as of late August 2024. The account was created in March 2023 and featured esoteric/mystical theming (Eye of Horus, "temporal engineer," "quantum chronologist").
+
+The Wayback Machine archived 233+ individual tweet URLs between August 28 and September 16, 2024 — a dense ~3-week archiving window suggesting deliberate archiving by a third party or bot. The archived content is in JSON format (Twitter API responses), not rendered HTML, which means the raw tweet data is fully recoverable with the right approach.
+
+Two tweets were fully recovered during this operation:
+1. A photo reply to @The_Astral_'s remote viewing challenge (paranormal/PSI content)
+2. A quote tweet about redirecting Asteroid Apophis using "Bordygets Mathematics for Solar Seeding" (space/fringe science content)
+
+The remaining 231 archived tweets could be recovered with additional fetch requests using the `id_` modifier, subject to Wayback Machine rate limits. Approximately 9,800+ tweets (97.7% of total output) were never archived and are likely permanently lost unless the account is reactivated.
+
+Bing search, web search, and nitter instances all failed to produce additional EVEZ666 content. The account is not indexed by major search engines for tweet content.
+
+**Key files:**
+- This report: `/home/openclaw/.openclaw/workspace/twitter-osint-deep.md`
+- 233 tweet IDs available for batch recovery via Wayback Machine `id_` URLs
+
+**End of Report**
+
+⧢ ⦟ ⧢ ⥋
