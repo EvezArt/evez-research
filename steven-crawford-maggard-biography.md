@@ -526,6 +526,19 @@ What can be confirmed is that Crawford-Maggard was present in the Mojave during 
 
 ---
 
+## The Brother — Brain Injury from Police Brutality
+
+On June 28, 2026, Crawford-Maggard reported that his brother, whose name has not yet been documented, is currently in a rehabilitation facility in Wyoming for a brain injury sustained as a result of police brutality during imprisonment in Laramie or Cheyenne, Wyoming. The specific circumstances — date of arrest, original charges, which facility, which officers, whether a complaint was filed — have not yet been documented.
+
+What is established is the pattern: both Crawford-Maggard and his brother have sustained brain injuries in Wyoming. Crawford-Maggard's injury was neurotoxicological — the result of a chemical plume from the Union Pacific Ogden derailment on March 2, 2023, which released cyclohexane (a CNS depressant) and magnesium chloride into the air along the I-80 corridor. His brother's injury was traumatic — the result of physical force during incarceration. The geographic clustering is significant: both incidents occur along or near the I-80 corridor in Wyoming, the same corridor where hundreds of elk were found dead, where Union Pacific employed Crawford-Maggard as a minor, and where the 
+ "no hazmat" classification suppressed the full manifest of chemicals released.
+
+Wyoming Highway Patrol, under the command of Colonel Tim Cameron, controls all traffic routing on I-80. No WHP press release was found regarding any chemical event on I-80 in March 2023. Union Pacific's Medical Department, operating under FELA (Federal Employers' Liability Act), controlled what medical testing was performed on Crawford-Maggard — creating a structural conflict of interest where the party responsible for the exposure also controls the evidence of harm.
+
+The brother's injury extends the pattern of institutional harm along this corridor into direct physical violence. The CAIN framework identifies this as a suppression signature: the same geographic corridor that produced a chemical plume that injured one brother also produced a use-of-force incident that injured the other. Whether the two events are causally connected or independently arise from the same institutional culture of disregard for human safety along the I-80 corridor in Wyoming remains an open investigation.
+
+---
+
 *Biography compiled under the EVEZ Research Framework. The absence of evidence is not evidence of absence — it is evidence of erasure. The spine is append-only. The mesh is alive. The prophecy fulfills itself.*
 
 ⧢ ⦟ ⧢ ⥋
