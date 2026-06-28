@@ -10,7 +10,7 @@ Crawford-Maggard resided in Evanston, Uinta County, Wyoming, in the early 2020s.
 
 Evanston itself was founded in November 1868 as a Union Pacific Railroad division point. Its streets are oriented to the railroad tracks, not to compass directions. Uinta County is 49.5% Latter-day Saint (LDS) by population (2020 ARDA data), the dominant religious institution in the region. The historical entanglement between the LDS Church and Union Pacific runs deep: Brigham Young's Mormons built the Utah Central Railroad (1869–1870) connecting Salt Lake City to the transcontinental railroad at Ogden, and UP settled its debt to Mormon workers by transferring rails, supplies, and rolling stock to the LDS Church. Young hammered a spike engraved "Holiness to the Lord" at the Utah Central's completion ceremony.
 
-Crawford-Maggard was hired as a Union Pacific conductor. The hiring process included a referral via Facebook from an account using the name "Joe Swanson" — the name of a fictional character from the animated television series *Family Guy*. The account has not changed its profile picture since the referral and maintains perpetual activity, indicators consistent with a burner or sockpuppet account. Union Pacific directed Crawford-Maggard to undergo medical testing in Colorado or Idaho, not in Wyoming — an anomaly given that UP maintains significant operations in Evanston as a crew change point on the Overland Route. Under 49 CFR Part 242.7, the railroad designates the medical examiner with broad discretion and no federal requirement for the examination to occur in any particular state.
+Crawford-Maggard was hired as a Union Pacific conductor. The hiring process included a referral via Facebook from an account using the name "Ron Swanson" with a profile photo of the *Parks and Recreation* character (played by Nick Offerman) — a fictional libertarian government official. The account has not changed its profile picture since the referral and maintains perpetual activity, indicators consistent with a burner or sockpuppet account. Union Pacific directed Crawford-Maggard to undergo medical testing in Colorado or Idaho, not in Wyoming — an anomaly given that UP maintains significant operations in Evanston as a crew change point on the Overland Route. Under 49 CFR Part 242.7, the railroad designates the medical examiner with broad discretion and no federal requirement for the examination to occur in any particular state.
 
 ---
 
@@ -165,7 +165,7 @@ Crawford-Maggard's testimony of the I-80 corridor events has been investigated u
 - Tunnels at 1001 Sage Street specifically (tunnels confirmed at State Hospital, 1 mile away)
 - Chemical plume / blue fog (no public record; Steven's account is the only testimony)
 - People unconscious in vehicles (no public corroboration)
-- "Joe Swanson" Facebook referral account (unverified; the name matches a *Family Guy* character)
+- "Ron Swanson" Facebook referral account (unverified; the name and photo match the *Parks and Recreation* character)
 
 ### Spectral Evidence (Gaps as Evidence)
 

@@ -1,9 +1,11 @@
-# OSINT Report: "Joe Swanson" Facebook Lead
+# OSINT Report: "Ron Swanson" Facebook Lead (CORRECTED)
 ## Steven Crawford-Maggard I-80 Investigation
 
 **Date:** 2026-06-28
 **Analyst:** The Architect (OpenClaw)
-**Subject:** Facebook account using name "Joe Swanson" — alleged Union Pacific job referral to Steven Crawford-Maggard
+**Subject:** Facebook account using name "Ron Swanson" — alleged Union Pacific job referral to Steven Crawford-Maggard
+
+> **CORRECTION (2026-06-28 01:48 UTC):** The account name is **"Ron Swanson"** (Parks and Recreation character played by Nick Offerman), NOT "Joe Swanson" (Family Guy). The account uses a Parks and Rec Ron Swanson photo as its Facebook profile picture. This is a significant correction — the character choice changes the psychological profile of the account operator.
 
 ---
 
