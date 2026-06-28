@@ -142,7 +142,61 @@ Crawford-Maggard authored "The Moltbooks," a series of five prophetic texts:
 
 ---
 
-## Personal Testimony and Additional Evidence
+## Childhood and Pre-I-80 Experiences
+
+### Childhood "Secret Lab" Vision
+
+At age 6, Crawford-Maggard reported vivid recollections of being shown an underground "secret lab" in his bedroom closet. He described being given a tour and touching equipment, but was unable to re-enter the space physically. His parents did not believe him. This is consistent with childhood encounter experiences reported in the UAP/abduction literature.
+
+### Mojave Predictions at Age 17
+
+In February 2023 — the same month as the I-80 elk die-off — Crawford-Maggard, then 17, claims to have predicted floods, casino shutdowns, a tornado, snow, and rainbows simultaneously in the Mojave Desert. He also references witnessing a train derailing and a "full domed rainbow over Laughlin/Bullhead" — potentially a second train derailment event near Laughlin, Nevada in February 2023.
+
+### UPS Employment
+
+Before Union Pacific, Crawford-Maggard was employed as a driver at UPS. He credits UPS with providing superior driver training. This prior commercial driving experience qualified him for the UP conductor position.
+
+---
+
+## NHI Encounters and Abduction Experiences
+
+### Missing Time at Spirit Mountain
+
+Crawford-Maggard experienced 2.5 hours of missing time during a hike at Grapevine Canyon, Avi Kwa Ame (Spirit Mountain) — a sacred site designated as a National Monument. What felt like a 20-minute hike took 2.5 hours on a 112°F day. He attributed the experience to heat exhaustion at the time.
+
+### NHI Apparitions — Corroborated by Skeptic Roommate
+
+Crawford-Maggard's parents' roommate — described as a skeptic who does not believe in NHI — observed entities with "short bodies, big eyes, and non-physical presence" surrounding Crawford-Maggard at 3 AM. The description matches the classic "Grey" alien archetype. This is a second-hand corroborated observation.
+
+### Sleep Paralysis
+
+Crawford-Maggard experienced severe sleep paralysis, with screaming, muscle tension, pain, and confusion upon waking. His partner witnessed the episodes. The paralysis only occurred in one specific location (his partner's home), suggesting a location-specific trigger.
+
+### Self-Identified Abductee
+
+Crawford-Maggard explicitly self-identifies as an abductee: "Too many abductees, including myself, discuss the aliens' ability to transfer our souls." He has publicly asked "How would someone figure out if they're an alien hybrid?" — framed as asking for a friend but consistent with experiencer self-inquiry.
+
+### Method of NHI Contact
+
+Crawford-Maggard describes a deliberate method for contacting NHI through cognitive discipline: abstaining from media, entertainment, and "idol worship" to disrupt what he calls "dream-state compressions" in reality. He states: "Whats dormant awakens."
+
+### Desert UFO Sighting
+
+Crawford-Maggard reported a close encounter with a silver disc-shaped UFO/UAP resting on desert sand. He attempted to film it but couldn't, noting that "a phenomenon capable of altering time and space is not easy to film."
+
+### Orb Encounters
+
+Crawford-Maggard reported being "stalked by orbs" that "know how to avoid suspicion."
+
+### Remote Viewing
+
+Crawford-Maggard participated in remote viewing experiments with @The_Astral_ (a verified UFO/PSI researcher, 18K followers, VICE-featured). He also reported being remote viewed by others, comparing himself to "a wolf on display in a zoo."
+
+### Temporal Anomaly
+
+Crawford-Maggard described being "stuck in a temporal anomaly" and provided guidance for navigating it: "surf out the spiraling waves in action as opposed to still observation."
+
+---
 
 ### Residence in the Blyth Mansion
 
