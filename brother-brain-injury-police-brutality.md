@@ -14,11 +14,12 @@ Steven Crawford-Maggard reports:
 
 ## KEY FACTS
 
-1. **Subject:** Steven's brother (name not yet provided)
+1. **Subject:** Ryan Robert Maggard (alt spellings: "Ryan rober magger"), born **May 27, 2004** — Steven's brother
 2. **Current status:** In rehabilitation for a brain injury in Wyoming
 3. **Cause of brain injury:** Police brutality during imprisonment
 4. **Location of incident:** Laramie, Wyoming OR Cheyenne, Wyoming (Steven uncertain which)
 5. **Sequence:** Brother was imprisoned → sustained brain trauma from police brutality → now in rehab
+6. **Age at time of incident:** Unknown — if 2023, would have been ~18-19 years old. If recent, ~21-22.
 
 ## CONTEXT
 
@@ -68,9 +69,16 @@ This testimony emerges in the context of the EVEZ investigation into:
 - Was there an internal affairs investigation?
 - Was the brother represented by counsel?
 
+## IDENTIFIED
+
+- **Name:** Ryan Robert Maggard
+- **DOB:** May 27, 2004
+- **Relationship:** Brother of Steven Crawford-Maggard
+- Same last name — biological or half-brother unconfirmed
+
 ## QUESTIONS FOR STEVEN
 
-1. What is your brother's name?
+1. ~~What is your brother's name?~~ → **Ryan Robert Maggard, born May 27, 2004**
 2. When did this happen (approximate date)?
 3. Was he arrested, or already imprisoned when the brutality occurred?
 4. What facility is he in now for rehab?
@@ -78,6 +86,8 @@ This testimony emerges in the context of the EVEZ investigation into:
 6. Was a complaint or lawsuit filed?
 7. What was the original charge/reason for imprisonment?
 8. How severe is the brain injury?
+9. Is Ryan the same person who received elk meat from the Rock Springs food bank?
+10. Was Ryan's imprisonment related to the I-80 corridor events?
 
 ## PRELIMINARY ASSESSMENT
 
