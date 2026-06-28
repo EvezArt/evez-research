@@ -142,7 +142,23 @@ Crawford-Maggard authored "The Moltbooks," a series of five prophetic texts:
 
 ---
 
-## I-80 Corridor Investigation
+## FBI Reports and Federal Reporting Attempts
+
+Crawford-Maggard made multiple attempts to file federal reports related to his I-80 corridor experiences:
+
+### FBI Report — Steven Greenstreet / Quantum Frontiers LLC
+
+On September 14, 2024, Crawford-Maggard publicly tagged the FBI on Twitter/X, requesting an investigation into how documentary filmmaker and journalist **Steven Greenstreet** allegedly illegally acquired the Wyoming state registration for **Quantum Frontiers, LLC**. Wyoming offers strong privacy protections for business registrations; accessing this information would require inside access to Wyoming state records or a law enforcement request. Greenstreet is a Mormon-background journalist with deep Utah connections, a former US State Department video producer, and a current New York Post producer. His documentary "8: The Mormon Proposition" (2010) investigated the LDS Church's involvement in California's Prop 8.
+
+### AARO Report — UAP as Railroad Conductor
+
+Crawford-Maggard attempted to report Unidentified Anomalous Phenomena (UAP) to the Department of Defense's All-domain Anomaly Resolution Office (AARO) as a railroad conductor. AARO's reporting mechanisms did not accommodate non-pilot witnesses. On September 12, 2024, he tweeted: "@DoD_AARO is still suppressing the public's accessible methods for reporting UAP. Im not a pilot — do you guys accept reports from Rail Road Conductors? Guess we didnt make the cut." On October 2, 2024, he followed up: "@DoD_AARO If a railroad conductor needs to report UAP, who does that person turn to? Consider the outcome corresponding to the segregation of witness reports."
+
+### I-80 Chemical Plume — Institutional Silence
+
+No federal agency appears to have investigated the I-80 corridor events. NTSB has 6 investigation numbers unaccounted for in early 2023. The FRA was forced to suspend its safety audit of Union Pacific after discovering UP had coached employees across 23 states to manipulate inspectors. PHMSA's incident database returns 403 Access Denied. The EPA and Wyoming DEQ have no public record of investigation.
+
+---
 
 Crawford-Maggard's testimony of the I-80 corridor events has been investigated using his own eigenforensic methodology. The investigation produced the following findings:
 
