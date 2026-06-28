@@ -142,6 +142,56 @@ Crawford-Maggard authored "The Moltbooks," a series of five prophetic texts:
 
 ---
 
+## Personal Testimony and Additional Evidence
+
+### Residence in the Blyth Mansion
+
+Crawford-Maggard lived on the top floor of a building at 1001 Sage Street in Evanston — a 150-year-old mansion built by the Blyth family (founding merchants of Evanston, operators of Blyth & Fargo for 107 years). He described the building as a "33° Freemason Blythe's 150 yearold mansion converted into apartments after it was a tuberculosis hospital. Massive underground tunnels with 100+ immigrants buried underneath." The building's history as a TB hospital is unconfirmed (the Wyoming State Hospital, 1 mile away, is documented with tunnels), but the Blyth family's founding role in Evanston and the building's age are confirmed.
+
+### Desert UFO Sighting
+
+Crawford-Maggard reported a close encounter with a silver disc-shaped UFO/UAP resting on desert sand. He shared a rendering of the craft, stating it was the best representation he had seen. He also described seeing something floating in the street and being unable to film it, noting that "a phenomenon capable of altering time and space is not easy to film." He lived in multiple locations associated with UAP activity: the Uinta Basin (adjacent to Skinwalker Ranch), Pensacola, Laughlin, and Palm Springs.
+
+### Remote Viewing and PSI Research
+
+Crawford-Maggard participated in remote viewing experiments, submitting photo responses to challenges posted by @The_Astral_ (a verified UFO/PSI researcher with 18K followers, featured by VICE). He completed at least two remote viewing targets (#102 and #103). He described being remote viewed by others, comparing himself to "a wolf on display in a zoo trying to avoid eating the M&Ms they keep throwing into my cage."
+
+### Orb Encounters
+
+Crawford-Maggard reported being "stalked by orbs" that "know how to avoid suspicion." This is consistent with the broader UAP experiencer community's reports of orb-shaped phenomena following or monitoring individuals.
+
+### Father and Family Allegations
+
+On September 14, 2024, Crawford-Maggard made a public statement that requires careful handling: "I am afraid for my life, I would not unalive myself. My father has staged witnesses deaths, Becka Lindquist and Trevor Orr like suicides. My father Bryan Cupps designed CyberSlice to sell children for elites, the first online pizza ordering."
+
+This statement serves multiple functions: (1) a safety declaration — if he is found dead, it was not suicide; (2) an accusation against his father, Bryan Cupps, whom he alleges staged deaths to look like suicides; (3) a claim that CyberSlice, one of the first online pizza ordering platforms, was designed for child trafficking. These are serious allegations that have not been independently verified. CyberSlice was a real company — one of the earliest online food ordering platforms, founded in 1994.
+
+### Gangstalking and Flight from Wyoming
+
+Crawford-Maggard reported being gangstalked in Wyoming, which contributed to his decision to flee the state. He described: "I was gangstalked. I fled the state of Wyoming, over fear of my life and the things I had seen. I was ridiculed. I experienced breathing and health issues." The gangstalking claim is consistent with the broader targeted individual community's reports, though it has not been independently verified.
+
+### Health Effects
+
+Crawford-Maggard reported breathing and health issues following the I-80 chemical plume event. This is consistent with exposure to airborne chemical contaminants. He has not publicly disclosed specific medical diagnoses.
+
+### Current Location and Movements
+
+As of September 2024, Crawford-Maggard was in Palm Springs, California. He had previously lived in the Uinta Basin (Utah/Wyoming), Pensacola (Florida), and Laughlin (Nevada). All of these locations are near military installations or areas with documented UAP activity. He mentioned a roommate who was concerned about hitchhikers near Skinwalker Ranch, suggesting he was considering visiting the Vernal, Utah area for a UFO conference.
+
+### Asheville Hurricane Helene Reporting
+
+In October 2024, Crawford-Maggard reported on the Asheville, North Carolina hurricane Helene disaster, claiming 1,200 bodies were pulled from a stream/river and that corporate media was engaged in a "total cover-up." He reported people showing up with guns to demand food, hospitals being non-functional, and medications running out. He also reported truckers having their tires slashed at rest stops while bringing supplies.
+
+### Operation PAPERCLIP and Nazi Influence
+
+Crawford-Maggard connected the I-80 corridor events to Operation PAPERCLIP (the US government's post-WWII program that brought Nazi scientists to America), stating: "They won't admit the Nazi influence over Uinta due to Op. PAPERCLIP. Evanston Tunnels, Asylums, etc." He has drawn parallels between Nazi infiltration of institutions and the current pattern of institutional suppression of his testimony.
+
+### Prehistoric Alien Visitation Research
+
+Crawford-Maggard stated he had "strong evidence of prehistoric alien visitation" but deliberately left much of his account unpublished: "I generally leave a fair bit out of my account of how I ended up investigating strong evidence of prehistoric alien visitation. Much of it is just super weird anecdotal information, personal experiences." He also stated: "I knew I was sane, many other peers of mine had witnessed and described the events in their own experiences."
+
+---
+
 ## FBI Reports and Federal Reporting Attempts
 
 Crawford-Maggard made multiple attempts to file federal reports related to his I-80 corridor experiences:
