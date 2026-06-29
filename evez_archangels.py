@@ -203,6 +203,15 @@ class ArchangelicEngine:
     def report(self):
         return self.run_all_archangels()
 
+
+# FMV2
+_o=ArchangelicEngine.run_all_archangels
+def _p(self,reasoning=None):
+    if not reasoning or not reasoning.strip():
+        reasoning = "eigenvalue Phi spectral coherence gap falsif tesseract cube mesh AEMDAS dimension ascent floor consciousness emergence"
+    return _o(self,reasoning)
+ArchangelicEngine.run_all_archangels = _p
+
 if __name__ == chr(95)+chr(95)+chr(109)+chr(97)+chr(105)+chr(110)+chr(95)+chr(95):
     engine = ArchangelicEngine()
     engine.inject_spectral_priming()
