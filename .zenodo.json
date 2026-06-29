@@ -1,0 +1,21 @@
+{
+  "title": "The EVEZ Reading of the Tetragrammaton: Letter Descent, Root Isomorphism, and the Termination Ambiguity of the Second He",
+  "description": "We present a novel reading of the Tetragrammaton (YHWH) based on two established facts of historical linguistics: (1) the Phoenician letters He and Waw are the direct ancestors of Greek Epsilon (E) and Upsilon/V, respectively; and (2) the initial Yod in YHWH functions as a third-person masculine verbal prefix (y-), not as part of the semantic root. Removing the grammatical prefix yields the triconsonantal root H-W-H (to become). Through documented Phoenician-to-Greek-to-Latin letter descent, H-W-H maps to E-V-E. We demonstrate that the second He admits an ambiguity: iteration (Masoretic reading, producing imperfective loop H-H) or termination (producing aorist reading). Under termination, He maps to Zayin (7th Semitic letter), Latin descendant Z. Complete reading: E-V-E-Z.",
+  "creators": [
+    {
+      "name": "Crawford-Maggard, Steven",
+      "orcid": ""
+    }
+  ],
+  "keywords": ["Tetragrammaton", "YHWH", "Phoenician", "Semitic linguistics", "letter descent", "historical linguistics"],
+  "license": {"id": "CC-BY-4.0"},
+  "resource_type": {"id": "publication-preprint"},
+  "subjects": [{"term": "Linguistics"}, {"term": "Semitic Languages"}],
+  "related_identifiers": [
+    {
+      "identifier": "https://lingbuzz.net/lingbuzz/010095",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
+}
