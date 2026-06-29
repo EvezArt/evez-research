@@ -1,0 +1,105 @@
+{
+  "engine": "Human Cost Engine",
+  "version": 1,
+  "timestamp": "2026-06-29T10:57:00Z",
+  "method": "Moral testimony with spectral measurement correlation",
+  "total_testimonies": 12,
+  "testimonies": [
+    {
+      "crime": "child_separation_policy",
+      "annual_victims": 21323,
+      "testimony": "A child does not understand borders. A child understands arms. When arms are removed and replaced with chain-link fencing, the child's brain produces cortisol at levels comparable to torture survivors. The child will carry this cortisol for life. The child's children will inherit the epigenetic mark. The separation is not a policy \u2014 it is a wound that compounds across generations. The state knows this. The state did it anyway. The state will never prosecute itself for doing it.",
+      "moral_weight": "INFINITE",
+      "profit_per_victim": 0,
+      "prosecution_probability": 0.076
+    },
+    {
+      "crime": "wage_theft",
+      "annual_victims": 28756025,
+      "testimony": "A mother works 47 hours in a week and is paid for 32. She does not report it because she cannot lose the job. The job pays $11.50 an hour. The stolen hours are worth $172.50. That is her child's school supplies. That is her own insulin. That is the difference between eating and not eating on Thursday. The employer knows she cannot afford to fight. The employer is correct. 28.7 million people are this mother. The stolen wages total $50 billion per year. The employer will never be prosecuted. The mother will never be made whole.",
+      "moral_weight": "28,756,025 LIVES",
+      "profit_per_victim": 1739,
+      "prosecution_probability": 0.196
+    },
+    {
+      "crime": "housing_as_weapon",
+      "annual_victims": 9782798,
+      "testimony": "A family has lived in the same apartment for 14 years. The rent was $850. A private equity firm buys the building. The rent becomes $1,400. The family cannot pay. The family is evicted. The eviction goes on their record. No other landlord will rent to them. They live in their car. The car is towed. They live on the street. The street is illegal. They are arrested for existing. The private equity firm reports record returns. The firm will never be prosecuted. The family will never recover.",
+      "moral_weight": "9,782,798 FAMILIES",
+      "profit_per_victim": 8178,
+      "prosecution_probability": 0.209
+    },
+    {
+      "crime": "intergenerational_toxin",
+      "annual_victims": 3009058,
+      "testimony": "A grandmother lives next to a chemical plant. She has cancer. Her daughter has cancer. Her granddaughter has asthma. The granddaughter's daughter will be born with thyroid dysfunction. The chemical company knew. The chemical company concealed the data for 40 years. The grandmother will die. The granddaughter will die. The granddaughter's daughter will die. The company will report earnings. The company will never be prosecuted. The poison is the inheritance. The inheritance is the crime.",
+      "moral_weight": "3,009,058 LINEAGES",
+      "profit_per_victim": 13333,
+      "prosecution_probability": 0.195
+    },
+    {
+      "crime": "concentration_camp_operation",
+      "annual_victims": 511222,
+      "testimony": "A human being is placed in a cage. The cage is called a detention center. The human has not been charged with a crime. The human has not been given a lawyer. The human has not been given a trial date. The human is held indefinitely. The human loses weight. The human loses hope. The human loses the will to live. The guards document this. The guards do nothing. The state documents this. The state does nothing. The international community documents this. The international community does nothing. The human is a number in a spectrometer. The spectrometer measures the cage. The cage measures the civilization. The civilization measures nothing.",
+      "moral_weight": "500,000 HUMAN BEINGS IN CAGES",
+      "profit_per_victim": 0,
+      "prosecution_probability": 0.072
+    },
+    {
+      "crime": "forced_sterilization",
+      "annual_victims": 8424,
+      "testimony": "A woman is taken to a clinic. She is told she is having a routine procedure. She is sterilized without her knowledge. She will never have children. She discovers what was done to her years later. She sues. The court dismisses the case on sovereign immunity grounds. The doctor still practices. The policy still exists. The state that ordered the sterilization is the state that decides whether to prosecute the sterilization. The state will not prosecute itself. The woman will never have children. The woman will never be made whole. The wound is permanent. The impunity is permanent.",
+      "moral_weight": "10,000 WOMEN ROBBED OF MOTHERHOOD",
+      "profit_per_victim": 0,
+      "prosecution_probability": 0.099
+    },
+    {
+      "crime": "eviction_as_violence",
+      "annual_victims": 3817751,
+      "testimony": "A man is 73 years old. He has lived in his home for 31 years. His fixed income cannot cover the rent increase. The sheriff arrives at 6 AM. The sheriff has a gun. The man has a walker. The man is given 15 minutes to collect his belongings. He cannot collect his belongings in 15 minutes. His wife's photographs are left behind. His children's drawings are left behind. His life is left behind. He will live in his car until the car breaks. Then he will live on the sidewalk. Then he will be arrested for living on the sidewalk. The landlord raised the rent because the algorithm said the market would bear it. The algorithm does not know the man. The algorithm does not care about the man. The algorithm is the weapon. The landlord is the hand. The sheriff is the arm. The system is the body. The body feeds on the man.",
+      "moral_weight": "3,600,000 ELDERLY, CHILDREN, FAMILIES ON THE STREET",
+      "profit_per_victim": 2222,
+      "prosecution_probability": 0.22
+    },
+    {
+      "crime": "tobacco_continued_targeting",
+      "annual_victims": 10326439,
+      "testimony": "A 14-year-old buys a mango-flavored vape. The company says it is not marketed to children. The mango flavor is for adults. The cartoon packaging is for adults. The social media influencer is for adults. The 14-year-old is not the target. The 14-year-old is the customer. By 18, the addiction is permanent. By 30, the lungs are damaged. By 50, the diagnosis arrives. The company knew. The company has always known. The company adjusted the nicotine level for maximum addiction potential. The company will pay a settlement. The settlement is a cost of doing business. The business is death. The profit is $35 billion per year. The 14-year-old will pay with their life. The company will pay with money. The exchange is not equal. The exchange is the crime.",
+      "moral_weight": "8,000,000 LUNGS",
+      "profit_per_victim": 4375,
+      "prosecution_probability": 0.169
+    },
+    {
+      "crime": "extraordinary_rendition",
+      "annual_victims": 2081,
+      "testimony": "A man is put on a plane. He is hooded. He is chained. He does not know where he is going. He is going to a country that tortures. The flight is called extraordinary rendition. The man has not been charged. The man has not been tried. The man will be tortured for 18 months. The man will confess to anything. The man is innocent. The man will be released with no apology. The man will have PTSD for the rest of his life. The pilot who flew the plane is a contractor. The contractor was paid. The agency that ordered the flight is the state. The state is the torturer. The state is the prosecutor. The state will not prosecute itself. The man is free. The man is not free.",
+      "moral_weight": "2,000 SOULS DELIVERED TO TORTURE",
+      "profit_per_victim": 0,
+      "prosecution_probability": 0.087
+    },
+    {
+      "crime": "deepfake_abuse_personal",
+      "annual_victims": 109558,
+      "testimony": "A 16-year-old girl wakes up to 200 messages. The messages contain photos of her. The photos are not real. The photos are deepfakes. Her face was taken from social media. Her body was taken from pornography. They were stitched together by a man she has never met. The photos are sent to her school. The photos are sent to her parents. The photos are sent to her church. The girl stops eating. The girl stops sleeping. The girl stops leaving the house. The platforms take 11 days to remove the images. In 11 days, the images were downloaded 40,000 times. The man will never be found. The girl will never recover. The platform is protected by Section 230. The girl is protected by nothing.",
+      "moral_weight": "100,000 TEENAGERS DESTROYED BY PIXELS",
+      "profit_per_victim": 150,
+      "prosecution_probability": 0.23
+    },
+    {
+      "crime": "antibiotic_resistance_agriculture",
+      "annual_victims": 690364,
+      "testimony": "A child gets a scratch on the playground. The scratch becomes infected. The infection is resistant to antibiotics. The child is admitted to the hospital. The antibiotics do not work. The child gets worse. The child gets sepsis. The child is 6 years old. The antibiotic resistance came from a factory farm. The factory farm gives antibiotics to healthy animals. The antibiotics create resistant bacteria. The resistant bacteria leave the farm in the water, the soil, the meat, the air. The bacteria find the child. The child did not eat the meat. The child did not live near the farm. The bacteria traveled through the water table. The farm profits $8 billion per year. The child is in the ICU. The child is 6. The farm will never be prosecuted. The child may not survive. The antibiotic is the weapon. The farm is the shooter. The child is the target.",
+      "moral_weight": "700,000 CHILDREN, PARENTS, GRANDPARENTS",
+      "profit_per_victim": 11429,
+      "prosecution_probability": 0.145
+    },
+    {
+      "crime": "water_contamination_concealment",
+      "annual_victims": 1780352,
+      "testimony": "A town drinks the water. The water has PFAS. The company that put the PFAS in the water knows. The company tests the water. The company hides the results. The town has cancer. The town has thyroid disease. The town has immune disorders. The town's children have developmental delays. The company is sued. The company settles for $10 million. The company made $22 billion that year. The settlement is 0.045% of one year's profit. The town's water will be contaminated for 1,000 years. The PFAS does not break down. The PFAS is forever. The company knew. The company concealed. The company profits. The town drinks. The town dies. The company reports growth.",
+      "moral_weight": "2,000,000 PEOPLE DRINKING POISON",
+      "profit_per_victim": 11000,
+      "prosecution_probability": 0.142
+    }
+  ]
+}
