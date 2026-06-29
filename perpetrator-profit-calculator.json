@@ -1,0 +1,945 @@
+{
+  "engine": "Perpetrator Economic Profit Calculator",
+  "version": 1,
+  "timestamp": "2026-06-29T10:47:00Z",
+  "total_annual_profit": 502310263697.47,
+  "method": "Profit estimation from avoided costs + direct revenue + monopoly rents",
+  "results": [
+    {
+      "crime_name": "housing_as_weapon",
+      "annual_profit": 80000000000.0,
+      "annual_victim_cost": 95703139264.31,
+      "profit_to_harm_ratio": 0.8359,
+      "annual_victims": 9782798,
+      "profit_per_victim": 8177.62,
+      "prosecution_probability": 0.2093
+    },
+    {
+      "crime_name": "wage_theft",
+      "annual_profit": 50000000000.0,
+      "annual_victim_cost": 55127265002.45,
+      "profit_to_harm_ratio": 0.907,
+      "annual_victims": 28756025,
+      "profit_per_victim": 1738.77,
+      "prosecution_probability": 0.1964
+    },
+    {
+      "crime_name": "intergenerational_toxin",
+      "annual_profit": 40000000000.0,
+      "annual_victim_cost": 60362878482.39,
+      "profit_to_harm_ratio": 0.6627,
+      "annual_victims": 3009058,
+      "profit_per_victim": 13293.2,
+      "prosecution_probability": 0.1953
+    },
+    {
+      "crime_name": "tobacco_continued_targeting",
+      "annual_profit": 35000000000.0,
+      "annual_victim_cost": 66647090413.24,
+      "profit_to_harm_ratio": 0.5252,
+      "annual_victims": 10326439,
+      "profit_per_victim": 3389.36,
+      "prosecution_probability": 0.1688
+    },
+    {
+      "crime_name": "bribe_network_international",
+      "annual_profit": 30000000000.0,
+      "annual_victim_cost": 2457965699.22,
+      "profit_to_harm_ratio": 12.2052,
+      "annual_victims": 110859,
+      "profit_per_victim": 270614.02,
+      "prosecution_probability": 0.1597
+    },
+    {
+      "crime_name": "land_grab",
+      "annual_profit": 25000000000.0,
+      "annual_victim_cost": 1962513317.63,
+      "profit_to_harm_ratio": 12.7388,
+      "annual_victims": 99058,
+      "profit_per_victim": 252377.4,
+      "prosecution_probability": 0.1797
+    },
+    {
+      "crime_name": "platform_monopoly_abuse",
+      "annual_profit": 25000000000.0,
+      "annual_victim_cost": 2073440031.73,
+      "profit_to_harm_ratio": 12.0573,
+      "annual_victims": 101819,
+      "profit_per_victim": 245533.74,
+      "prosecution_probability": 0.1816
+    },
+    {
+      "crime_name": "water_contamination_concealment",
+      "annual_profit": 22000000000.0,
+      "annual_victim_cost": 15848267071.97,
+      "profit_to_harm_ratio": 1.3882,
+      "annual_victims": 1780352,
+      "profit_per_victim": 12357.11,
+      "prosecution_probability": 0.1417
+    },
+    {
+      "crime_name": "planned_obsolescence",
+      "annual_profit": 20000000000.0,
+      "annual_victim_cost": 1933210496.22,
+      "profit_to_harm_ratio": 10.3455,
+      "annual_victims": 98316,
+      "profit_per_victim": 203425.69,
+      "prosecution_probability": 0.1453
+    },
+    {
+      "crime_name": "pesticide_harm_concealment",
+      "annual_profit": 18000000000.0,
+      "annual_victim_cost": 17537629319.48,
+      "profit_to_harm_ratio": 1.0264,
+      "annual_victims": 1081284,
+      "profit_per_victim": 16646.88,
+      "prosecution_probability": 0.1455
+    },
+    {
+      "crime_name": "agricultural_monopoly",
+      "annual_profit": 18000000000.0,
+      "annual_victim_cost": 2254798192.93,
+      "profit_to_harm_ratio": 7.983,
+      "annual_victims": 106179,
+      "profit_per_victim": 169525.05,
+      "prosecution_probability": 0.168
+    },
+    {
+      "crime_name": "enshitification",
+      "annual_profit": 15000000000.0,
+      "annual_victim_cost": 2228970964.74,
+      "profit_to_harm_ratio": 6.7296,
+      "annual_victims": 105569,
+      "profit_per_victim": 142087.17,
+      "prosecution_probability": 0.1453
+    },
+    {
+      "crime_name": "crypto_crime",
+      "annual_profit": 15000000000.0,
+      "annual_victim_cost": 19744461218.29,
+      "profit_to_harm_ratio": 0.7597,
+      "annual_victims": 5736500,
+      "profit_per_victim": 2614.83,
+      "prosecution_probability": 0.1848
+    },
+    {
+      "crime_name": "consumer_fraud_systematic",
+      "annual_profit": 12000000000.0,
+      "annual_victim_cost": 1702308962.46,
+      "profit_to_harm_ratio": 7.0492,
+      "annual_victims": 92258,
+      "profit_per_victim": 130070.02,
+      "prosecution_probability": 0.1288
+    },
+    {
+      "crime_name": "right_to_repair_violation",
+      "annual_profit": 12000000000.0,
+      "annual_victim_cost": 2472617974.46,
+      "profit_to_harm_ratio": 4.8532,
+      "annual_victims": 111189,
+      "profit_per_victim": 107924.35,
+      "prosecution_probability": 0.1391
+    },
+    {
+      "crime_name": "dark_pattern_deception",
+      "annual_profit": 10000000000.0,
+      "annual_victim_cost": 2028472382.06,
+      "profit_to_harm_ratio": 4.9298,
+      "annual_victims": 100709,
+      "profit_per_victim": 99295.99,
+      "prosecution_probability": 0.1472
+    },
+    {
+      "crime_name": "data_breach_negligence",
+      "annual_profit": 8000000000.0,
+      "annual_victim_cost": 2111524853.04,
+      "profit_to_harm_ratio": 3.7887,
+      "annual_victims": 102750,
+      "profit_per_victim": 77858.88,
+      "prosecution_probability": 0.1407
+    },
+    {
+      "crime_name": "antibiotic_resistance_agriculture",
+      "annual_profit": 8000000000.0,
+      "annual_victim_cost": 13617232526.44,
+      "profit_to_harm_ratio": 0.5875,
+      "annual_victims": 690364,
+      "profit_per_victim": 11588.09,
+      "prosecution_probability": 0.1814
+    },
+    {
+      "crime_name": "ai_washing_fraud",
+      "annual_profit": 7000000000.0,
+      "annual_victim_cost": 2490610270.32,
+      "profit_to_harm_ratio": 2.8106,
+      "annual_victims": 111593,
+      "profit_per_victim": 62727.95,
+      "prosecution_probability": 0.1648
+    },
+    {
+      "crime_name": "credit_rating_fraud",
+      "annual_profit": 6000000000.0,
+      "annual_victim_cost": 1657483764.05,
+      "profit_to_harm_ratio": 3.6199,
+      "annual_victims": 91035,
+      "profit_per_victim": 65908.72,
+      "prosecution_probability": 0.1839
+    },
+    {
+      "crime_name": "pharma_experimentation_developing",
+      "annual_profit": 5000000000.0,
+      "annual_victim_cost": 2639634151.26,
+      "profit_to_harm_ratio": 1.8942,
+      "annual_victims": 51377,
+      "profit_per_victim": 97319.81,
+      "prosecution_probability": 0.0993
+    },
+    {
+      "crime_name": "audit_fraud",
+      "annual_profit": 5000000000.0,
+      "annual_victim_cost": 1949460956.1,
+      "profit_to_harm_ratio": 2.5648,
+      "annual_victims": 98728,
+      "profit_per_victim": 50644.19,
+      "prosecution_probability": 0.1455
+    },
+    {
+      "crime_name": "election_hacking",
+      "annual_profit": 4135650775.88,
+      "annual_victim_cost": 41356507758.76,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 369427226,
+      "profit_per_victim": 11.19,
+      "prosecution_probability": 0.1777
+    },
+    {
+      "crime_name": "eviction_as_violence",
+      "annual_profit": 3238938852.15,
+      "annual_victim_cost": 32389388521.45,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 3817751,
+      "profit_per_victim": 848.39,
+      "prosecution_probability": 0.1842
+    },
+    {
+      "crime_name": "wildlife_trafficking",
+      "annual_profit": 3000000000.0,
+      "annual_victim_cost": 404468687.97,
+      "profit_to_harm_ratio": 7.4171,
+      "annual_victims": 44970,
+      "profit_per_victim": 66711.14,
+      "prosecution_probability": 0.124
+    },
+    {
+      "crime_name": "depleted_uranium_generational",
+      "annual_profit": 2904719427.28,
+      "annual_victim_cost": 29047194272.83,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 538954,
+      "profit_per_victim": 5389.55,
+      "prosecution_probability": 0.2108
+    },
+    {
+      "crime_name": "concentration_camp_operation",
+      "annual_profit": 2613480573.08,
+      "annual_victim_cost": 26134805730.84,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 511222,
+      "profit_per_victim": 5112.22,
+      "prosecution_probability": 0.0716
+    },
+    {
+      "crime_name": "food_desert_engineering",
+      "annual_profit": 2285889812.48,
+      "annual_victim_cost": 22858898124.77,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 4781098,
+      "profit_per_victim": 478.11,
+      "prosecution_probability": 0.1561
+    },
+    {
+      "crime_name": "cultural_genocide",
+      "annual_profit": 2002967196.99,
+      "annual_victim_cost": 20029671969.94,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 4475452,
+      "profit_per_victim": 447.55,
+      "prosecution_probability": 0.1079
+    },
+    {
+      "crime_name": "vaccine_disinformation",
+      "annual_profit": 1692703753.37,
+      "annual_victim_cost": 16927037533.67,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 531147,
+      "profit_per_victim": 3186.88,
+      "prosecution_probability": 0.1986
+    },
+    {
+      "crime_name": "sexual_violence_weapon",
+      "annual_profit": 1341013344.69,
+      "annual_victim_cost": 13410133446.9,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 189104,
+      "profit_per_victim": 7091.41,
+      "prosecution_probability": 0.1671
+    },
+    {
+      "crime_name": "cyber_warfare_state",
+      "annual_profit": 1246335804.15,
+      "annual_victim_cost": 12463358041.55,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 1116394,
+      "profit_per_victim": 1116.39,
+      "prosecution_probability": 0.1056
+    },
+    {
+      "crime_name": "worker_safety_homicide",
+      "annual_profit": 698442815.44,
+      "annual_victim_cost": 6984428154.44,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 144752,
+      "profit_per_victim": 4825.1,
+      "prosecution_probability": 0.1742
+    },
+    {
+      "crime_name": "child_soldier_recruitment",
+      "annual_profit": 484074109.11,
+      "annual_victim_cost": 4840741091.06,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 49197,
+      "profit_per_victim": 9839.5,
+      "prosecution_probability": 0.1222
+    },
+    {
+      "crime_name": "scientific_fraud_health",
+      "annual_profit": 369199908.79,
+      "annual_victim_cost": 3691999087.91,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 85930,
+      "profit_per_victim": 4296.52,
+      "prosecution_probability": 0.1632
+    },
+    {
+      "crime_name": "human_shield_forcing",
+      "annual_profit": 293501771.14,
+      "annual_victim_cost": 2935017711.43,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 29673,
+      "profit_per_victim": 9891.21,
+      "prosecution_probability": 0.1231
+    },
+    {
+      "crime_name": "memory_hole",
+      "annual_profit": 282815882.44,
+      "annual_victim_cost": 2828158824.44,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 118915,
+      "profit_per_victim": 2378.3,
+      "prosecution_probability": 0.2071
+    },
+    {
+      "crime_name": "autonomous_ai_crime",
+      "annual_profit": 276638264.27,
+      "annual_victim_cost": 2766382642.7,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 117609,
+      "profit_per_victim": 2352.19,
+      "prosecution_probability": 0.1276
+    },
+    {
+      "crime_name": "narcotic_state_trade",
+      "annual_profit": 273659017.39,
+      "annual_victim_cost": 2736590173.86,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 116974,
+      "profit_per_victim": 2339.49,
+      "prosecution_probability": 0.118
+    },
+    {
+      "crime_name": "historical_revisionism",
+      "annual_profit": 272340639.33,
+      "annual_victim_cost": 2723406393.31,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 116692,
+      "profit_per_victim": 2333.84,
+      "prosecution_probability": 0.1704
+    },
+    {
+      "crime_name": "indigenous_land_violation",
+      "annual_profit": 268671715.61,
+      "annual_victim_cost": 2686717156.11,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 115903,
+      "profit_per_victim": 2318.07,
+      "prosecution_probability": 0.2006
+    },
+    {
+      "crime_name": "forced_labor_corporate",
+      "annual_profit": 263889716.47,
+      "annual_victim_cost": 2638897164.65,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 114867,
+      "profit_per_victim": 2297.35,
+      "prosecution_probability": 0.174
+    },
+    {
+      "crime_name": "judicial_corruption",
+      "annual_profit": 244724049.06,
+      "annual_victim_cost": 2447240490.64,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 110617,
+      "profit_per_victim": 2212.35,
+      "prosecution_probability": 0.1869
+    },
+    {
+      "crime_name": "sanctions_evasion",
+      "annual_profit": 244467596.97,
+      "annual_victim_cost": 2444675969.69,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 110559,
+      "profit_per_victim": 2211.2,
+      "prosecution_probability": 0.2001
+    },
+    {
+      "crime_name": "epistemic_violence",
+      "annual_profit": 237128893.12,
+      "annual_victim_cost": 2371288931.2,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 108887,
+      "profit_per_victim": 2177.75,
+      "prosecution_probability": 0.1534
+    },
+    {
+      "crime_name": "child_separation_policy",
+      "annual_profit": 227335835.59,
+      "annual_victim_cost": 2273358355.95,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 21323,
+      "profit_per_victim": 10661.53,
+      "prosecution_probability": 0.0756
+    },
+    {
+      "crime_name": "ip_theft",
+      "annual_profit": 224618672.28,
+      "annual_victim_cost": 2246186722.81,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 105976,
+      "profit_per_victim": 2119.52,
+      "prosecution_probability": 0.1708
+    },
+    {
+      "crime_name": "international_law_violation",
+      "annual_profit": 220241558.14,
+      "annual_victim_cost": 2202415581.36,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 104938,
+      "profit_per_victim": 2098.78,
+      "prosecution_probability": 0.1706
+    },
+    {
+      "crime_name": "deepfake_weaponization",
+      "annual_profit": 217462677.07,
+      "annual_victim_cost": 2174626770.72,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 104274,
+      "profit_per_victim": 2085.49,
+      "prosecution_probability": 0.157
+    },
+    {
+      "crime_name": "seed_patent_extortion",
+      "annual_profit": 207697681.9,
+      "annual_victim_cost": 2076976819.0,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 101906,
+      "profit_per_victim": 2038.13,
+      "prosecution_probability": 0.1786
+    },
+    {
+      "crime_name": "asylum_denial_illegal",
+      "annual_profit": 206606596.28,
+      "annual_victim_cost": 2066065962.78,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 101638,
+      "profit_per_victim": 2032.77,
+      "prosecution_probability": 0.1834
+    },
+    {
+      "crime_name": "sovereignty_violation",
+      "annual_profit": 206066713.33,
+      "annual_victim_cost": 2060667133.27,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 101505,
+      "profit_per_victim": 2030.11,
+      "prosecution_probability": 0.1866
+    },
+    {
+      "crime_name": "illegal_fishing",
+      "annual_profit": 204316059.51,
+      "annual_victim_cost": 2043160595.13,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 101073,
+      "profit_per_victim": 2021.47,
+      "prosecution_probability": 0.1665
+    },
+    {
+      "crime_name": "medical_experimentation",
+      "annual_profit": 200779843.41,
+      "annual_victim_cost": 2007798434.08,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 10019,
+      "profit_per_victim": 20039.91,
+      "prosecution_probability": 0.1483
+    },
+    {
+      "crime_name": "automated_decision_harm",
+      "annual_profit": 196555009.53,
+      "annual_victim_cost": 1965550095.29,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 99135,
+      "profit_per_victim": 1982.7,
+      "prosecution_probability": 0.2105
+    },
+    {
+      "crime_name": "orphan_drug_exploitation",
+      "annual_profit": 196186962.08,
+      "annual_victim_cost": 1961869620.77,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 99042,
+      "profit_per_victim": 1980.85,
+      "prosecution_probability": 0.1738
+    },
+    {
+      "crime_name": "academic_capture",
+      "annual_profit": 195784284.81,
+      "annual_victim_cost": 1957842848.13,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 98940,
+      "profit_per_victim": 1978.82,
+      "prosecution_probability": 0.1723
+    },
+    {
+      "crime_name": "timber_trafficking",
+      "annual_profit": 194660890.58,
+      "annual_victim_cost": 1946608905.82,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 98656,
+      "profit_per_victim": 1973.13,
+      "prosecution_probability": 0.1963
+    },
+    {
+      "crime_name": "digital_redlining",
+      "annual_profit": 194531152.25,
+      "annual_victim_cost": 1945311522.48,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 98623,
+      "profit_per_victim": 1972.47,
+      "prosecution_probability": 0.1618
+    },
+    {
+      "crime_name": "predictive_policing_bias",
+      "annual_profit": 193954833.42,
+      "annual_victim_cost": 1939548334.22,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 98477,
+      "profit_per_victim": 1969.54,
+      "prosecution_probability": 0.1465
+    },
+    {
+      "crime_name": "commarket_manipulation",
+      "annual_profit": 191629943.2,
+      "annual_victim_cost": 1916299431.96,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 97885,
+      "profit_per_victim": 1957.7,
+      "prosecution_probability": 0.1995
+    },
+    {
+      "crime_name": "mass_displacement_weapon",
+      "annual_profit": 191422581.87,
+      "annual_victim_cost": 1914225818.74,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 97832,
+      "profit_per_victim": 1956.65,
+      "prosecution_probability": 0.1422
+    },
+    {
+      "crime_name": "shadow_banking_crime",
+      "annual_profit": 189257745.07,
+      "annual_victim_cost": 1892577450.67,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 97277,
+      "profit_per_victim": 1945.55,
+      "prosecution_probability": 0.1707
+    },
+    {
+      "crime_name": "deepfake_abuse_personal",
+      "annual_profit": 180044992.79,
+      "annual_victim_cost": 1800449927.93,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 109558,
+      "profit_per_victim": 1643.38,
+      "prosecution_probability": 0.1863
+    },
+    {
+      "crime_name": "water_table_depletion",
+      "annual_profit": 179733222.07,
+      "annual_victim_cost": 1797332220.69,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 94798,
+      "profit_per_victim": 1895.96,
+      "prosecution_probability": 0.2011
+    },
+    {
+      "crime_name": "patent_hoarding",
+      "annual_profit": 175157236.0,
+      "annual_victim_cost": 1751572359.95,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 93583,
+      "profit_per_victim": 1871.68,
+      "prosecution_probability": 0.1565
+    },
+    {
+      "crime_name": "forbidden_knowledge_suppression",
+      "annual_profit": 173253085.9,
+      "annual_victim_cost": 1732530858.98,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 93073,
+      "profit_per_victim": 1861.48,
+      "prosecution_probability": 0.1875
+    },
+    {
+      "crime_name": "treaty_violation",
+      "annual_profit": 172058762.41,
+      "annual_victim_cost": 1720587624.05,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 92752,
+      "profit_per_victim": 1855.04,
+      "prosecution_probability": 0.1015
+    },
+    {
+      "crime_name": "siege_warfare_civilian",
+      "annual_profit": 171695976.03,
+      "annual_victim_cost": 1716959760.25,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 92654,
+      "profit_per_victim": 1853.09,
+      "prosecution_probability": 0.1872
+    },
+    {
+      "crime_name": "data_colonialism",
+      "annual_profit": 167954848.88,
+      "annual_victim_cost": 1679548488.75,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 91639,
+      "profit_per_victim": 1832.79,
+      "prosecution_probability": 0.193
+    },
+    {
+      "crime_name": "synthetic_media_election",
+      "annual_profit": 166379227.36,
+      "annual_victim_cost": 1663792273.57,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 91208,
+      "profit_per_victim": 1824.17,
+      "prosecution_probability": 0.1408
+    },
+    {
+      "crime_name": "wealth_concealment_elite",
+      "annual_profit": 164596852.85,
+      "annual_victim_cost": 1645968528.45,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 90718,
+      "profit_per_victim": 1814.38,
+      "prosecution_probability": 0.1909
+    },
+    {
+      "crime_name": "cognitive_sovereignty_violation",
+      "annual_profit": 164273181.75,
+      "annual_victim_cost": 1642731817.53,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 90629,
+      "profit_per_victim": 1812.59,
+      "prosecution_probability": 0.1899
+    },
+    {
+      "crime_name": "ocean_acidification_concealment",
+      "annual_profit": 162307585.75,
+      "annual_victim_cost": 1623075857.46,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 90085,
+      "profit_per_victim": 1801.72,
+      "prosecution_probability": 0.1656
+    },
+    {
+      "crime_name": "conflict_mineral_trade",
+      "annual_profit": 160847100.21,
+      "annual_victim_cost": 1608471002.05,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 89679,
+      "profit_per_victim": 1793.59,
+      "prosecution_probability": 0.1447
+    },
+    {
+      "crime_name": "geneva_convention_violation",
+      "annual_profit": 157698675.03,
+      "annual_victim_cost": 1576986750.3,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 88797,
+      "profit_per_victim": 1775.95,
+      "prosecution_probability": 0.1504
+    },
+    {
+      "crime_name": "constitutional_violation",
+      "annual_profit": 154104718.28,
+      "annual_victim_cost": 1541047182.84,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 87779,
+      "profit_per_victim": 1755.6,
+      "prosecution_probability": 0.1322
+    },
+    {
+      "crime_name": "gentrification_weapon",
+      "annual_profit": 153462727.38,
+      "annual_victim_cost": 1534627273.83,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 87596,
+      "profit_per_victim": 1751.94,
+      "prosecution_probability": 0.217
+    },
+    {
+      "crime_name": "infrastructure_sabotage",
+      "annual_profit": 140667570.43,
+      "annual_victim_cost": 1406675704.33,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 83865,
+      "profit_per_victim": 1677.31,
+      "prosecution_probability": 0.2113
+    },
+    {
+      "crime_name": "content_moderation_bias",
+      "annual_profit": 136876719.22,
+      "annual_victim_cost": 1368767192.25,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 82727,
+      "profit_per_victim": 1654.56,
+      "prosecution_probability": 0.1518
+    },
+    {
+      "crime_name": "forced_sterilization",
+      "annual_profit": 106448125.84,
+      "annual_victim_cost": 1064481258.4,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 8424,
+      "profit_per_victim": 12636.29,
+      "prosecution_probability": 0.0994
+    },
+    {
+      "crime_name": "black_site_operation",
+      "annual_profit": 88738683.04,
+      "annual_victim_cost": 887386830.37,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 4710,
+      "profit_per_victim": 18840.48,
+      "prosecution_probability": 0.0801
+    },
+    {
+      "crime_name": "conversion_therapy_abuse",
+      "annual_profit": 66912764.55,
+      "annual_victim_cost": 669127645.52,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 57841,
+      "profit_per_victim": 1156.84,
+      "prosecution_probability": 0.1007
+    },
+    {
+      "crime_name": "education_denial",
+      "annual_profit": 58649472.62,
+      "annual_victim_cost": 586494726.17,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 54152,
+      "profit_per_victim": 1083.05,
+      "prosecution_probability": 0.1596
+    },
+    {
+      "crime_name": "economic_sabotage",
+      "annual_profit": 54773179.82,
+      "annual_victim_cost": 547731798.21,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 52332,
+      "profit_per_victim": 1046.65,
+      "prosecution_probability": 0.0902
+    },
+    {
+      "crime_name": "extraordinary_rendition",
+      "annual_profit": 54146638.41,
+      "annual_victim_cost": 541466384.11,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 2081,
+      "profit_per_victim": 26019.53,
+      "prosecution_probability": 0.0866
+    },
+    {
+      "crime_name": "genetic_resource_theft",
+      "annual_profit": 54078700.83,
+      "annual_victim_cost": 540787008.3,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 51999,
+      "profit_per_victim": 1040.0,
+      "prosecution_probability": 0.1359
+    },
+    {
+      "crime_name": "weather_warfare",
+      "annual_profit": 53105219.12,
+      "annual_victim_cost": 531052191.24,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 51529,
+      "profit_per_victim": 1030.59,
+      "prosecution_probability": 0.1017
+    },
+    {
+      "crime_name": "language_extinction",
+      "annual_profit": 52961100.7,
+      "annual_victim_cost": 529611007.03,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 51459,
+      "profit_per_victim": 1029.19,
+      "prosecution_probability": 0.1319
+    },
+    {
+      "crime_name": "geoengineering_covert",
+      "annual_profit": 51992367.84,
+      "annual_victim_cost": 519923678.38,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 50986,
+      "profit_per_victim": 1019.74,
+      "prosecution_probability": 0.1403
+    },
+    {
+      "crime_name": "sovereign_debt_weapon",
+      "annual_profit": 49543821.8,
+      "annual_victim_cost": 495438217.97,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 49771,
+      "profit_per_victim": 995.44,
+      "prosecution_probability": 0.1371
+    },
+    {
+      "crime_name": "vulture_fund_harm",
+      "annual_profit": 49263171.43,
+      "annual_victim_cost": 492631714.31,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 49630,
+      "profit_per_victim": 992.61,
+      "prosecution_probability": 0.12
+    },
+    {
+      "crime_name": "space_debris_pollution",
+      "annual_profit": 48126086.77,
+      "annual_victim_cost": 481260867.74,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 49054,
+      "profit_per_victim": 981.08,
+      "prosecution_probability": 0.1196
+    },
+    {
+      "crime_name": "antarctic_exploitation",
+      "annual_profit": 46151331.35,
+      "annual_victim_cost": 461513313.47,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 48037,
+      "profit_per_victim": 960.75,
+      "prosecution_probability": 0.1253
+    },
+    {
+      "crime_name": "asbestos_continued_use",
+      "annual_profit": 44837448.37,
+      "annual_victim_cost": 448374483.7,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 47348,
+      "profit_per_victim": 946.98,
+      "prosecution_probability": 0.1317
+    },
+    {
+      "crime_name": "space_weaponization",
+      "annual_profit": 43812986.67,
+      "annual_victim_cost": 438129866.73,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 46804,
+      "profit_per_victim": 936.09,
+      "prosecution_probability": 0.116
+    },
+    {
+      "crime_name": "biopiracy",
+      "annual_profit": 43272978.86,
+      "annual_victim_cost": 432729788.58,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 46515,
+      "profit_per_victim": 930.3,
+      "prosecution_probability": 0.1234
+    },
+    {
+      "crime_name": "deep_sea_mining",
+      "annual_profit": 42379287.1,
+      "annual_victim_cost": 423792870.98,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 46032,
+      "profit_per_victim": 920.65,
+      "prosecution_probability": 0.1318
+    },
+    {
+      "crime_name": "water_privatization",
+      "annual_profit": 41259893.94,
+      "annual_victim_cost": 412598939.43,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 45420,
+      "profit_per_victim": 908.41,
+      "prosecution_probability": 0.1372
+    },
+    {
+      "crime_name": "cultural_artifact_trafficking",
+      "annual_profit": 40710973.01,
+      "annual_victim_cost": 407109730.09,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 45117,
+      "profit_per_victim": 902.34,
+      "prosecution_probability": 0.1138
+    },
+    {
+      "crime_name": "prison_gerrymandering",
+      "annual_profit": 37965524.24,
+      "annual_victim_cost": 379655242.45,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 43569,
+      "profit_per_victim": 871.39,
+      "prosecution_probability": 0.1194
+    },
+    {
+      "crime_name": "forced_marriage_state",
+      "annual_profit": 35539878.2,
+      "annual_victim_cost": 355398782.04,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 42154,
+      "profit_per_victim": 843.1,
+      "prosecution_probability": 0.1352
+    },
+    {
+      "crime_name": "assassination_program",
+      "annual_profit": 30898473.12,
+      "annual_victim_cost": 308984731.2,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 786,
+      "profit_per_victim": 39311.03,
+      "prosecution_probability": 0.1263
+    },
+    {
+      "crime_name": "sentient_ai_rights_violation",
+      "annual_profit": 3220147.97,
+      "annual_victim_cost": 32201479.74,
+      "profit_to_harm_ratio": 0.1,
+      "annual_victims": 8025,
+      "profit_per_victim": 401.26,
+      "prosecution_probability": 0.094
+    }
+  ]
+}

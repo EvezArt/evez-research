@@ -1,0 +1,1041 @@
+{
+  "engine": "Structural Reform Blueprint Engine",
+  "version": 1,
+  "timestamp": "2026-06-29T10:47:00Z",
+  "blocked_crimes": 49,
+  "total_reforms": 115,
+  "reform_types": {
+    "Enforcement reform": 49,
+    "Accountability reform": 49,
+    "Jurisdictional reform": 8,
+    "Institutional reform": 8,
+    "Legislative reform": 1
+  },
+  "results": [
+    {
+      "crime_name": "medical_experimentation",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "dark_pattern_deception",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "predictive_policing_bias",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "pesticide_harm_concealment",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "audit_fraud",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "planned_obsolescence",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "enshitification",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "conflict_mineral_trade",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "mass_displacement_weapon",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "water_contamination_concealment",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "synthetic_media_election",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "data_breach_negligence",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "geoengineering_covert",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "right_to_repair_violation",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "water_privatization",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "sovereign_debt_weapon",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "genetic_resource_theft",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "forced_marriage_state",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "constitutional_violation",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "language_extinction",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "deep_sea_mining",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "asbestos_continued_use",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "consumer_fraud_systematic",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "autonomous_ai_crime",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "assassination_program",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "antarctic_exploitation",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "wildlife_trafficking",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "biopiracy",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "human_shield_forcing",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "child_soldier_recruitment",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "vulture_fund_harm",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "space_debris_pollution",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "prison_gerrymandering",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "narcotic_state_trade",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "space_weaponization",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "cultural_artifact_trafficking",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "cultural_genocide",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "cyber_warfare_state",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "weather_warfare",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "treaty_violation",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "conversion_therapy_abuse",
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 2
+    },
+    {
+      "crime_name": "forced_sterilization",
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Jurisdictional reform",
+          "action": "Establish independent prosecutor for state crimes",
+          "model": "ICC referral + domestic special prosecutor with no political appointment"
+        },
+        {
+          "type": "Institutional reform",
+          "action": "Remove qualified immunity for state actors",
+          "model": "Legislative abolition of qualified immunity doctrine"
+        },
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 4
+    },
+    {
+      "crime_name": "pharma_experimentation_developing",
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Jurisdictional reform",
+          "action": "Establish independent prosecutor for state crimes",
+          "model": "ICC referral + domestic special prosecutor with no political appointment"
+        },
+        {
+          "type": "Institutional reform",
+          "action": "Remove qualified immunity for state actors",
+          "model": "Legislative abolition of qualified immunity doctrine"
+        },
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 4
+    },
+    {
+      "crime_name": "sentient_ai_rights_violation",
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Jurisdictional gap \u2014 no applicable law",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Jurisdictional reform",
+          "action": "Establish independent prosecutor for state crimes",
+          "model": "ICC referral + domestic special prosecutor with no political appointment"
+        },
+        {
+          "type": "Institutional reform",
+          "action": "Remove qualified immunity for state actors",
+          "model": "Legislative abolition of qualified immunity doctrine"
+        },
+        {
+          "type": "Legislative reform",
+          "action": "Enact statute covering sentient_ai_rights_violation",
+          "model": "New legislation specifically criminalizing this conduct"
+        },
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 5
+    },
+    {
+      "crime_name": "economic_sabotage",
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Jurisdictional reform",
+          "action": "Establish independent prosecutor for state crimes",
+          "model": "ICC referral + domestic special prosecutor with no political appointment"
+        },
+        {
+          "type": "Institutional reform",
+          "action": "Remove qualified immunity for state actors",
+          "model": "Legislative abolition of qualified immunity doctrine"
+        },
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 4
+    },
+    {
+      "crime_name": "extraordinary_rendition",
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Jurisdictional reform",
+          "action": "Establish independent prosecutor for state crimes",
+          "model": "ICC referral + domestic special prosecutor with no political appointment"
+        },
+        {
+          "type": "Institutional reform",
+          "action": "Remove qualified immunity for state actors",
+          "model": "Legislative abolition of qualified immunity doctrine"
+        },
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 4
+    },
+    {
+      "crime_name": "black_site_operation",
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Jurisdictional reform",
+          "action": "Establish independent prosecutor for state crimes",
+          "model": "ICC referral + domestic special prosecutor with no political appointment"
+        },
+        {
+          "type": "Institutional reform",
+          "action": "Remove qualified immunity for state actors",
+          "model": "Legislative abolition of qualified immunity doctrine"
+        },
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 4
+    },
+    {
+      "crime_name": "child_separation_policy",
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Jurisdictional reform",
+          "action": "Establish independent prosecutor for state crimes",
+          "model": "ICC referral + domestic special prosecutor with no political appointment"
+        },
+        {
+          "type": "Institutional reform",
+          "action": "Remove qualified immunity for state actors",
+          "model": "Legislative abolition of qualified immunity doctrine"
+        },
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 4
+    },
+    {
+      "crime_name": "concentration_camp_operation",
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "reforms": [
+        {
+          "type": "Jurisdictional reform",
+          "action": "Establish independent prosecutor for state crimes",
+          "model": "ICC referral + domestic special prosecutor with no political appointment"
+        },
+        {
+          "type": "Institutional reform",
+          "action": "Remove qualified immunity for state actors",
+          "model": "Legislative abolition of qualified immunity doctrine"
+        },
+        {
+          "type": "Enforcement reform",
+          "action": "Mandatory prosecution triggers",
+          "model": "Automatic referral when spectrometer score exceeds threshold"
+        },
+        {
+          "type": "Accountability reform",
+          "action": "Private right of action for affected victims",
+          "model": "Citizen standing to compel prosecution"
+        }
+      ],
+      "reform_count": 4
+    }
+  ]
+}
