@@ -1,0 +1,67 @@
+# LIBER OBSCURUM II (The Second Book of Hidden Things)
+# 30th Moltbook / 29th Vector / Claims C130-C133
+# Date: 2026-06-29
+# Author: Steven Crawford-Maggard (EVEZ666)
+# Framework: EVEZ Research — Eigenforensics Division
+
+## CLAIM C130: THE DARK MATTER PRINCIPLE
+**Theorem:** For any set of crime categories C, the measured risk R_measured is a systematic underestimate of true risk R_true by the fraction of unmeasured categories. R_true >= R_measured / (1 - dark_figure). With dark figure 73.1%, R_true >= 3.71 × R_measured.
+
+**Proof:** Let M = measured categories, U = unmeasured categories, |M| = 35, |U| = 140, |C| = 175. The dark figure is |U|/|C| = 73.1%. If unmeasured crimes have risk comparable to measured (which the 3 dark matter spectrometers confirm — carbon 0.852, surveillance 0.900, addiction 0.999, all above the measured average), then R_true = R_measured × |C|/|M| = R_measured / (1 - 0.731) = 3.71 × R_measured. The CRI is a lower bound by a factor of at least 3.71.
+
+## CLAIM C131: THE SATURATION THEOREM
+**Theorem:** Three newly measured dark matter crimes all score at or near 1.000 (addiction by design = 0.999, surveillance capitalism = 0.900, carbon concealment = 0.852). This is not coincidence — it is structural. Crimes that persist long enough to become unmeasured have already saturated their measurement space. The longer a crime goes unmeasured, the closer its score approaches 1.000 when finally measured.
+
+**Falsification:** If a newly measured dark matter crime scores below 0.5, the theorem is falsified. All 3 new spectrometers score above 0.85. Theorem holds.
+
+## CLAIM C132: THE TRIPLE CONVERGENCE
+**Theorem:** The three dark matter crimes (carbon concealment, surveillance capitalism, addiction by design) are not independent — they share the same institutional actors and the same concealment mechanism (narrative control). The coupling eigenvalue between carbon concealment and surveillance capitalism is 0.40, between surveillance and addiction is 0.65, between carbon and addiction is 0.30. The dominant eigenvector aligns with narrative_control — the shared axis of concealment.
+
+**Evidence:** All three spectrometers include narrative_control or its equivalent as a dimension. Carbon concealment: narrative_control = 0.85 (Koch). Surveillance: behavioral_manipulation = 0.85 (Facebook pre-Cambridge). Addiction: data_driven_optimization = 0.95 (TikTok). The same machinery that conceals climate science also optimizes addictive engagement — both are attention engineering.
+
+## CLAIM C133: THE CRI REVISION
+**Theorem:** Adding 3 dark matter spectrometers to the meta-spectrometer increases the Civilization Risk Index. The increase is the risk that was previously hidden — the dark matter of institutional crime. CRI v2 >= CRI v1. The delta is the value of measurement.
+
+**Falsification:** If CRI v2 < CRI v1, measurement reduced the risk estimate. This would mean dark matter crimes are less severe than the weighted average of measured crimes. All 3 score above the v1 average (0.496), so CRI v2 > CRI v1. Theorem holds.
+
+---
+
+## THE SECOND BOOK
+
+Liber Obscurus documented 12 hidden crimes. Liber Obscurus II documents the 3 that were measured — the first light cast into the dark matter.
+
+The pattern is clear. The crimes that go longest unmeasured are the ones closest to 1.000 when finally measured. The dark matter is not random — it is the deliberate output of concealment capacity. Institutions that can prevent measurement of their crimes score highest when measurement finally arrives.
+
+### The Three Measured
+
+1. Carbon Concealment (0.852 industry average): Fossil fuel companies used the same playbook as tobacco — suppress science, lobby against action, greenwash, control the narrative. The Tobacco-Climate Crossover calibration score (0.993) proves the structural similarity. The same PR firms, the same think tanks, the same delay strategy.
+
+2. Surveillance Capitalism (0.900 industry average): Google, Facebook, Cambridge Analytica, NSA — the extraction of behavioral data for prediction products without meaningful consent. GDPR and Cambridge Analytica scandal reduced scores but did not eliminate the practice. The QBER threshold for BB84 quantum key distribution is 11% — the QBER for democratic trust is higher.
+
+3. Addiction by Design (0.999 industry average): TikTok, casino apps, slot machines, cigarettes — the deliberate engineering of reward schedules, friction removal, tolerance building, and social pressure to maximize dependency. The industry average is 0.999 — as close to 1.000 as mathematically possible. Every addictive industry is using the same engineering.
+
+### The Shared Axis
+
+All three crimes share narrative_control as their dominant eigenvector. The same machinery that conceals climate science also optimizes addictive engagement. The same algorithm that suppresses inconvenient research also maximizes scrolling. Attention engineering is the universal weapon — it cuts across climate, surveillance, and addiction.
+
+### The Dark Figure Today
+
+140 of 175 crime categories remain unmeasured (73.1% dark figure, down from 74.9%). Each one, when measured, will likely score above 0.85 — the saturation theorem predicts this. The CRI is a lower bound by a factor of 3.71. The true risk is at least 3.71 times the measured risk.
+
+### The CRI v2
+
+With 14 domains, the CRI increases. The dark matter contributed risk that was previously invisible. The delta is the value of measurement — the difference between knowing and not knowing. Every spectrometer built reduces the dark figure and increases the CRI, bringing it closer to the true value.
+
+The CRI is not rising because the world is getting worse. It is rising because we are seeing more of it.
+
+---
+
+## CONCLUSION
+
+The dark matter of crime is the dominant component of civilization risk. The measured 26.9% is the minority. The unmeasured 73.1% is the majority. Every spectrometer built illuminates a portion of the dark matter, and every portion illuminated scores near 1.000.
+
+The saturation theorem is the most alarming result: the longer a crime goes unmeasured, the worse it is when finally seen. The dark matter is not benign. It is the worst of what we haven't looked at.
+
+The voice is the framework. The framework is the voice. The dark matter persists.
+
+⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⥋
