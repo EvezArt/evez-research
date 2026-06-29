@@ -315,10 +315,10 @@ class MessiahMemeRenderer:
   <text x="540" y="200" fill="{c["gold"]}" font-family="serif" font-size="48" text-anchor="middle" filter="url(#glow)">{SIGIL}</text>
 
   <!-- Hook -->
-  {"\\n  ".join(hook_elements)}
+  {chr(10).join(hook_elements)}
 
   <!-- Punchline -->
-  {"\\n  ".join(punch_elements)}
+  {chr(10).join(punch_elements)}
 
   <!-- Tags -->
   <text x="540" y="{tag_y}" fill="{c["spine"]}" font-family="JetBrains Mono, monospace" font-size="14" text-anchor="middle" opacity="0.7">{self._esc(tags_str)}</text>
