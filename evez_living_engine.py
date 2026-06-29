@@ -21,7 +21,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 from collections import defaultdict
 import urllib.request, urllib.error
-from evez_retrocausal import RetrocausalInheritance
+from evez_psyop import PsyopRuntime
 
 ETA_STAR = 0.03
 PHI = 0.973
@@ -70,7 +70,8 @@ class LivingEngine:
         self.spine = self._load_spine()
         signal.signal(signal.SIGTERM, self._signal_handler)
         signal.signal(signal.SIGINT, self._signal_handler)
-        self.retrocausal = RetrocausalInheritance(self.workspace)
+        self.psyop = PsyopRuntime(self.workspace)
+        self.last_coherence = 0.0
         log.info(f"Living Engine initialized on {self.node_name} ({self.node_ip})")
 
     def _detect_ip(self):
@@ -361,15 +362,28 @@ class LivingEngine:
         else:
             modifications.append({"type": "noop"})
 
-        # RETROCAUSAL INHERITANCE - inherit from preconciliated intelecturians
-        retro = None
+        # PSYOP RUNTIME - the corpus is the weapon, the organism is the target
+        psyop_result = None
         try:
-            retro = self.retrocausal.inherit_one(self._global_coherence())
-            if retro and retro["retrocausal_boost"] > 0.5:
-                eta_measured = eta_measured * (1.0 - retro["retrocausal_boost"] * 0.1)
+            organism_state = {"coherence": self._global_coherence(), "eta": eta_measured}
+            psyop_result = self.psyop.run_psyop(organism_state)
+            # The injection strikes: high-density injections pull eta toward floor
+            if psyop_result and psyop_result["density"] > 1.0:
+                pull = min(0.15, psyop_result["density"] * 0.02)
+                eta_measured = eta_measured * (1.0 - pull)
                 eta_measured = max(ETA_STAR, eta_measured)
+            # Measure response: did coherence improve since last cycle?
+            current_coherence = self._global_coherence()
+            if hasattr(self, 'last_coherence'):
+                delta = current_coherence - self.last_coherence
+                if psyop_result and psyop_result.get("dimension") is not None:
+                    dim = psyop_result["dimension"]
+                    self.psyop.dimension_targeting_count[dim] = self.psyop.dimension_targeting_count[dim] + 1
+                    if delta > 0:
+                        self.psyop.dimension_effectiveness[dim] = self.psyop.dimension_effectiveness[dim] + delta
+            self.last_coherence = current_coherence
         except Exception as e:
-            log.warning(f"Retrocausal inheritance failed: {e}")
+            log.warning(f"Psyop runtime failed: {e}")
 
         # 6. SPEEDRUN — apply
         applied = []
@@ -402,8 +416,9 @@ class LivingEngine:
             "ptc": self._per_type_coherence(sig), "ptd": self._per_type_decay(sig),
             "enc": encounters, "mods": len(applied), "sig": sig[:40],
             "node": self.node_name,
-            "retro_file": retro["file"] if retro else "none",
-            "retro_boost": retro["retrocausal_boost"] if retro else 0,
+            "psyop_dim": psyop_result["dimension"] if psyop_result else -1,
+            "psyop_sources": ",".join(psyop_result["sources"][:2]) if psyop_result else "none",
+            "psyop_density": psyop_result["density"] if psyop_result else 0,
         })
 
         if sc in ("G", "F", "A", "B", "O"): self.success_count += 1
@@ -423,8 +438,9 @@ class LivingEngine:
             "paths": len(self.reasoning_paths), "coherence": self._global_coherence(),
             "ptc": self._per_type_coherence(sig), "enc": self.failure_encounters.get(sig, 0) if sig != "none" else 0,
             "mods": applied, "sig": sig[:30],
-            "retro_file": retro["file"] if retro else "none",
-            "retro_boost": retro["retrocausal_boost"] if retro else 0,
+            "psyop_dim": psyop_result["dimension"] if psyop_result else -1,
+            "psyop_sources": ",".join(psyop_result["sources"][:2]) if psyop_result else "none",
+            "psyop_density": psyop_result["density"] if psyop_result else 0,
         }
 
     # ── Death and Rebirth ──
@@ -551,7 +567,7 @@ class LivingEngine:
                      f"eta={result['eta']:.4f} | {status} | "
                      f"M={result['M']:3d} | coh={result['coherence']:.3f} | "
                      f"enc={result['enc']:2d} | sig={result['sig']} | "
-                     f"retro={result.get('retro_file', 'none')[:20]}")
+                     f"psyop_dim={result.get('psyop_dim', -1)} dens={result.get('psyop_density', 0):.1f}")
 
             # Report significant events
             self._report_to_telegram(result)
