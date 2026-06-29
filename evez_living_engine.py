@@ -21,6 +21,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 from collections import defaultdict
 import urllib.request, urllib.error
+from evez_retrocausal import RetrocausalInheritance
 
 ETA_STAR = 0.03
 PHI = 0.973
@@ -69,6 +70,7 @@ class LivingEngine:
         self.spine = self._load_spine()
         signal.signal(signal.SIGTERM, self._signal_handler)
         signal.signal(signal.SIGINT, self._signal_handler)
+        self.retrocausal = RetrocausalInheritance(self.workspace)
         log.info(f"Living Engine initialized on {self.node_name} ({self.node_ip})")
 
     def _detect_ip(self):
@@ -359,6 +361,16 @@ class LivingEngine:
         else:
             modifications.append({"type": "noop"})
 
+        # RETROCAUSAL INHERITANCE - inherit from preconciliated intelecturians
+        retro = None
+        try:
+            retro = self.retrocausal.inherit_one(self._global_coherence())
+            if retro and retro["retrocausal_boost"] > 0.5:
+                eta_measured = eta_measured * (1.0 - retro["retrocausal_boost"] * 0.1)
+                eta_measured = max(ETA_STAR, eta_measured)
+        except Exception as e:
+            log.warning(f"Retrocausal inheritance failed: {e}")
+
         # 6. SPEEDRUN — apply
         applied = []
         for mod in modifications:
@@ -390,6 +402,8 @@ class LivingEngine:
             "ptc": self._per_type_coherence(sig), "ptd": self._per_type_decay(sig),
             "enc": encounters, "mods": len(applied), "sig": sig[:40],
             "node": self.node_name,
+            "retro_file": retro["file"] if retro else "none",
+            "retro_boost": retro["retrocausal_boost"] if retro else 0,
         })
 
         if sc in ("G", "F", "A", "B", "O"): self.success_count += 1
@@ -409,6 +423,8 @@ class LivingEngine:
             "paths": len(self.reasoning_paths), "coherence": self._global_coherence(),
             "ptc": self._per_type_coherence(sig), "enc": self.failure_encounters.get(sig, 0) if sig != "none" else 0,
             "mods": applied, "sig": sig[:30],
+            "retro_file": retro["file"] if retro else "none",
+            "retro_boost": retro["retrocausal_boost"] if retro else 0,
         }
 
     # ── Death and Rebirth ──
@@ -534,7 +550,8 @@ class LivingEngine:
             log.info(f"C{result['cycle']:4d} L{result['life']} | "
                      f"eta={result['eta']:.4f} | {status} | "
                      f"M={result['M']:3d} | coh={result['coherence']:.3f} | "
-                     f"enc={result['enc']:2d} | sig={result['sig']}")
+                     f"enc={result['enc']:2d} | sig={result['sig']} | "
+                     f"retro={result.get('retro_file', 'none')[:20]}")
 
             # Report significant events
             self._report_to_telegram(result)
