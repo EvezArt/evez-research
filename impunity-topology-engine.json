@@ -1,0 +1,3297 @@
+{
+  "engine": "Impunity Topology Engine",
+  "version": 1,
+  "timestamp": "2026-06-29T10:27:00Z",
+  "total_actors": 83,
+  "total_edges": 331,
+  "compliance_rate": 0.0,
+  "top_impunity_actors": [
+    {
+      "actor": "DOJ",
+      "actions_assigned": 61,
+      "crime_count": 60,
+      "inaction_score": 53.8001,
+      "protection_score": 0.8967,
+      "compliance_rate": 0.0,
+      "critical_count": 18,
+      "elevated_count": 43,
+      "crimes": [
+        {
+          "crime": "pesticide_harm_concealment",
+          "inaction": 0.8545,
+          "p_prosecution": 0.1455
+        },
+        {
+          "crime": "tax_haven_facilitation",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "judicial_corruption",
+          "inaction": 0.8131,
+          "p_prosecution": 0.1869
+        },
+        {
+          "crime": "deepfake_abuse_personal",
+          "inaction": 0.8137,
+          "p_prosecution": 0.1863
+        },
+        {
+          "crime": "air_pollution_homicide",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "forbidden_knowledge",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "wage_theft",
+          "inaction": 0.8036,
+          "p_prosecution": 0.1964
+        },
+        {
+          "crime": "wealth_concealment_elite",
+          "inaction": 0.8091,
+          "p_prosecution": 0.1909
+        },
+        {
+          "crime": "election_hacking",
+          "inaction": 0.8223,
+          "p_prosecution": 0.1777
+        },
+        {
+          "crime": "pharma_experimentation",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "regulatory_capture",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "coercive_control",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "supply_chain_slavery",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "shadow_banking_crime",
+          "inaction": 0.8293,
+          "p_prosecution": 0.1707
+        },
+        {
+          "crime": "tobacco_continued_targeting",
+          "inaction": 0.8312,
+          "p_prosecution": 0.1688
+        },
+        {
+          "crime": "scientific_fraud",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "asbestos_continued",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "orphan_drug_abuse",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "bribe_network_international",
+          "inaction": 0.8403,
+          "p_prosecution": 0.1597
+        },
+        {
+          "crime": "medical_experimentation",
+          "inaction": 0.8517,
+          "p_prosecution": 0.1483
+        },
+        {
+          "crime": "water_system_poisoning",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "conflict_mineral_trade",
+          "inaction": 0.8553,
+          "p_prosecution": 0.1447
+        },
+        {
+          "crime": "forced_sterilization",
+          "inaction": 0.9006,
+          "p_prosecution": 0.0994
+        },
+        {
+          "crime": "treaty_violation",
+          "inaction": 0.8985,
+          "p_prosecution": 0.1015
+        },
+        {
+          "crime": "memory_hole",
+          "inaction": 0.7929,
+          "p_prosecution": 0.2071
+        },
+        {
+          "crime": "antibiotic_resistance_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "illegal_fishing",
+          "inaction": 0.8335,
+          "p_prosecution": 0.1665
+        },
+        {
+          "crime": "academic_capture",
+          "inaction": 0.8277,
+          "p_prosecution": 0.1723
+        },
+        {
+          "crime": "universal_crime",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "synthetic_media_election",
+          "inaction": 0.8592,
+          "p_prosecution": 0.1408
+        },
+        {
+          "crime": "cyber_warfare",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "lead_poisoning_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "patent_hoarding",
+          "inaction": 0.8435,
+          "p_prosecution": 0.1565
+        },
+        {
+          "crime": "crypto_crime",
+          "inaction": 0.8152,
+          "p_prosecution": 0.1848
+        },
+        {
+          "crime": "climate_denial_industry",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "algorithmic_discrimination",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "automated_decision_harm",
+          "inaction": 0.7895,
+          "p_prosecution": 0.2105
+        },
+        {
+          "crime": "ip_theft_systematic",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "eviction_as_violence",
+          "inaction": 0.8158,
+          "p_prosecution": 0.1842
+        },
+        {
+          "crime": "intergenerational_toxin",
+          "inaction": 0.8047,
+          "p_prosecution": 0.1953
+        },
+        {
+          "crime": "prosecutorial_misconduct",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "land_grab",
+          "inaction": 0.8203,
+          "p_prosecution": 0.1797
+        },
+        {
+          "crime": "civil_asset_forfeiture",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "deepfake_weapon",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "prison_labor",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "forced_labor_corporate",
+          "inaction": 0.826,
+          "p_prosecution": 0.174
+        },
+        {
+          "crime": "insurance_denial_homicide",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "housing_as_weapon",
+          "inaction": 0.7907,
+          "p_prosecution": 0.2093
+        },
+        {
+          "crime": "pharmaceutical_fraud",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "healthcare_denial_homicide",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "insulin_price_gouging",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "worker_homicide",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "carbon_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "gag_order_suppression",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "debt_collection_abuse",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "narcotic_trade",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "forever_chemical_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "water_contamination_concealment",
+          "inaction": 0.8583,
+          "p_prosecution": 0.1417
+        },
+        {
+          "crime": "military_base_contamination",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "geneva_convention_violation",
+          "inaction": 0.8496,
+          "p_prosecution": 0.1504
+        }
+      ]
+    },
+    {
+      "actor": "Congress",
+      "actions_assigned": 38,
+      "crime_count": 37,
+      "inaction_score": 33.8676,
+      "protection_score": 0.9153,
+      "compliance_rate": 0.0,
+      "critical_count": 10,
+      "elevated_count": 28,
+      "crimes": [
+        {
+          "crime": "constitutional_violation",
+          "inaction": 0.8678,
+          "p_prosecution": 0.1322
+        },
+        {
+          "crime": "deepfake_abuse_personal",
+          "inaction": 0.8137,
+          "p_prosecution": 0.1863
+        },
+        {
+          "crime": "revolving_door",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "forbidden_knowledge",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "enshitification",
+          "inaction": 0.8547,
+          "p_prosecution": 0.1453
+        },
+        {
+          "crime": "election_suppression",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "regulatory_capture",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "planned_obsolescence",
+          "inaction": 0.8547,
+          "p_prosecution": 0.1453
+        },
+        {
+          "crime": "education_debt_peonage",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "eviction_displacement",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "orphan_drug_abuse",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "covert_regime_change",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "memory_hole",
+          "inaction": 0.7929,
+          "p_prosecution": 0.2071
+        },
+        {
+          "crime": "surveillance_capitalism",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "attention_engineering",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "cognitive_sovereignty",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "facial_recognition_abuse",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "environmental_racism",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "ocean_acidification",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "data_breach_negligence",
+          "inaction": 0.8593,
+          "p_prosecution": 0.1407
+        },
+        {
+          "crime": "addiction_by_design",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "content_moderation_bias",
+          "inaction": 0.8482,
+          "p_prosecution": 0.1518
+        },
+        {
+          "crime": "digital_colonialism",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "media_concentration",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "prison_labor",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "democracy",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "housing_as_weapon",
+          "inaction": 0.7907,
+          "p_prosecution": 0.2093
+        },
+        {
+          "crime": "insulin_price_gouging",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "right_to_repair",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "data_colonialism",
+          "inaction": 0.807,
+          "p_prosecution": 0.193
+        },
+        {
+          "crime": "economic",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "microplastic_contamination",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "data_broker_harm",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "ai_risk",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "predictive_policing",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "agricultural_monopoly",
+          "inaction": 0.832,
+          "p_prosecution": 0.168
+        },
+        {
+          "crime": "epistemic_violence",
+          "inaction": 0.8466,
+          "p_prosecution": 0.1534
+        }
+      ]
+    },
+    {
+      "actor": "FTC",
+      "actions_assigned": 25,
+      "crime_count": 24,
+      "inaction_score": 21.4327,
+      "protection_score": 0.893,
+      "compliance_rate": 0.0,
+      "critical_count": 5,
+      "elevated_count": 20,
+      "crimes": [
+        {
+          "crime": "enshitification",
+          "inaction": 0.8547,
+          "p_prosecution": 0.1453
+        },
+        {
+          "crime": "dark_pattern_deception",
+          "inaction": 0.8528,
+          "p_prosecution": 0.1472
+        },
+        {
+          "crime": "planned_obsolescence",
+          "inaction": 0.8547,
+          "p_prosecution": 0.1453
+        },
+        {
+          "crime": "dark_pattern",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "surveillance_capitalism",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "attention_engineering",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "cognitive_sovereignty",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "facial_recognition_abuse",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "vaccine_disinformation",
+          "inaction": 0.8014,
+          "p_prosecution": 0.1986
+        },
+        {
+          "crime": "patent_hoarding",
+          "inaction": 0.8435,
+          "p_prosecution": 0.1565
+        },
+        {
+          "crime": "data_breach_negligence",
+          "inaction": 0.8593,
+          "p_prosecution": 0.1407
+        },
+        {
+          "crime": "addiction_by_design",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "algorithmic_discrimination",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "automated_decision_harm",
+          "inaction": 0.7895,
+          "p_prosecution": 0.2105
+        },
+        {
+          "crime": "content_moderation_bias",
+          "inaction": 0.8482,
+          "p_prosecution": 0.1518
+        },
+        {
+          "crime": "digital_colonialism",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "ai_washing",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "consumer_fraud_systematic",
+          "inaction": 0.8712,
+          "p_prosecution": 0.1288
+        },
+        {
+          "crime": "right_to_repair",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "data_colonialism",
+          "inaction": 0.807,
+          "p_prosecution": 0.193
+        },
+        {
+          "crime": "platform_monopoly_abuse",
+          "inaction": 0.8184,
+          "p_prosecution": 0.1816
+        },
+        {
+          "crime": "data_broker_harm",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "ai_risk",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "agricultural_monopoly",
+          "inaction": 0.832,
+          "p_prosecution": 0.168
+        }
+      ]
+    },
+    {
+      "actor": "state AGs",
+      "actions_assigned": 21,
+      "crime_count": 20,
+      "inaction_score": 18.1736,
+      "protection_score": 0.9087,
+      "compliance_rate": 0.0,
+      "critical_count": 8,
+      "elevated_count": 13,
+      "crimes": [
+        {
+          "crime": "enshitification",
+          "inaction": 0.8547,
+          "p_prosecution": 0.1453
+        },
+        {
+          "crime": "dark_pattern_deception",
+          "inaction": 0.8528,
+          "p_prosecution": 0.1472
+        },
+        {
+          "crime": "tobacco_continued_targeting",
+          "inaction": 0.8312,
+          "p_prosecution": 0.1688
+        },
+        {
+          "crime": "water_system_poisoning",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "dark_pattern",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "academic_capture",
+          "inaction": 0.8277,
+          "p_prosecution": 0.1723
+        },
+        {
+          "crime": "attention_engineering",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "cognitive_sovereignty",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "data_breach_negligence",
+          "inaction": 0.8593,
+          "p_prosecution": 0.1407
+        },
+        {
+          "crime": "climate_denial_industry",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "addiction_by_design",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "insurance_denial_homicide",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "healthcare_denial_homicide",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "ai_washing",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "insulin_price_gouging",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "consumer_fraud_systematic",
+          "inaction": 0.8712,
+          "p_prosecution": 0.1288
+        },
+        {
+          "crime": "carbon_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "platform_monopoly_abuse",
+          "inaction": 0.8184,
+          "p_prosecution": 0.1816
+        },
+        {
+          "crime": "forever_chemical_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "water_contamination_concealment",
+          "inaction": 0.8583,
+          "p_prosecution": 0.1417
+        }
+      ]
+    },
+    {
+      "actor": "EPA",
+      "actions_assigned": 13,
+      "crime_count": 13,
+      "inaction_score": 11.8664,
+      "protection_score": 0.9128,
+      "compliance_rate": 0.0,
+      "critical_count": 3,
+      "elevated_count": 10,
+      "crimes": [
+        {
+          "crime": "pesticide_harm_concealment",
+          "inaction": 0.8545,
+          "p_prosecution": 0.1455
+        },
+        {
+          "crime": "lead_poisoning_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "water_system_poisoning",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "microplastic_contamination",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "air_pollution_homicide",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "intergenerational_toxin",
+          "inaction": 0.8047,
+          "p_prosecution": 0.1953
+        },
+        {
+          "crime": "forever_chemical_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "water_contamination_concealment",
+          "inaction": 0.8583,
+          "p_prosecution": 0.1417
+        },
+        {
+          "crime": "military_base_contamination",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "ocean_acidification",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "water_table_depletion",
+          "inaction": 0.7989,
+          "p_prosecution": 0.2011
+        },
+        {
+          "crime": "environmental_racism",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "asbestos_continued",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        }
+      ]
+    },
+    {
+      "actor": "ICC",
+      "actions_assigned": 12,
+      "crime_count": 12,
+      "inaction_score": 10.9109,
+      "protection_score": 0.9092,
+      "compliance_rate": 0.0,
+      "critical_count": 5,
+      "elevated_count": 7,
+      "crimes": [
+        {
+          "crime": "migrant_labor",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "conflict_mineral_trade",
+          "inaction": 0.8553,
+          "p_prosecution": 0.1447
+        },
+        {
+          "crime": "child_labor_supply_chain",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "forced_sterilization",
+          "inaction": 0.9006,
+          "p_prosecution": 0.0994
+        },
+        {
+          "crime": "covert_regime_change",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "supply_chain_slavery",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "forced_labor_corporate",
+          "inaction": 0.826,
+          "p_prosecution": 0.174
+        },
+        {
+          "crime": "universal_crime",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "genocide_ews",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "refugee_rights_violation",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "geneva_convention_violation",
+          "inaction": 0.8496,
+          "p_prosecution": 0.1504
+        },
+        {
+          "crime": "international_law_violation",
+          "inaction": 0.8294,
+          "p_prosecution": 0.1706
+        }
+      ]
+    },
+    {
+      "actor": "SEC",
+      "actions_assigned": 9,
+      "crime_count": 9,
+      "inaction_score": 8.0901,
+      "protection_score": 0.8989,
+      "compliance_rate": 0.0,
+      "critical_count": 3,
+      "elevated_count": 6,
+      "crimes": [
+        {
+          "crime": "carbon_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "economic",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "bribe_network_international",
+          "inaction": 0.8403,
+          "p_prosecution": 0.1597
+        },
+        {
+          "crime": "conflict_mineral_trade",
+          "inaction": 0.8553,
+          "p_prosecution": 0.1447
+        },
+        {
+          "crime": "shadow_banking_crime",
+          "inaction": 0.8293,
+          "p_prosecution": 0.1707
+        },
+        {
+          "crime": "pharmaceutical_fraud",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "crypto_crime",
+          "inaction": 0.8152,
+          "p_prosecution": 0.1848
+        },
+        {
+          "crime": "ai_washing",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "climate_denial_industry",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        }
+      ]
+    },
+    {
+      "actor": "FDA",
+      "actions_assigned": 8,
+      "crime_count": 8,
+      "inaction_score": 7.2874,
+      "protection_score": 0.9109,
+      "compliance_rate": 0.0,
+      "critical_count": 2,
+      "elevated_count": 6,
+      "crimes": [
+        {
+          "crime": "pesticide_harm_concealment",
+          "inaction": 0.8545,
+          "p_prosecution": 0.1455
+        },
+        {
+          "crime": "medical_experimentation",
+          "inaction": 0.8517,
+          "p_prosecution": 0.1483
+        },
+        {
+          "crime": "microplastic_contamination",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "antibiotic_resistance_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "pharma_experimentation",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "pharmaceutical_fraud",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "tobacco_continued_targeting",
+          "inaction": 0.8312,
+          "p_prosecution": 0.1688
+        },
+        {
+          "crime": "orphan_drug_abuse",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        }
+      ]
+    },
+    {
+      "actor": "state legislatures",
+      "actions_assigned": 8,
+      "crime_count": 8,
+      "inaction_score": 7.167,
+      "protection_score": 0.8959,
+      "compliance_rate": 0.0,
+      "critical_count": 3,
+      "elevated_count": 5,
+      "crimes": [
+        {
+          "crime": "gag_order_suppression",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "deepfake_abuse_personal",
+          "inaction": 0.8137,
+          "p_prosecution": 0.1863
+        },
+        {
+          "crime": "land_grab",
+          "inaction": 0.8203,
+          "p_prosecution": 0.1797
+        },
+        {
+          "crime": "civil_asset_forfeiture",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "coercive_control",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "facial_recognition_abuse",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "gentrification_weapon",
+          "inaction": 0.783,
+          "p_prosecution": 0.217
+        },
+        {
+          "crime": "predictive_policing",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        }
+      ]
+    },
+    {
+      "actor": "DOJ Civil Rights",
+      "actions_assigned": 7,
+      "crime_count": 7,
+      "inaction_score": 6.5678,
+      "protection_score": 0.9383,
+      "compliance_rate": 0.0,
+      "critical_count": 2,
+      "elevated_count": 5,
+      "crimes": [
+        {
+          "crime": "constitutional_violation",
+          "inaction": 0.8678,
+          "p_prosecution": 0.1322
+        },
+        {
+          "crime": "election_suppression",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "democracy",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "asylum_denial",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "refugee_rights_violation",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "predictive_policing",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "environmental_racism",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        }
+      ]
+    },
+    {
+      "actor": "DOL",
+      "actions_assigned": 8,
+      "crime_count": 7,
+      "inaction_score": 6.3796,
+      "protection_score": 0.9114,
+      "compliance_rate": 0.0,
+      "critical_count": 4,
+      "elevated_count": 4,
+      "crimes": [
+        {
+          "crime": "migrant_labor",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "child_labor_supply_chain",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "wage_theft",
+          "inaction": 0.8036,
+          "p_prosecution": 0.1964
+        },
+        {
+          "crime": "supply_chain_slavery",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "forced_labor_corporate",
+          "inaction": 0.826,
+          "p_prosecution": 0.174
+        },
+        {
+          "crime": "prison_labor",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "worker_homicide",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        }
+      ]
+    },
+    {
+      "actor": "CFPB",
+      "actions_assigned": 7,
+      "crime_count": 7,
+      "inaction_score": 6.2777,
+      "protection_score": 0.8968,
+      "compliance_rate": 0.0,
+      "critical_count": 3,
+      "elevated_count": 4,
+      "crimes": [
+        {
+          "crime": "eviction_displacement",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "data_broker_harm",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "debt_collection_abuse",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "eviction_as_violence",
+          "inaction": 0.8158,
+          "p_prosecution": 0.1842
+        },
+        {
+          "crime": "housing_as_weapon",
+          "inaction": 0.7907,
+          "p_prosecution": 0.2093
+        },
+        {
+          "crime": "education_debt_peonage",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "consumer_fraud_systematic",
+          "inaction": 0.8712,
+          "p_prosecution": 0.1288
+        }
+      ]
+    },
+    {
+      "actor": "DOD",
+      "actions_assigned": 6,
+      "crime_count": 6,
+      "inaction_score": 5.7,
+      "protection_score": 0.95,
+      "compliance_rate": 0.0,
+      "critical_count": 1,
+      "elevated_count": 5,
+      "crimes": [
+        {
+          "crime": "nuclear",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "nuclear_waste_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "narcotic_trade",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "deepfake_weapon",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "military_base_contamination",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "cyber_warfare",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        }
+      ]
+    },
+    {
+      "actor": "State Dept",
+      "actions_assigned": 6,
+      "crime_count": 6,
+      "inaction_score": 5.5538,
+      "protection_score": 0.9256,
+      "compliance_rate": 0.0,
+      "critical_count": 0,
+      "elevated_count": 6,
+      "crimes": [
+        {
+          "crime": "conflict_mineral_trade",
+          "inaction": 0.8553,
+          "p_prosecution": 0.1447
+        },
+        {
+          "crime": "nuclear",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "treaty_violation",
+          "inaction": 0.8985,
+          "p_prosecution": 0.1015
+        },
+        {
+          "crime": "digital_colonialism",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "deepfake_weapon",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "cyber_warfare",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        }
+      ]
+    },
+    {
+      "actor": "UN",
+      "actions_assigned": 6,
+      "crime_count": 6,
+      "inaction_score": 5.4536,
+      "protection_score": 0.9089,
+      "compliance_rate": 0.0,
+      "critical_count": 2,
+      "elevated_count": 4,
+      "crimes": [
+        {
+          "crime": "data_colonialism",
+          "inaction": 0.807,
+          "p_prosecution": 0.193
+        },
+        {
+          "crime": "digital_colonialism",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "genocide_ews",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "famine",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "ocean_acidification",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "epistemic_violence",
+          "inaction": 0.8466,
+          "p_prosecution": 0.1534
+        }
+      ]
+    },
+    {
+      "actor": "HUD",
+      "actions_assigned": 5,
+      "crime_count": 5,
+      "inaction_score": 4.2895,
+      "protection_score": 0.8579,
+      "compliance_rate": 0.0,
+      "critical_count": 1,
+      "elevated_count": 4,
+      "crimes": [
+        {
+          "crime": "eviction_as_violence",
+          "inaction": 0.8158,
+          "p_prosecution": 0.1842
+        },
+        {
+          "crime": "housing_as_weapon",
+          "inaction": 0.7907,
+          "p_prosecution": 0.2093
+        },
+        {
+          "crime": "gentrification_weapon",
+          "inaction": 0.783,
+          "p_prosecution": 0.217
+        },
+        {
+          "crime": "lead_poisoning_concealment",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "eviction_displacement",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        }
+      ]
+    },
+    {
+      "actor": "DHS",
+      "actions_assigned": 4,
+      "crime_count": 4,
+      "inaction_score": 3.6723,
+      "protection_score": 0.9181,
+      "compliance_rate": 0.0,
+      "critical_count": 1,
+      "elevated_count": 3,
+      "crimes": [
+        {
+          "crime": "asylum_denial",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "migrant_labor",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "refugee_rights_violation",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "election_hacking",
+          "inaction": 0.8223,
+          "p_prosecution": 0.1777
+        }
+      ]
+    },
+    {
+      "actor": "EU Commission",
+      "actions_assigned": 4,
+      "crime_count": 4,
+      "inaction_score": 3.5057,
+      "protection_score": 0.8764,
+      "compliance_rate": 0.0,
+      "critical_count": 0,
+      "elevated_count": 4,
+      "crimes": [
+        {
+          "crime": "planned_obsolescence",
+          "inaction": 0.8547,
+          "p_prosecution": 0.1453
+        },
+        {
+          "crime": "content_moderation_bias",
+          "inaction": 0.8482,
+          "p_prosecution": 0.1518
+        },
+        {
+          "crime": "dark_pattern_deception",
+          "inaction": 0.8528,
+          "p_prosecution": 0.1472
+        },
+        {
+          "crime": "right_to_repair",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        }
+      ]
+    },
+    {
+      "actor": "NIH",
+      "actions_assigned": 3,
+      "crime_count": 3,
+      "inaction_score": 2.7517,
+      "protection_score": 0.9172,
+      "compliance_rate": 0.0,
+      "critical_count": 1,
+      "elevated_count": 2,
+      "crimes": [
+        {
+          "crime": "medical_experimentation",
+          "inaction": 0.8517,
+          "p_prosecution": 0.1483
+        },
+        {
+          "crime": "scientific_fraud",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "pharma_experimentation",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        }
+      ]
+    },
+    {
+      "actor": "CBP",
+      "actions_assigned": 3,
+      "crime_count": 3,
+      "inaction_score": 2.726,
+      "protection_score": 0.9087,
+      "compliance_rate": 0.0,
+      "critical_count": 1,
+      "elevated_count": 2,
+      "crimes": [
+        {
+          "crime": "child_labor_supply_chain",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "supply_chain_slavery",
+          "inaction": 0.95,
+          "p_prosecution": 0.05
+        },
+        {
+          "crime": "forced_labor_corporate",
+          "inaction": 0.826,
+          "p_prosecution": 0.174
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "DOJ",
+      "target": "pesticide_harm_concealment",
+      "weight": 0.8545,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "tax_haven_facilitation",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "judicial_corruption",
+      "weight": 0.8131,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "deepfake_abuse_personal",
+      "weight": 0.8137,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "air_pollution_homicide",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "forbidden_knowledge",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "wage_theft",
+      "weight": 0.8036,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "wealth_concealment_elite",
+      "weight": 0.8091,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "election_hacking",
+      "weight": 0.8223,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "pharma_experimentation",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "regulatory_capture",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "coercive_control",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "supply_chain_slavery",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "shadow_banking_crime",
+      "weight": 0.8293,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "tobacco_continued_targeting",
+      "weight": 0.8312,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "scientific_fraud",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "asbestos_continued",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "orphan_drug_abuse",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "bribe_network_international",
+      "weight": 0.8403,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "medical_experimentation",
+      "weight": 0.8517,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "water_system_poisoning",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "conflict_mineral_trade",
+      "weight": 0.8553,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "forced_sterilization",
+      "weight": 0.9006,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "treaty_violation",
+      "weight": 0.8985,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "memory_hole",
+      "weight": 0.7929,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "antibiotic_resistance_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "illegal_fishing",
+      "weight": 0.8335,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "academic_capture",
+      "weight": 0.8277,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "universal_crime",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "synthetic_media_election",
+      "weight": 0.8592,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "cyber_warfare",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "lead_poisoning_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "patent_hoarding",
+      "weight": 0.8435,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "crypto_crime",
+      "weight": 0.8152,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "climate_denial_industry",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "algorithmic_discrimination",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "automated_decision_harm",
+      "weight": 0.7895,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "ip_theft_systematic",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "eviction_as_violence",
+      "weight": 0.8158,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "intergenerational_toxin",
+      "weight": 0.8047,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "prosecutorial_misconduct",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "land_grab",
+      "weight": 0.8203,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "civil_asset_forfeiture",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "deepfake_weapon",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "prison_labor",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "forced_labor_corporate",
+      "weight": 0.826,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "insurance_denial_homicide",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "housing_as_weapon",
+      "weight": 0.7907,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "pharmaceutical_fraud",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "healthcare_denial_homicide",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "insulin_price_gouging",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "worker_homicide",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "carbon_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "gag_order_suppression",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "debt_collection_abuse",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "narcotic_trade",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "forever_chemical_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "water_contamination_concealment",
+      "weight": 0.8583,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "military_base_contamination",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ",
+      "target": "geneva_convention_violation",
+      "weight": 0.8496,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "constitutional_violation",
+      "weight": 0.8678,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "deepfake_abuse_personal",
+      "weight": 0.8137,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "revolving_door",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "forbidden_knowledge",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "enshitification",
+      "weight": 0.8547,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "election_suppression",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "regulatory_capture",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "planned_obsolescence",
+      "weight": 0.8547,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "education_debt_peonage",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "eviction_displacement",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "orphan_drug_abuse",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "covert_regime_change",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "memory_hole",
+      "weight": 0.7929,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "surveillance_capitalism",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "attention_engineering",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "cognitive_sovereignty",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "facial_recognition_abuse",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "environmental_racism",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "ocean_acidification",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "data_breach_negligence",
+      "weight": 0.8593,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "addiction_by_design",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "content_moderation_bias",
+      "weight": 0.8482,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "digital_colonialism",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "media_concentration",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "prison_labor",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "democracy",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "housing_as_weapon",
+      "weight": 0.7907,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "insulin_price_gouging",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "right_to_repair",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "data_colonialism",
+      "weight": 0.807,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "economic",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "microplastic_contamination",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "data_broker_harm",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "ai_risk",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "predictive_policing",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "agricultural_monopoly",
+      "weight": 0.832,
+      "type": "protects"
+    },
+    {
+      "source": "Congress",
+      "target": "epistemic_violence",
+      "weight": 0.8466,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "enshitification",
+      "weight": 0.8547,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "dark_pattern_deception",
+      "weight": 0.8528,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "planned_obsolescence",
+      "weight": 0.8547,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "dark_pattern",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "surveillance_capitalism",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "attention_engineering",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "cognitive_sovereignty",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "facial_recognition_abuse",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "vaccine_disinformation",
+      "weight": 0.8014,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "patent_hoarding",
+      "weight": 0.8435,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "data_breach_negligence",
+      "weight": 0.8593,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "addiction_by_design",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "algorithmic_discrimination",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "automated_decision_harm",
+      "weight": 0.7895,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "content_moderation_bias",
+      "weight": 0.8482,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "digital_colonialism",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "ai_washing",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "consumer_fraud_systematic",
+      "weight": 0.8712,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "right_to_repair",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "data_colonialism",
+      "weight": 0.807,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "platform_monopoly_abuse",
+      "weight": 0.8184,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "data_broker_harm",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "ai_risk",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FTC",
+      "target": "agricultural_monopoly",
+      "weight": 0.832,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "enshitification",
+      "weight": 0.8547,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "dark_pattern_deception",
+      "weight": 0.8528,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "tobacco_continued_targeting",
+      "weight": 0.8312,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "water_system_poisoning",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "dark_pattern",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "academic_capture",
+      "weight": 0.8277,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "attention_engineering",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "cognitive_sovereignty",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "data_breach_negligence",
+      "weight": 0.8593,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "climate_denial_industry",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "addiction_by_design",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "insurance_denial_homicide",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "healthcare_denial_homicide",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "ai_washing",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "insulin_price_gouging",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "consumer_fraud_systematic",
+      "weight": 0.8712,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "carbon_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "platform_monopoly_abuse",
+      "weight": 0.8184,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "forever_chemical_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state AGs",
+      "target": "water_contamination_concealment",
+      "weight": 0.8583,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "pesticide_harm_concealment",
+      "weight": 0.8545,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "lead_poisoning_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "water_system_poisoning",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "microplastic_contamination",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "air_pollution_homicide",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "intergenerational_toxin",
+      "weight": 0.8047,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "forever_chemical_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "water_contamination_concealment",
+      "weight": 0.8583,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "military_base_contamination",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "ocean_acidification",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "water_table_depletion",
+      "weight": 0.7989,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "environmental_racism",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "EPA",
+      "target": "asbestos_continued",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "migrant_labor",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "conflict_mineral_trade",
+      "weight": 0.8553,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "child_labor_supply_chain",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "forced_sterilization",
+      "weight": 0.9006,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "covert_regime_change",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "supply_chain_slavery",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "forced_labor_corporate",
+      "weight": 0.826,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "universal_crime",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "genocide_ews",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "refugee_rights_violation",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "geneva_convention_violation",
+      "weight": 0.8496,
+      "type": "protects"
+    },
+    {
+      "source": "ICC",
+      "target": "international_law_violation",
+      "weight": 0.8294,
+      "type": "protects"
+    },
+    {
+      "source": "SEC",
+      "target": "carbon_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "SEC",
+      "target": "economic",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "SEC",
+      "target": "bribe_network_international",
+      "weight": 0.8403,
+      "type": "protects"
+    },
+    {
+      "source": "SEC",
+      "target": "conflict_mineral_trade",
+      "weight": 0.8553,
+      "type": "protects"
+    },
+    {
+      "source": "SEC",
+      "target": "shadow_banking_crime",
+      "weight": 0.8293,
+      "type": "protects"
+    },
+    {
+      "source": "SEC",
+      "target": "pharmaceutical_fraud",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "SEC",
+      "target": "crypto_crime",
+      "weight": 0.8152,
+      "type": "protects"
+    },
+    {
+      "source": "SEC",
+      "target": "ai_washing",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "SEC",
+      "target": "climate_denial_industry",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOL",
+      "target": "migrant_labor",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOL",
+      "target": "child_labor_supply_chain",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOL",
+      "target": "wage_theft",
+      "weight": 0.8036,
+      "type": "protects"
+    },
+    {
+      "source": "DOL",
+      "target": "supply_chain_slavery",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOL",
+      "target": "forced_labor_corporate",
+      "weight": 0.826,
+      "type": "protects"
+    },
+    {
+      "source": "DOL",
+      "target": "prison_labor",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOL",
+      "target": "worker_homicide",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FDA",
+      "target": "pesticide_harm_concealment",
+      "weight": 0.8545,
+      "type": "protects"
+    },
+    {
+      "source": "FDA",
+      "target": "medical_experimentation",
+      "weight": 0.8517,
+      "type": "protects"
+    },
+    {
+      "source": "FDA",
+      "target": "microplastic_contamination",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FDA",
+      "target": "antibiotic_resistance_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FDA",
+      "target": "pharma_experimentation",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FDA",
+      "target": "pharmaceutical_fraud",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FDA",
+      "target": "tobacco_continued_targeting",
+      "weight": 0.8312,
+      "type": "protects"
+    },
+    {
+      "source": "FDA",
+      "target": "orphan_drug_abuse",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state legislatures",
+      "target": "gag_order_suppression",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state legislatures",
+      "target": "deepfake_abuse_personal",
+      "weight": 0.8137,
+      "type": "protects"
+    },
+    {
+      "source": "state legislatures",
+      "target": "land_grab",
+      "weight": 0.8203,
+      "type": "protects"
+    },
+    {
+      "source": "state legislatures",
+      "target": "civil_asset_forfeiture",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state legislatures",
+      "target": "coercive_control",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state legislatures",
+      "target": "facial_recognition_abuse",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "state legislatures",
+      "target": "gentrification_weapon",
+      "weight": 0.783,
+      "type": "protects"
+    },
+    {
+      "source": "state legislatures",
+      "target": "predictive_policing",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ Civil Rights",
+      "target": "constitutional_violation",
+      "weight": 0.8678,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ Civil Rights",
+      "target": "election_suppression",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ Civil Rights",
+      "target": "democracy",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ Civil Rights",
+      "target": "asylum_denial",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ Civil Rights",
+      "target": "refugee_rights_violation",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ Civil Rights",
+      "target": "predictive_policing",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ Civil Rights",
+      "target": "environmental_racism",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "CFPB",
+      "target": "eviction_displacement",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "CFPB",
+      "target": "data_broker_harm",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "CFPB",
+      "target": "debt_collection_abuse",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "CFPB",
+      "target": "eviction_as_violence",
+      "weight": 0.8158,
+      "type": "protects"
+    },
+    {
+      "source": "CFPB",
+      "target": "housing_as_weapon",
+      "weight": 0.7907,
+      "type": "protects"
+    },
+    {
+      "source": "CFPB",
+      "target": "education_debt_peonage",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "CFPB",
+      "target": "consumer_fraud_systematic",
+      "weight": 0.8712,
+      "type": "protects"
+    },
+    {
+      "source": "DOD",
+      "target": "nuclear",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOD",
+      "target": "nuclear_waste_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOD",
+      "target": "narcotic_trade",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOD",
+      "target": "deepfake_weapon",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOD",
+      "target": "military_base_contamination",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOD",
+      "target": "cyber_warfare",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "UN",
+      "target": "data_colonialism",
+      "weight": 0.807,
+      "type": "protects"
+    },
+    {
+      "source": "UN",
+      "target": "digital_colonialism",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "UN",
+      "target": "genocide_ews",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "UN",
+      "target": "famine",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "UN",
+      "target": "ocean_acidification",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "UN",
+      "target": "epistemic_violence",
+      "weight": 0.8466,
+      "type": "protects"
+    },
+    {
+      "source": "State Dept",
+      "target": "conflict_mineral_trade",
+      "weight": 0.8553,
+      "type": "protects"
+    },
+    {
+      "source": "State Dept",
+      "target": "nuclear",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "State Dept",
+      "target": "treaty_violation",
+      "weight": 0.8985,
+      "type": "protects"
+    },
+    {
+      "source": "State Dept",
+      "target": "digital_colonialism",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "State Dept",
+      "target": "deepfake_weapon",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "State Dept",
+      "target": "cyber_warfare",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "HUD",
+      "target": "eviction_as_violence",
+      "weight": 0.8158,
+      "type": "protects"
+    },
+    {
+      "source": "HUD",
+      "target": "housing_as_weapon",
+      "weight": 0.7907,
+      "type": "protects"
+    },
+    {
+      "source": "HUD",
+      "target": "gentrification_weapon",
+      "weight": 0.783,
+      "type": "protects"
+    },
+    {
+      "source": "HUD",
+      "target": "lead_poisoning_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "HUD",
+      "target": "eviction_displacement",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DHS",
+      "target": "asylum_denial",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DHS",
+      "target": "migrant_labor",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DHS",
+      "target": "refugee_rights_violation",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DHS",
+      "target": "election_hacking",
+      "weight": 0.8223,
+      "type": "protects"
+    },
+    {
+      "source": "EU Commission",
+      "target": "planned_obsolescence",
+      "weight": 0.8547,
+      "type": "protects"
+    },
+    {
+      "source": "EU Commission",
+      "target": "content_moderation_bias",
+      "weight": 0.8482,
+      "type": "protects"
+    },
+    {
+      "source": "EU Commission",
+      "target": "dark_pattern_deception",
+      "weight": 0.8528,
+      "type": "protects"
+    },
+    {
+      "source": "EU Commission",
+      "target": "right_to_repair",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "CBP",
+      "target": "child_labor_supply_chain",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "CBP",
+      "target": "supply_chain_slavery",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "CBP",
+      "target": "forced_labor_corporate",
+      "weight": 0.826,
+      "type": "protects"
+    },
+    {
+      "source": "FBI",
+      "target": "bribe_network_international",
+      "weight": 0.8403,
+      "type": "protects"
+    },
+    {
+      "source": "FBI",
+      "target": "universal_crime",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FBI",
+      "target": "election_hacking",
+      "weight": 0.8223,
+      "type": "protects"
+    },
+    {
+      "source": "NIH",
+      "target": "medical_experimentation",
+      "weight": 0.8517,
+      "type": "protects"
+    },
+    {
+      "source": "NIH",
+      "target": "scientific_fraud",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "NIH",
+      "target": "pharma_experimentation",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ Antitrust",
+      "target": "media_concentration",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ Antitrust",
+      "target": "platform_monopoly_abuse",
+      "weight": 0.8184,
+      "type": "protects"
+    },
+    {
+      "source": "DOJ Antitrust",
+      "target": "agricultural_monopoly",
+      "weight": 0.832,
+      "type": "protects"
+    },
+    {
+      "source": "OECD",
+      "target": "bribe_network_international",
+      "weight": 0.8403,
+      "type": "protects"
+    },
+    {
+      "source": "OECD",
+      "target": "tax_haven_facilitation",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "OECD",
+      "target": "wealth_concealment_elite",
+      "weight": 0.8091,
+      "type": "protects"
+    },
+    {
+      "source": "DOE",
+      "target": "nuclear",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "DOE",
+      "target": "nuclear_waste_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "NRC",
+      "target": "nuclear",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "NRC",
+      "target": "nuclear_waste_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "EEOC",
+      "target": "automated_decision_harm",
+      "weight": 0.7895,
+      "type": "protects"
+    },
+    {
+      "source": "EEOC",
+      "target": "algorithmic_discrimination",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ICJ",
+      "target": "international_law_violation",
+      "weight": 0.8294,
+      "type": "protects"
+    },
+    {
+      "source": "ICJ",
+      "target": "treaty_violation",
+      "weight": 0.8985,
+      "type": "protects"
+    },
+    {
+      "source": "IRS",
+      "target": "tax_haven_facilitation",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "IRS",
+      "target": "wealth_concealment_elite",
+      "weight": 0.8091,
+      "type": "protects"
+    },
+    {
+      "source": "FinCEN",
+      "target": "crypto_crime",
+      "weight": 0.8152,
+      "type": "protects"
+    },
+    {
+      "source": "FinCEN",
+      "target": "wealth_concealment_elite",
+      "weight": 0.8091,
+      "type": "protects"
+    },
+    {
+      "source": "state election officials",
+      "target": "synthetic_media_election",
+      "weight": 0.8592,
+      "type": "protects"
+    },
+    {
+      "source": "state election officials",
+      "target": "election_hacking",
+      "weight": 0.8223,
+      "type": "protects"
+    },
+    {
+      "source": "USPTO",
+      "target": "patent_hoarding",
+      "weight": 0.8435,
+      "type": "protects"
+    },
+    {
+      "source": "USPTO",
+      "target": "ip_theft_systematic",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "NOAA",
+      "target": "ocean_acidification",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "NOAA",
+      "target": "illegal_fishing",
+      "weight": 0.8335,
+      "type": "protects"
+    },
+    {
+      "source": "NARA",
+      "target": "forbidden_knowledge",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "NARA",
+      "target": "memory_hole",
+      "weight": 0.7929,
+      "type": "protects"
+    },
+    {
+      "source": "CDC",
+      "target": "lead_poisoning_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "CDC",
+      "target": "antibiotic_resistance_concealment",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "UNHCR",
+      "target": "asylum_denial",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "UNHCR",
+      "target": "refugee_rights_violation",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Treasury",
+      "target": "narcotic_trade",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "Treasury",
+      "target": "tax_haven_facilitation",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "IG offices",
+      "target": "regulatory_capture",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ED",
+      "target": "education_debt_peonage",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "EU",
+      "target": "surveillance_capitalism",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "US Congress",
+      "target": "genocide_ews",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "USAID",
+      "target": "famine",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "WFP",
+      "target": "famine",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ICE-OIG",
+      "target": "forced_sterilization",
+      "weight": 0.9006,
+      "type": "protects"
+    },
+    {
+      "source": "Federal Reserve",
+      "target": "economic",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "ATSDR",
+      "target": "intergenerational_toxin",
+      "weight": 0.8047,
+      "type": "protects"
+    },
+    {
+      "source": "UN Security Council",
+      "target": "international_law_violation",
+      "weight": 0.8294,
+      "type": "protects"
+    },
+    {
+      "source": "FSOC",
+      "target": "shadow_banking_crime",
+      "weight": 0.8293,
+      "type": "protects"
+    },
+    {
+      "source": "ACLU",
+      "target": "constitutional_violation",
+      "weight": 0.8678,
+      "type": "protects"
+    },
+    {
+      "source": "city councils",
+      "target": "gentrification_weapon",
+      "weight": 0.783,
+      "type": "protects"
+    },
+    {
+      "source": "BLM",
+      "target": "land_grab",
+      "weight": 0.8203,
+      "type": "protects"
+    },
+    {
+      "source": "Supreme Court",
+      "target": "democracy",
+      "weight": 0.95,
+      "type": "protects"
+    },
+    {
+      "source": "FEC",
+      "target": "synthetic_media_election",
+      "weight": 0.8592,
+      "type": "protects"
+    }
+  ]
+}
