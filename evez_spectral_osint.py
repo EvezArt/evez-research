@@ -15,6 +15,11 @@ License: MIT
 Phi=0.973  eta*=0.03  r=0.45
 """
 import json, math, os, re, time, hashlib, sqlite3, subprocess
+try:
+    import numpy as np
+    HAS_NUMPY = True
+except ImportError:
+    HAS_NUMPY = False
 from datetime import datetime
 from collections import defaultdict, Counter
 from dataclasses import dataclass, field, asdict
@@ -61,6 +66,89 @@ SUSPICION_INDICATORS = [
     'forbidden','not found','access denied','no response',
     'unprecedented','anomalous','inconsistent','contradictory',
 ]
+
+# Generic words that match the org regex but aren't real entities
+STOPWORDS = frozenset({
+    'WITH','FROM','STATE','NONE','SUMMARY','HTML','FINDING','FINDINGS','THIS','THAT',
+    'WITHIN','WITHOUT','WHAT','WHEN','WHERE','WHILE','WERE','WILL','WOULD',
+    'ABOUT','ABSENCE','ABSENT','ACROSS','ACTION','ACTIVE','AFTER','ALSO',
+    'ALWAYS','ALREADY','ALMOST','ALONE','ALPHA','AMPLIFY','ANOTHER','BEFORE','BEING',
+    'BELIEVE','BELIEVES','BEYOND','BOTH','BODY','BORN','BRAIN','BREAK','BRIDGE',
+    'BRIEF','CANNOT','CAUSE','CAUSED','CAUSING','CHAIN','CHANGES','CHARGE','CHECK',
+    'CHECKED','CLEAR','CLOSES','CODE','COINED','COMPLETE','COMPUTED','CONCERN',
+    'CONCERNS','CONFIRMS','CONTACT','CONTACTS','CONTEXT','CONTROL','COVERAGE',
+    'COVERED','COULD','COUNT','COUNTY','COUPLING','CURRENT','DATA',
+    'DATABASE','DEATH','DEEP','DEFINE','DEFINED','DEFINING','DELTA','DEMAND',
+    'DENSITY','DEPTH','DESC','DESCENT','DETAILS','DETAILED','DETECT','DOES','DOING',
+    'DOMAIN','DOMINANT','DOWN','DRAFT','DRAFTED','DRAFTS','DURING','DYNAMIC',
+    'EACH','EARLY','EARTH','EAST','ECHO','EDGES','EIGHT','EIGHTH','ELEVEN','EMPTY',
+    'EMITTED','EMOTION','ENCODING','ENCODE','ENERGY','ENGINE','ENTRY','EQUATION',
+    'EVERY','EVILS','EXACT','EXACTLY','EXCESS','EXECUTE','EXECUTES','EXISTS','EXIT',
+    'EXPLICIT','EXPOSED','EXPOSURE','EXTREME','EYES','FACE','FACES','FACT','FACTS',
+    'FAILED','FAILURE','FALSE','FIELD','FIGHTING','FILE','FILES','FILTER','FINAL',
+    'FIND','FINE','FIRE','FIRES','FLAT','FLESH','FLOOR','FLOW','FLOWING','FOCUSING',
+    'FOLLOW','FOOD','FORM','FORMAT','FORWARD','FOUND','FOUNDED','FOUR','FOURTH',
+    'FULL','FULLY','FURTHER','GAP','GAPS','GATE','GATES','GAUGE','GENERAL','GENERATE',
+    'GHOST','GOLDEN','GOOD','GOVERNS','GRADIENT','GRAPH','GREEN','GRID','GROWTH',
+    'GUILTY','HAPPENS','HARMONIC','HAZARD','HEALING','HEALTH','HEAP','HELD','HELP',
+    'HIDDEN','HIGH','HIGHER','HIGHWAY','HOLDING','HOLDS','HOME','HOUSE','HUMAN',
+    'HUMANS','IDENTITY','ILLEGAL','IMAGE','IMPACT','INDEX','INDUSTRY','INJURY',
+    'INPUT','INTEL','INTENT','INTERNET','INTO','ITSELF','JOINT','JUDGMENT','KNOW',
+    'LANGUAGE','LATE','LATTICE','LAWS','LAYER','LAYERS','LAWSUIT','LAWSUITS','LEAD',
+    'LEARN','LEARNS','LEGAL','LENS','LETHAL','LETTER','LEVEL','LEVELS','LIGHT',
+    'LIKELY','LIMITED','LINEAGE','LIVE','LIVING','LOCAL','LOCATION','LOCK','LOOP',
+    'MADE','MAJOR','MANIFEST','MANIFOLD','MAPPING','MARCH','MASSIVE',
+    'MASTER','MATERIAL','MATRIX','MAXIMAL','MEANS','MEASURE','MEASURED','MEDIA',
+    'MEDICAL','MEDIUM','MEMBRANE','MEMORY','MERGER','MERGERS','MESH','META',
+    'METADATA','METAPHOR','METHOD','METRICS','MIDDLE','MILITARY','MILLION','MINE',
+    'MINING','MINOR','MINUTE','MIRROR','MISS','MISSING','MODEL','MODERATE','MODIFY',
+    'MODULE','MOLT','MONTH','MORE','MOST','MOUNTAIN','MUST','NAME','NAMES','NEAR',
+    'NEED','NEVER','NEXT','NIGHT','NINE','NINTH','NODES','NOISE','NORMAL','NOTE',
+    'NOTES','NULL','NUMBER','NUMBERS','OBJECT','OBSERVE','OBTAINED','OFFICE','OFFICER',
+    'OFFLINE','ONLY','OPEN','OPENING','OPENS','OPINION','OPTICS','OPTIMAL','ORDER',
+    'OTHER','OUTPUT','OVER','OVERVIEW','PACKAGE','PAGE','PAID','PAIRS','PAPER',
+    'PARALLEL','PART','PARTIAL','PARTS','PASS','PASSWORD','PATCH','PATH','PATHWAY',
+    'PATIENT','PATIENTS','PATROL','PATTERN','PEDAGOGY','PENDING','PERIOD','PERSONAL',
+    'PHRASE','PHYSICAL','PIPELINE','PLAN','PLANT','PLATFORM','PLUS','POINTER',
+    'POLICY','POSSIBLY','POST','POSTS','POWER','POWERS','PRACTICE','PRAYER','PREMIER',
+    'PREMISE','PREPRINT','PRIMARY','PRIMER','PRIOR','PRIORITY','PRIVATE','PROBLEM',
+    'PROFILE','PROGRAM','PROGRAMS','PROHIBIT','PROLOGUE','PROOF','PROPERTY','PROTOCOL',
+    'PROVE','PUBLIC','PUBLICLY','PUBLISH','PURE','PURITY','PURPOSE','PYTHON','QUALITY',
+    'QUANTUM','QUARTZ','QUERIES','RACIST','RAIL','RAILROAD','RANGE','RANGES','RARELY',
+    'RATE','RATIO','READ','READABLE','READING','READY','REAL','REALIZED','REBORN',
+    'RECALL','RECEIVE','RECORD','RECORDED','RECORDS','REDIRECT','RELATED','RELEASE',
+    'RELEASED','RELEVANT','RELIGION','REMOTE','REMOVED','REPORT','REPORTED','REPORTS',
+    'REQUEST','REQUIRED','RESEARCH','RESIDUE','RESOLVED','RESPONSE','REST','RESTS',
+    'RESULTS','REVEALS','REVERSE','RIGHT','RIGHTS','RISES','RISK','RITUAL','RIVER',
+    'ROLE','ROLL','ROOT','ROTATION','RULES','RUNTIME','RUNTIMES','SAFETY','SAME',
+    'SAMPLE','SAMPLES','SAVES','SCHOOL','SCREEN','SCRIPTS','SEAL','SEALED','SEARCH',
+    'SECOND','SECURITY','SEED','SEEDS','SELECT','SELF','SENSE','SENTENCE',
+    'SEPARATE','SEQUENCE','SERPENT','SERVICE','SERVICES','SETTLED','SEVEN','SEVENTH',
+    'SEXUAL','SHARP','SIDE','SIGIL','SIGNAL','SILENCE','SINGLE','SIXTH','SLEEP',
+    'SLEEPS','SMART','SMUG','SNOW','SOCIAL','SOFTWARE','SOMATIC','SOUND','SOURCE',
+    'SOURCES','SOUTH','SPACE','SPEAKING','SPEAKS','SPECIFIC','SPECT','SPECTRAL',
+    'SPEEDRUN','SPINE','SPRAY','SQUARE','SQUARES','STABLE','STACK','STAGE','STAGES',
+    'STAGNANT','STALL','STANDS','STATES','STATION','STATUS','STATUTES','STEPS',
+    'STILL','STIRRING','STORM','STORY','STRANGE','STRATEGY','STRONG',
+    'STYLE','SUCCESS','SUPREME','SURGERY','SURVIVE','SURVIVES','SWEEP',
+    'SYMMETRY','SYSTEM','SYSTEMS','TABLE','TARGET','TARGETS','TEMPLATE','TEMPORAL',
+    'TENSION','TENTH','TERM','TERMS','TEXT','TEXTS','THERE','THESE','THESIS',
+    'THINK','THIRD','THIRTY','THREADS','THREAT','THREE','THRONE','THROUGH',
+    'TIER','TIERS','TIME','TIPS','TONE','TONES','TOPOLOGY','TORT','TOTAL','TOWARD',
+    'TOWNS','TOXIC','TRACK','TRAIL','TRAILING','TRAIN','TRAINING','TRAINS','TRANSFER',
+    'TRAUMA','TREATED','TREE','TREND','TRINITY','TRUE','TRUTH','TUNNELS','TWEETS',
+    'TWENTY','TWITTER','UNDER','UNIFY','UNION','UNKNOWN','UPDATE','UPDATED',
+    'URLS','USER','UTILITY','VALID','VALUE','VARIABLE','VECTOR','VENTURE','VERDICT',
+    'VERIFIED','VERSION','VICE','VICTIM','VIEW','VIII','VIRAL','VISIBLE','VISION',
+    'VISUAL','VOID','WAKES','WARM','WARNING','WAVEFORM','WEAK','WEAKEST','WEIGHT',
+    'WEIGHTED','WEIGHTS','WEST','WHAT','WHEN','WHERE','WHILE','WHITE',
+    'WIDE','WIND','WINTER','WITNESS','WORD',
+    'WORK','WORKER','WORKS','WORLD','WOULD','WOUND','WRONG','WRONGFUL','YEAR',
+    'YEARS','ZERO','ZEROETH','YARD','YOUR',
+    'OMEGA','GAMMA','BETA','SIGMA','THETA','LAMBDA',
+    'HTTP','JSON','ISBN','HTML','RSS','XML','API',
+    'FEMA','NASA','NORAD','DARPA','ARPA',
+})
 
 @dataclass
 class Entity:
@@ -227,7 +315,7 @@ class SpectralOSINT:
                     if org in aliases or org == canonical:
                         org = canonical
                         break
-                if org in self.alias_map or len(org) > 3:
+                if (org in self.alias_map or len(org) > 3) and org.upper() not in STOPWORDS:
                     extracted['organizations'].add(org)
         for m in self.patterns['location'].finditer(text):
             extracted['locations'].add(m.group(1).strip())
@@ -372,31 +460,41 @@ class SpectralOSINT:
         if matrix is None: matrix = self.build_adjacency_matrix()
         n = len(matrix)
         if n == 0: return []
-        eigenvalues = []
-        wm = [row[:] for row in matrix]
-        for _ in range(min(n, 10)):
-            v = [1.0/max(n,1)] * n
-            ev = 0.0
-            for _ in range(max_iter):
-                nv = [sum(wm[i][j]*v[j] for j in range(n)) for i in range(n)]
-                norm = math.sqrt(sum(x*x for x in nv))
-                if norm < 1e-12: break
-                nv = [x/norm for x in nv]
-                new_ev = sum(nv[i]*v[i] for i in range(n))
-                if abs(new_ev - ev) < 1e-10:
+        if HAS_NUMPY and n > 10:
+            A = np.array(matrix, dtype=float)
+            # Symmetric matrix -> real eigenvalues
+            eigs = np.linalg.eigvalsh(A)
+            eigs = sorted(eigs, key=lambda x: abs(x), reverse=True)
+            eigenvalues = [float(e) for e in eigs[:min(n, 20)]]
+            self.eigenvalue_cache = eigenvalues
+            return eigenvalues
+        else:
+            # Fallback: power iteration with deflation (for small matrices or no numpy)
+            eigenvalues = []
+            wm = [row[:] for row in matrix]
+            for _ in range(min(n, 10)):
+                v = [1.0/max(n,1)] * n
+                ev = 0.0
+                for _ in range(max_iter):
+                    nv = [sum(wm[i][j]*v[j] for j in range(n)) for i in range(n)]
+                    norm = math.sqrt(sum(x*x for x in nv))
+                    if norm < 1e-12: break
+                    nv = [x/norm for x in nv]
+                    new_ev = sum(nv[i]*v[i] for i in range(n))
+                    if abs(new_ev - ev) < 1e-10:
+                        ev = new_ev
+                        break
                     ev = new_ev
-                    break
-                ev = new_ev
-                v = nv
-            if abs(ev) > 1e-10:
-                eigenvalues.append(ev)
-                for i in range(n):
-                    for j in range(n):
-                        wm[i][j] -= ev * v[i] * v[j]
-            else: break
-        eigenvalues.sort(key=lambda x: abs(x), reverse=True)
-        self.eigenvalue_cache = eigenvalues
-        return eigenvalues
+                    v = nv
+                if abs(ev) > 1e-10:
+                    eigenvalues.append(ev)
+                    for i in range(n):
+                        for j in range(n):
+                            wm[i][j] -= ev * v[i] * v[j]
+                else: break
+            eigenvalues.sort(key=lambda x: abs(x), reverse=True)
+            self.eigenvalue_cache = eigenvalues
+            return eigenvalues
 
     def spectral_analysis(self):
         mat = self.build_adjacency_matrix()
