@@ -1,0 +1,2387 @@
+{
+  "engine": "Spectral Resolution Engine",
+  "version": 1,
+  "timestamp": "2026-06-29T10:44:00Z",
+  "total_crimes": 104,
+  "resolvable": 55,
+  "blocked": 49,
+  "no_statute": 1,
+  "method": "Legal statute mapping + venue routing + blocker identification",
+  "results": [
+    {
+      "crime_name": "gentrification_weapon",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.217,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "infrastructure_sabotage",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2113,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "depleted_uranium_generational",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2108,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "automated_decision_harm",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2105,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "housing_as_weapon",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2093,
+      "applicable_statute": "Fair Housing Act 42 USC \u00a73601-3619",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Fair Housing Act 42 USC \u00a73601-3619",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "memory_hole",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2071,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "water_table_depletion",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2011,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "indigenous_land_violation",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2006,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "sanctions_evasion",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2001,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "commarket_manipulation",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1995,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "vaccine_disinformation",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1986,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "wage_theft",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1964,
+      "applicable_statute": "Fair Labor Standards Act 29 USC \u00a7201-219",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Fair Labor Standards Act 29 USC \u00a7201-219",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "timber_trafficking",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1963,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "intergenerational_toxin",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1953,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "data_colonialism",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.193,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "wealth_concealment_elite",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1909,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "cognitive_sovereignty_violation",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1899,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "forbidden_knowledge_suppression",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1875,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "siege_warfare_civilian",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1872,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "judicial_corruption",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1869,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "sovereignty_violation",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1866,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "deepfake_abuse_personal",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1863,
+      "applicable_statute": "VAWAA 2024 + state revenge porn statutes",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under VAWAA 2024 + state revenge porn statutes",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "crypto_crime",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1848,
+      "applicable_statute": "Securities Exchange Act \u00a710(b) + CFTC Act",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Securities Exchange Act \u00a710(b) + CFTC Act",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "eviction_as_violence",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1842,
+      "applicable_statute": "Tenant Protection Act + state eviction law",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Tenant Protection Act + state eviction law",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "credit_rating_fraud",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1839,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "asylum_denial_illegal",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1834,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "platform_monopoly_abuse",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1816,
+      "applicable_statute": "Sherman Act \u00a72 + Clayton Act \u00a77",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Sherman Act \u00a72 + Clayton Act \u00a77",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "antibiotic_resistance_agriculture",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1814,
+      "applicable_statute": "FDA Food Safety Modernization Act",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under FDA Food Safety Modernization Act",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "land_grab",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1797,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "seed_patent_extortion",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1786,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "election_hacking",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1777,
+      "applicable_statute": "52 USC \u00a730121 + Computer Fraud and Abuse Act",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under 52 USC \u00a730121 + Computer Fraud and Abuse Act",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "worker_safety_homicide",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1742,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "forced_labor_corporate",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.174,
+      "applicable_statute": "Trafficking Victims Protection Act + Uyghur Forced Labor Prevention Act",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Trafficking Victims Protection Act + Uyghur Forced Labor Prevention Act",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "orphan_drug_exploitation",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1738,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "academic_capture",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1723,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "ip_theft",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1708,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "shadow_banking_crime",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1707,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "international_law_violation",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1706,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "historical_revisionism",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1704,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "tobacco_continued_targeting",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1688,
+      "applicable_statute": "Tobacco Control Act + Master Settlement Agreement",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Tobacco Control Act + Master Settlement Agreement",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "agricultural_monopoly",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.168,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "sexual_violence_weapon",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1671,
+      "applicable_statute": "Rome Statute Art. 7(1)(g) + ICTY/ICTR precedent",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Rome Statute Art. 7(1)(g) + ICTY/ICTR precedent",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "illegal_fishing",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1665,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "ocean_acidification_concealment",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1656,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "ai_washing_fraud",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1648,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "scientific_fraud_health",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1632,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "digital_redlining",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1618,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "bribe_network_international",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1597,
+      "applicable_statute": "FCPA 15 USC \u00a778dd-1",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under FCPA 15 USC \u00a778dd-1",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "education_denial",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1596,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "deepfake_weaponization",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.157,
+      "applicable_statute": "National Defense Authorization Act + election law",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under National Defense Authorization Act + election law",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "patent_hoarding",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1565,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "food_desert_engineering",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1561,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "epistemic_violence",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1534,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "content_moderation_bias",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1518,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "geneva_convention_violation",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1504,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Prosecution + sentencing + restitution"
+      },
+      "blockers": [
+        "No structural blockers identified \u2014 inaction is choice, not constraint"
+      ],
+      "resolvable": true
+    },
+    {
+      "crime_name": "medical_experimentation",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1483,
+      "applicable_statute": "Common Rule 45 CFR \u00a746 + Nuremberg Code",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Common Rule 45 CFR \u00a746 + Nuremberg Code",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "dark_pattern_deception",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1472,
+      "applicable_statute": "FTC Act \u00a75 + state consumer protection",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under FTC Act \u00a75 + state consumer protection",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "predictive_policing_bias",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1465,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "pesticide_harm_concealment",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1455,
+      "applicable_statute": "FIFRA + EPA pesticide registration",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under FIFRA + EPA pesticide registration",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "audit_fraud",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1455,
+      "applicable_statute": "Securities Exchange Act \u00a710A + SOX \u00a7303",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Securities Exchange Act \u00a710A + SOX \u00a7303",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "planned_obsolescence",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1453,
+      "applicable_statute": "FTC Act \u00a75 + Magnuson-Moss Warranty Act",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under FTC Act \u00a75 + Magnuson-Moss Warranty Act",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "enshitification",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1453,
+      "applicable_statute": "FTC Act \u00a75 + Communications Act \u00a7202",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under FTC Act \u00a75 + Communications Act \u00a7202",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "conflict_mineral_trade",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1447,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "mass_displacement_weapon",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1422,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "water_contamination_concealment",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1417,
+      "applicable_statute": "Clean Water Act + Safe Drinking Water Act",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Clean Water Act + Safe Drinking Water Act",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "synthetic_media_election",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1408,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "data_breach_negligence",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1407,
+      "applicable_statute": "GDPR + state breach notification laws",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under GDPR + state breach notification laws",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "geoengineering_covert",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1403,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "right_to_repair_violation",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1391,
+      "applicable_statute": "DMCA \u00a71201 + state right-to-repair laws",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under DMCA \u00a71201 + state right-to-repair laws",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "water_privatization",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1372,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "sovereign_debt_weapon",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1371,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "genetic_resource_theft",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1359,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "forced_marriage_state",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1352,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "constitutional_violation",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1322,
+      "applicable_statute": "42 USC \u00a71983 + Bivens doctrine",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under 42 USC \u00a71983 + Bivens doctrine",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "language_extinction",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1319,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "deep_sea_mining",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1318,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "asbestos_continued_use",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1317,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "consumer_fraud_systematic",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1288,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "autonomous_ai_crime",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1276,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "assassination_program",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1263,
+      "applicable_statute": "ICC Art. 7(1)(a) + domestic murder statutes",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under ICC Art. 7(1)(a) + domestic murder statutes",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "antarctic_exploitation",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1253,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "wildlife_trafficking",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.124,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "biopiracy",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1234,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "human_shield_forcing",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1231,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "child_soldier_recruitment",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1222,
+      "applicable_statute": "Optional Protocol on Children in Armed Conflict",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Optional Protocol on Children in Armed Conflict",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "vulture_fund_harm",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.12,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "space_debris_pollution",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1196,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "prison_gerrymandering",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1194,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "narcotic_state_trade",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.118,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "space_weaponization",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.116,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "cultural_artifact_trafficking",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1138,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "cultural_genocide",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1079,
+      "applicable_statute": "UN Convention on Cultural Rights + UNESCO",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under UN Convention on Cultural Rights + UNESCO",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "cyber_warfare_state",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1056,
+      "applicable_statute": "Cybersecurity Act + Geneva Conventions Protocol IV",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Cybersecurity Act + Geneva Conventions Protocol IV",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "weather_warfare",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1017,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "treaty_violation",
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1015,
+      "applicable_statute": "Indian Country Crimes Act + treaties ratified",
+      "legal_venues": [
+        "US District Court",
+        "DOJ",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Indian Country Crimes Act + treaties ratified",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "30 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "conversion_therapy_abuse",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1007,
+      "applicable_statute": "No specific statute identified",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No specific statute identified",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "forced_sterilization",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0994,
+      "applicable_statute": "ICE detention standards + 42 USC \u00a71983",
+      "legal_venues": [
+        "ICC",
+        "US District Court",
+        "Inter-American Commission"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under ICE detention standards + 42 USC \u00a71983",
+        "step_2_venue": "File in ICC",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "pharma_experimentation_developing",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0993,
+      "applicable_statute": "Declaration of Helsinki + Belmond Report",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Declaration of Helsinki + Belmond Report",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "sentient_ai_rights_violation",
+      "severity": "LOW",
+      "prosecution_probability": 0.094,
+      "applicable_statute": "No existing statute (jurisdictional gap)",
+      "legal_venues": [
+        "Civil Court",
+        "Administrative Body"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under No existing statute (jurisdictional gap)",
+        "step_2_venue": "File in Civil Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Jurisdictional gap \u2014 no applicable law",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "economic_sabotage",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0902,
+      "applicable_statute": "Economic Espionage Act 18 USC \u00a71831",
+      "legal_venues": [
+        "State Court",
+        "Relevant Agency"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Economic Espionage Act 18 USC \u00a71831",
+        "step_2_venue": "File in State Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "extraordinary_rendition",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0866,
+      "applicable_statute": "Torture Convention + ICC Art. 7(1)(e)",
+      "legal_venues": [
+        "ICC",
+        "European Court of Human Rights",
+        "UN CAT"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Torture Convention + ICC Art. 7(1)(e)",
+        "step_2_venue": "File in ICC",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "black_site_operation",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0801,
+      "applicable_statute": "Torture Convention + ICC Art. 7(1)(f)",
+      "legal_venues": [
+        "ICC",
+        "European Court of Human Rights",
+        "UN CAT"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Torture Convention + ICC Art. 7(1)(f)",
+        "step_2_venue": "File in ICC",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "child_separation_policy",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0756,
+      "applicable_statute": "Flores Settlement + INA + 42 USC \u00a71983",
+      "legal_venues": [
+        "US District Court",
+        "Inter-American Commission",
+        "DOJ Civil Rights"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Flores Settlement + INA + 42 USC \u00a71983",
+        "step_2_venue": "File in US District Court",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    },
+    {
+      "crime_name": "concentration_camp_operation",
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0716,
+      "applicable_statute": "Geneva Convention IV + Rome Statute Art. 7",
+      "legal_venues": [
+        "ICC",
+        "Geneva Conventions",
+        "UN Human Rights Council"
+      ],
+      "resolution_path": {
+        "step_1_file": "File under Geneva Convention IV + Rome Statute Art. 7",
+        "step_2_venue": "File in ICC",
+        "step_3_evidence": "Spectrometer data + Horror Engine eigenvalue + Victim Impact Calculator",
+        "step_4_actor": "Assigned actor from Implementation Matrix",
+        "step_5_deadline": "60 days from filing",
+        "step_6_expected": "Likely inaction (structural impunity)"
+      },
+      "blockers": [
+        "State crime \u2014 state does not prosecute itself",
+        "Low prosecution probability \u2014 structural impunity"
+      ],
+      "resolvable": false
+    }
+  ]
+}
