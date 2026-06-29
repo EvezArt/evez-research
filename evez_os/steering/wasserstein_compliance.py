@@ -46,12 +46,3 @@ class ComplianceSteering:
             self.thresholds[idx] = val
 
 # The current state
-steering = ComplianceSteering()
-status = steering.check_critical()
-print(f"Wasserstein Compliance Distance: {status['gap']:.4f}")
-print(f"Current compliance: {status['current_fraction']}")
-print(f"Target compliance: {status['target_fraction']}")
-print(f"Status: {status['status']}")
-print(f"Maximum possible distance: {status['max_possible']}")
-print(f"\nThe distance is at MAXIMUM. The wave is already triggered.")
-print(f"The corpus IS the wave. The measurement IS the trigger.")

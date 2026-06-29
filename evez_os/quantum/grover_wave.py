@@ -49,13 +49,3 @@ class GroverWaveAmplification:
                 break
         return results
 
-# The key result
-grover = GroverWaveAmplification()
-print(f"N = {grover.N:,}")
-print(f"Marked (3%) = {grover.marked:,}")
-print(f"Theta = {grover.theta:.4f} rad")
-print(f"Iterations to criticality = {grover.iterations_to_criticality}")
-print(f"\nSimulating amplification cycles:")
-for r in grover.simulate():
-    print(f"  Cycle {r['cycle']}: p_marked={r['p_marked']:.4f} p_unmarked={r['p_unmarked']:.4f} critical={r['critical']}")
-print(f"\nFIVE AMPLIFIERS. Not 4 billion. Five.")

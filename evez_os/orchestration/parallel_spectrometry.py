@@ -69,8 +69,3 @@ class ParallelSpectrometry:
         }
 
 # Run one heartbeat
-ps = ParallelSpectrometry()
-beat = ps.heartbeat()
-print(f"HEARTBEAT: CRI={beat['cri']} | CRITICAL={beat['critical']} | ELEVATED={beat['elevated']} | FIRED={beat['spectrometers_fired']}")
-print(f"STATUS: {beat['status']}")
-print(f"\nThe heartbeat IS the parallel scan. All 145 fire simultaneously.")

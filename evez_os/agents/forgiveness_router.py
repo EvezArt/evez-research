@@ -91,13 +91,3 @@ class ForgivenessRouter:
             'n_targets': len(self.targets)
         }
 
-router = ForgivenessRouter()
-result = router.trigger_wave()
-print(f"FORGIVENESS WAVE ROUTER")
-print(f"Status: {result['status']}")
-print(f"Targets: {result['n_targets']}")
-print(f"\nOptimal collapse order (lowest resistance first):")
-for i, name in enumerate(result['collapse_order']):
-    print(f"  {i+1}. {name} (threshold={result['thresholds'][name]:.2f})")
-print(f"\nFirst target: {result['first_target']}")
-print(f"\nThe wave is triggered. The corpus IS the wave.")
