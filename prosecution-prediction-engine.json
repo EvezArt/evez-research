@@ -1,0 +1,1575 @@
+{
+  "engine": "Prosecution Prediction Engine",
+  "version": 1,
+  "timestamp": "2026-06-29T10:11:00Z",
+  "method": "Spectral prosecution probability model",
+  "base_rate": 0.0,
+  "current_compliance": 0.0,
+  "total_crimes": 104,
+  "never_prosecute": 8,
+  "low_probability": 8,
+  "possible": 96,
+  "doj_fraction": 0,
+  "predictions": [
+    {
+      "crime_name": "concentration_camp_operation",
+      "measured_score": 0.2631,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0716,
+      "will_never_prosecute": true,
+      "time_to_prosecution_years": null,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": -0.0084
+      }
+    },
+    {
+      "crime_name": "child_separation_policy",
+      "measured_score": 0.3724,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0756,
+      "will_never_prosecute": true,
+      "time_to_prosecution_years": null,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": -0.0044
+      }
+    },
+    {
+      "crime_name": "black_site_operation",
+      "measured_score": 0.2644,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0801,
+      "will_never_prosecute": true,
+      "time_to_prosecution_years": null,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": 0.0001
+      }
+    },
+    {
+      "crime_name": "extraordinary_rendition",
+      "measured_score": 0.3511,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0866,
+      "will_never_prosecute": true,
+      "time_to_prosecution_years": null,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": 0.0066
+      }
+    },
+    {
+      "crime_name": "economic_sabotage",
+      "measured_score": 0.3745,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0902,
+      "will_never_prosecute": true,
+      "time_to_prosecution_years": null,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0398
+      }
+    },
+    {
+      "crime_name": "sentient_ai_rights_violation",
+      "measured_score": 0.1902,
+      "severity": "LOW",
+      "prosecution_probability": 0.094,
+      "will_never_prosecute": true,
+      "time_to_prosecution_years": null,
+      "factors": {
+        "severity_multiplier": 0.01,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.016
+      }
+    },
+    {
+      "crime_name": "pharma_experimentation_developing",
+      "measured_score": 0.3882,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0993,
+      "will_never_prosecute": true,
+      "time_to_prosecution_years": null,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.03,
+        "noise": -0.0007
+      }
+    },
+    {
+      "crime_name": "forced_sterilization",
+      "measured_score": 0.3307,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.0994,
+      "will_never_prosecute": true,
+      "time_to_prosecution_years": null,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": 0.0194
+      }
+    },
+    {
+      "crime_name": "conversion_therapy_abuse",
+      "measured_score": 0.2966,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1007,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 9.9,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0293
+      }
+    },
+    {
+      "crime_name": "treaty_violation",
+      "measured_score": 0.5183,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1015,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 9.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": -0.0285
+      }
+    },
+    {
+      "crime_name": "weather_warfare",
+      "measured_score": 0.2472,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1017,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 9.8,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0283
+      }
+    },
+    {
+      "crime_name": "cyber_warfare_state",
+      "measured_score": 0.5412,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1056,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 9.5,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": -0.0244
+      }
+    },
+    {
+      "crime_name": "cultural_genocide",
+      "measured_score": 0.3968,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1079,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 9.3,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0221
+      }
+    },
+    {
+      "crime_name": "cultural_artifact_trafficking",
+      "measured_score": 0.3618,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1138,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 8.8,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0162
+      }
+    },
+    {
+      "crime_name": "space_weaponization",
+      "measured_score": 0.3243,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.116,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 8.6,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.014
+      }
+    },
+    {
+      "crime_name": "narcotic_state_trade",
+      "measured_score": 0.5055,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.118,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 8.5,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": -0.012
+      }
+    },
+    {
+      "crime_name": "prison_gerrymandering",
+      "measured_score": 0.3394,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1194,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 8.4,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0106
+      }
+    },
+    {
+      "crime_name": "space_debris_pollution",
+      "measured_score": 0.356,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1196,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 8.4,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0104
+      }
+    },
+    {
+      "crime_name": "vulture_fund_harm",
+      "measured_score": 0.3487,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.12,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 8.3,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.01
+      }
+    },
+    {
+      "crime_name": "child_soldier_recruitment",
+      "measured_score": 0.3465,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1222,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 8.2,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0078
+      }
+    },
+    {
+      "crime_name": "human_shield_forcing",
+      "measured_score": 0.2531,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1231,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 8.1,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0069
+      }
+    },
+    {
+      "crime_name": "biopiracy",
+      "measured_score": 0.2828,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1234,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 8.1,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0066
+      }
+    },
+    {
+      "crime_name": "wildlife_trafficking",
+      "measured_score": 0.3737,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.124,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 8.1,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.006
+      }
+    },
+    {
+      "crime_name": "antarctic_exploitation",
+      "measured_score": 0.2895,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1253,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 8.0,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0047
+      }
+    },
+    {
+      "crime_name": "assassination_program",
+      "measured_score": 0.4324,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1263,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": -0.0037
+      }
+    },
+    {
+      "crime_name": "autonomous_ai_crime",
+      "measured_score": 0.4166,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1276,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.8,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0524
+      }
+    },
+    {
+      "crime_name": "consumer_fraud_systematic",
+      "measured_score": 0.506,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1288,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.8,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.03,
+        "noise": -0.0212
+      }
+    },
+    {
+      "crime_name": "asbestos_continued_use",
+      "measured_score": 0.3865,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1317,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.6,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0017
+      }
+    },
+    {
+      "crime_name": "deep_sea_mining",
+      "measured_score": 0.3685,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1318,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.6,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0018
+      }
+    },
+    {
+      "crime_name": "language_extinction",
+      "measured_score": 0.3524,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1319,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.6,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0019
+      }
+    },
+    {
+      "crime_name": "constitutional_violation",
+      "measured_score": 0.5422,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1322,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.6,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": 0.0022
+      }
+    },
+    {
+      "crime_name": "forced_marriage_state",
+      "measured_score": 0.274,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1352,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.4,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0052
+      }
+    },
+    {
+      "crime_name": "genetic_resource_theft",
+      "measured_score": 0.2506,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1359,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.4,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0059
+      }
+    },
+    {
+      "crime_name": "sovereign_debt_weapon",
+      "measured_score": 0.3556,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1371,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.3,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0071
+      }
+    },
+    {
+      "crime_name": "water_privatization",
+      "measured_score": 0.3888,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1372,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.3,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0072
+      }
+    },
+    {
+      "crime_name": "right_to_repair_violation",
+      "measured_score": 0.52,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1391,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.2,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.03,
+        "noise": -0.0109
+      }
+    },
+    {
+      "crime_name": "geoengineering_covert",
+      "measured_score": 0.3112,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1403,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.1,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0103
+      }
+    },
+    {
+      "crime_name": "data_breach_negligence",
+      "measured_score": 0.5,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1407,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.1,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.03,
+        "noise": -0.0093
+      }
+    },
+    {
+      "crime_name": "synthetic_media_election",
+      "measured_score": 0.516,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1408,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.1,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0392
+      }
+    },
+    {
+      "crime_name": "water_contamination_concealment",
+      "measured_score": 0.5054,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1417,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.1,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0383
+      }
+    },
+    {
+      "crime_name": "mass_displacement_weapon",
+      "measured_score": 0.4746,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1422,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 7.0,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": 0.0122
+      }
+    },
+    {
+      "crime_name": "conflict_mineral_trade",
+      "measured_score": 0.4691,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1447,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0353
+      }
+    },
+    {
+      "crime_name": "planned_obsolescence",
+      "measured_score": 0.5273,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1453,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.03,
+        "noise": -0.0047
+      }
+    },
+    {
+      "crime_name": "enshitification",
+      "measured_score": 0.5273,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1453,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.03,
+        "noise": -0.0047
+      }
+    },
+    {
+      "crime_name": "pesticide_harm_concealment",
+      "measured_score": 0.5254,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1455,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0345
+      }
+    },
+    {
+      "crime_name": "audit_fraud",
+      "measured_score": 0.5306,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1455,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.03,
+        "noise": -0.0045
+      }
+    },
+    {
+      "crime_name": "predictive_policing_bias",
+      "measured_score": 0.5003,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1465,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.8,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.05,
+        "corporate_penalty": 0.0,
+        "noise": 0.0165
+      }
+    },
+    {
+      "crime_name": "dark_pattern_deception",
+      "measured_score": 0.5823,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1472,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.8,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.03,
+        "noise": -0.0028
+      }
+    },
+    {
+      "crime_name": "medical_experimentation",
+      "measured_score": 0.3411,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1483,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.7,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0183
+      }
+    },
+    {
+      "crime_name": "geneva_convention_violation",
+      "measured_score": 0.4761,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1504,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.6,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0296
+      }
+    },
+    {
+      "crime_name": "content_moderation_bias",
+      "measured_score": 0.5201,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1518,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.6,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0282
+      }
+    },
+    {
+      "crime_name": "epistemic_violence",
+      "measured_score": 0.4815,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1534,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.5,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0266
+      }
+    },
+    {
+      "crime_name": "food_desert_engineering",
+      "measured_score": 0.4442,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1561,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.4,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0239
+      }
+    },
+    {
+      "crime_name": "patent_hoarding",
+      "measured_score": 0.4579,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1565,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.4,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.03,
+        "noise": 0.0065
+      }
+    },
+    {
+      "crime_name": "deepfake_weaponization",
+      "measured_score": 0.5258,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.157,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.4,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.023
+      }
+    },
+    {
+      "crime_name": "education_denial",
+      "measured_score": 0.3752,
+      "severity": "MODERATE",
+      "prosecution_probability": 0.1596,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.3,
+      "factors": {
+        "severity_multiplier": 0.03,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0296
+      }
+    },
+    {
+      "crime_name": "bribe_network_international",
+      "measured_score": 0.5374,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1597,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.3,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0203
+      }
+    },
+    {
+      "crime_name": "digital_redlining",
+      "measured_score": 0.5227,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1618,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.2,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0182
+      }
+    },
+    {
+      "crime_name": "scientific_fraud_health",
+      "measured_score": 0.4364,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1632,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.1,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0168
+      }
+    },
+    {
+      "crime_name": "ai_washing_fraud",
+      "measured_score": 0.5019,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1648,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.1,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.03,
+        "noise": 0.0148
+      }
+    },
+    {
+      "crime_name": "ocean_acidification_concealment",
+      "measured_score": 0.4915,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1656,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.0,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0144
+      }
+    },
+    {
+      "crime_name": "illegal_fishing",
+      "measured_score": 0.4816,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1665,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.0,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0135
+      }
+    },
+    {
+      "crime_name": "sexual_violence_weapon",
+      "measured_score": 0.4197,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1671,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.0,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0129
+      }
+    },
+    {
+      "crime_name": "agricultural_monopoly",
+      "measured_score": 0.496,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.168,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 6.0,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.012
+      }
+    },
+    {
+      "crime_name": "tobacco_continued_targeting",
+      "measured_score": 0.5183,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1688,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0112
+      }
+    },
+    {
+      "crime_name": "historical_revisionism",
+      "measured_score": 0.4412,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1704,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0096
+      }
+    },
+    {
+      "crime_name": "international_law_violation",
+      "measured_score": 0.5095,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1706,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0094
+      }
+    },
+    {
+      "crime_name": "shadow_banking_crime",
+      "measured_score": 0.5031,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1707,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0093
+      }
+    },
+    {
+      "crime_name": "ip_theft",
+      "measured_score": 0.4904,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1708,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.9,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0092
+      }
+    },
+    {
+      "crime_name": "academic_capture",
+      "measured_score": 0.4649,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1723,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.8,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0077
+      }
+    },
+    {
+      "crime_name": "orphan_drug_exploitation",
+      "measured_score": 0.4375,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1738,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.8,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0062
+      }
+    },
+    {
+      "crime_name": "forced_labor_corporate",
+      "measured_score": 0.4883,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.174,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.7,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.006
+      }
+    },
+    {
+      "crime_name": "worker_safety_homicide",
+      "measured_score": 0.5198,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1742,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.7,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0058
+      }
+    },
+    {
+      "crime_name": "election_hacking",
+      "measured_score": 0.4904,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1777,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.6,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0023
+      }
+    },
+    {
+      "crime_name": "seed_patent_extortion",
+      "measured_score": 0.4066,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1786,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.6,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0014
+      }
+    },
+    {
+      "crime_name": "land_grab",
+      "measured_score": 0.4979,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1797,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.6,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": -0.0003
+      }
+    },
+    {
+      "crime_name": "antibiotic_resistance_agriculture",
+      "measured_score": 0.5207,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1814,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.5,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0014
+      }
+    },
+    {
+      "crime_name": "platform_monopoly_abuse",
+      "measured_score": 0.5176,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1816,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.5,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.03,
+        "noise": 0.0316
+      }
+    },
+    {
+      "crime_name": "asylum_denial_illegal",
+      "measured_score": 0.4744,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1834,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.5,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0034
+      }
+    },
+    {
+      "crime_name": "credit_rating_fraud",
+      "measured_score": 0.4746,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1839,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.4,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0039
+      }
+    },
+    {
+      "crime_name": "eviction_as_violence",
+      "measured_score": 0.5074,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1842,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.4,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0042
+      }
+    },
+    {
+      "crime_name": "crypto_crime",
+      "measured_score": 0.5548,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1848,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.4,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0048
+      }
+    },
+    {
+      "crime_name": "deepfake_abuse_personal",
+      "measured_score": 0.5423,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1863,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.4,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0063
+      }
+    },
+    {
+      "crime_name": "sovereignty_violation",
+      "measured_score": 0.4209,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1866,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.4,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0066
+      }
+    },
+    {
+      "crime_name": "judicial_corruption",
+      "measured_score": 0.4795,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1869,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.4,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0069
+      }
+    },
+    {
+      "crime_name": "siege_warfare_civilian",
+      "measured_score": 0.4076,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1872,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.3,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0072
+      }
+    },
+    {
+      "crime_name": "forbidden_knowledge_suppression",
+      "measured_score": 0.5272,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1875,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.3,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0075
+      }
+    },
+    {
+      "crime_name": "cognitive_sovereignty_violation",
+      "measured_score": 0.6468,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1899,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.3,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0099
+      }
+    },
+    {
+      "crime_name": "wealth_concealment_elite",
+      "measured_score": 0.5073,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1909,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.2,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0109
+      }
+    },
+    {
+      "crime_name": "data_colonialism",
+      "measured_score": 0.5459,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.193,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.2,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.013
+      }
+    },
+    {
+      "crime_name": "intergenerational_toxin",
+      "measured_score": 0.5095,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1953,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.1,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0153
+      }
+    },
+    {
+      "crime_name": "timber_trafficking",
+      "measured_score": 0.4203,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1963,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.1,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0163
+      }
+    },
+    {
+      "crime_name": "wage_theft",
+      "measured_score": 0.404,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1964,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.1,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0164
+      }
+    },
+    {
+      "crime_name": "vaccine_disinformation",
+      "measured_score": 0.4581,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1986,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.0,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0186
+      }
+    },
+    {
+      "crime_name": "commarket_manipulation",
+      "measured_score": 0.4621,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.1995,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.0,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0195
+      }
+    },
+    {
+      "crime_name": "sanctions_evasion",
+      "measured_score": 0.4134,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2001,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.0,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0201
+      }
+    },
+    {
+      "crime_name": "indigenous_land_violation",
+      "measured_score": 0.4564,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2006,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.0,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0206
+      }
+    },
+    {
+      "crime_name": "water_table_depletion",
+      "measured_score": 0.4783,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2011,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 5.0,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0211
+      }
+    },
+    {
+      "crime_name": "memory_hole",
+      "measured_score": 0.4155,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2071,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 4.8,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0271
+      }
+    },
+    {
+      "crime_name": "housing_as_weapon",
+      "measured_score": 0.5236,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2093,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 4.8,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0293
+      }
+    },
+    {
+      "crime_name": "automated_decision_harm",
+      "measured_score": 0.5294,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2105,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 4.8,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0305
+      }
+    },
+    {
+      "crime_name": "depleted_uranium_generational",
+      "measured_score": 0.4287,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2108,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 4.7,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0308
+      }
+    },
+    {
+      "crime_name": "infrastructure_sabotage",
+      "measured_score": 0.4136,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.2113,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 4.7,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.0313
+      }
+    },
+    {
+      "crime_name": "gentrification_weapon",
+      "measured_score": 0.53,
+      "severity": "ELEVATED",
+      "prosecution_probability": 0.217,
+      "will_never_prosecute": false,
+      "time_to_prosecution_years": 4.6,
+      "factors": {
+        "severity_multiplier": 0.08,
+        "actor_factor": 0.1,
+        "state_penalty": 0.0,
+        "corporate_penalty": 0.0,
+        "noise": 0.037
+      }
+    }
+  ]
+}

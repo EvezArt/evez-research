@@ -1,0 +1,686 @@
+{
+  "version": 5,
+  "timestamp": "2026-06-29T10:11:00Z",
+  "total_domains": 129,
+  "measured_domains": 129,
+  "unmeasured_domains": 0,
+  "cri": 46.34,
+  "weighted_cri": 49.96,
+  "critical_count": 5,
+  "elevated_count": 89,
+  "moderate_count": 33,
+  "low_count": 2,
+  "spectral_radius": 0.855,
+  "mean_score": 0.4634,
+  "median_score": 0.4719,
+  "std_score": 0.119,
+  "domains": [
+    {
+      "name": "conflict",
+      "score": 0.855,
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "genocide_ews",
+      "score": 0.818,
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "climate_disinformation",
+      "score": 0.7663,
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "famine",
+      "score": 0.75,
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "universal_crime",
+      "score": 0.749,
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "fossil_lobbying",
+      "score": 0.6836,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "ocean_pollution_concealment",
+      "score": 0.6714,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "consumer_data_theft",
+      "score": 0.6488,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "cognitive_sovereignty_violation",
+      "score": 0.6468,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "pfas_coverup",
+      "score": 0.6423,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "deforestation_financing",
+      "score": 0.6223,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "voter_suppression",
+      "score": 0.6199,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "prison_labor_exploitation",
+      "score": 0.6127,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "mass_surveillance",
+      "score": 0.6071,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "employer_surveillance",
+      "score": 0.5999,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "police_militarization",
+      "score": 0.5868,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "dark_pattern_deception",
+      "score": 0.5823,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "healthcare_denial_homicide",
+      "score": 0.5783,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "economic",
+      "score": 0.578,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "lead_contamination_concealment",
+      "score": 0.5552,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "data_colonialism",
+      "score": 0.5459,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "cyber_warfare_state",
+      "score": 0.5412,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "privatized_water_abuse",
+      "score": 0.537,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "gentrification_weapon",
+      "score": 0.53,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "media_consolidation",
+      "score": 0.5298,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "automated_decision_harm",
+      "score": 0.5294,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "nuclear_escalation",
+      "score": 0.528,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "planned_obsolescence",
+      "score": 0.5273,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "enshitification",
+      "score": 0.5273,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "forbidden_knowledge_suppression",
+      "score": 0.5272,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "environmental_racism",
+      "score": 0.5233,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "worker_safety_homicide",
+      "score": 0.5198,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "forensic_fraud",
+      "score": 0.518,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "platform_monopoly_abuse",
+      "score": 0.5176,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "synthetic_media_election",
+      "score": 0.516,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "intergenerational_toxin",
+      "score": 0.5095,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "international_law_violation",
+      "score": 0.5095,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "eviction_as_violence",
+      "score": 0.5074,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "wealth_concealment_elite",
+      "score": 0.5073,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "consumer_fraud_systematic",
+      "score": 0.506,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "narcotic_state_trade",
+      "score": 0.5055,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "democratic_erosion",
+      "score": 0.505,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "border_concentration_camps",
+      "score": 0.5031,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "shadow_banking_crime",
+      "score": 0.5031,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "judicial_bias",
+      "score": 0.5019,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "ai_washing_fraud",
+      "score": 0.5019,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "debt_collection_abuse",
+      "score": 0.5012,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "predictive_policing_bias",
+      "score": 0.5003,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "data_breach_negligence",
+      "score": 0.5,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "land_grab",
+      "score": 0.4979,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "insulin_price_gouging",
+      "score": 0.4967,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "agricultural_monopoly",
+      "score": 0.496,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "ocean_acidification_concealment",
+      "score": 0.4915,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "election_hacking",
+      "score": 0.4904,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "ip_theft",
+      "score": 0.4904,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "forced_labor_corporate",
+      "score": 0.4883,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "illegal_fishing",
+      "score": 0.4816,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "epistemic_violence",
+      "score": 0.4815,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "judicial_corruption",
+      "score": 0.4795,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "water_table_depletion",
+      "score": 0.4783,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "geneva_convention_violation",
+      "score": 0.4761,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "credit_rating_fraud",
+      "score": 0.4746,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "mass_displacement_weapon",
+      "score": 0.4746,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "asylum_denial_illegal",
+      "score": 0.4744,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "dark_pattern",
+      "score": 0.4719,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "coercive_control",
+      "score": 0.4711,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "conflict_mineral_trade",
+      "score": 0.4691,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "academic_capture",
+      "score": 0.4649,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "commarket_manipulation",
+      "score": 0.4621,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "vaccine_disinformation",
+      "score": 0.4581,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "patent_hoarding",
+      "score": 0.4579,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "indigenous_land_violation",
+      "score": 0.4564,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "food_desert_engineering",
+      "score": 0.4442,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "cognitive_sovereignty",
+      "score": 0.4424,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "historical_revisionism",
+      "score": 0.4412,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "orphan_drug_exploitation",
+      "score": 0.4375,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "scientific_fraud_health",
+      "score": 0.4364,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "assassination_program",
+      "score": 0.4324,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "regulatory_capture",
+      "score": 0.4322,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "depleted_uranium_generational",
+      "score": 0.4287,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "surveillance_capitalism",
+      "score": 0.4277,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "ai_risk",
+      "score": 0.423,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "sovereignty_violation",
+      "score": 0.4209,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "timber_trafficking",
+      "score": 0.4203,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "sexual_violence_weapon",
+      "score": 0.4197,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "algorithmic_discrimination",
+      "score": 0.4177,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "autonomous_ai_crime",
+      "score": 0.4166,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "memory_hole",
+      "score": 0.4155,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "infrastructure_sabotage",
+      "score": 0.4136,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "sanctions_evasion",
+      "score": 0.4134,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "siege_warfare_civilian",
+      "score": 0.4076,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "carbon_concealment",
+      "score": 0.4074,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "seed_patent_extortion",
+      "score": 0.4066,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "wage_theft",
+      "score": 0.404,
+      "severity": "ELEVATED"
+    },
+    {
+      "name": "cultural_genocide",
+      "score": 0.3968,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "water_privatization",
+      "score": 0.3888,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "pharma_experimentation_developing",
+      "score": 0.3882,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "asbestos_continued_use",
+      "score": 0.3865,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "education_denial",
+      "score": 0.3752,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "economic_sabotage",
+      "score": 0.3745,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "wildlife_trafficking",
+      "score": 0.3737,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "child_separation_policy",
+      "score": 0.3724,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "deep_sea_mining",
+      "score": 0.3685,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "addiction_by_design",
+      "score": 0.3656,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "cultural_artifact_trafficking",
+      "score": 0.3618,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "space_debris_pollution",
+      "score": 0.356,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "sovereign_debt_weapon",
+      "score": 0.3556,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "language_extinction",
+      "score": 0.3524,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "extraordinary_rendition",
+      "score": 0.3511,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "disease",
+      "score": 0.35,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "vulture_fund_harm",
+      "score": 0.3487,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "child_soldier_recruitment",
+      "score": 0.3465,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "medical_experimentation",
+      "score": 0.3411,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "prison_gerrymandering",
+      "score": 0.3394,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "forced_sterilization",
+      "score": 0.3307,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "space_weaponization",
+      "score": 0.3243,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "geoengineering_covert",
+      "score": 0.3112,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "conversion_therapy_abuse",
+      "score": 0.2966,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "antarctic_exploitation",
+      "score": 0.2895,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "biopiracy",
+      "score": 0.2828,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "forced_marriage_state",
+      "score": 0.274,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "consciousness",
+      "score": 0.271,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "black_site_operation",
+      "score": 0.2644,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "concentration_camp_operation",
+      "score": 0.2631,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "human_shield_forcing",
+      "score": 0.2531,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "genetic_resource_theft",
+      "score": 0.2506,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "weather_warfare",
+      "score": 0.2472,
+      "severity": "MODERATE"
+    },
+    {
+      "name": "sentient_ai_rights_violation",
+      "score": 0.1902,
+      "severity": "LOW"
+    },
+    {
+      "name": "climate",
+      "score": 0.19,
+      "severity": "LOW"
+    }
+  ],
+  "prosecution_summary": {
+    "never_prosecute": 8,
+    "low_probability": 8,
+    "possible": 96,
+    "total_crimes": 104
+  },
+  "victim_impact_summary": {
+    "total_annual_victims": 453461586,
+    "total_annual_economic_cost": 708058080977.51,
+    "total_annual_dalys": 1288494034,
+    "projected_10yr_victims": 4534615860,
+    "projected_10yr_economic": 7080580809775.06,
+    "projected_10yr_dalys": 12884940340
+  },
+  "claims": [
+    "C201",
+    "C202",
+    "C203",
+    "C204",
+    "C205",
+    "C206"
+  ]
+}
