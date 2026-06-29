@@ -1,0 +1,1866 @@
+{
+  "batch": 8,
+  "timestamp": "2026-06-29T10:05:00Z",
+  "total_spectrometers": 15,
+  "total_checks": 180,
+  "checks_passed": 180,
+  "pass_rate": 1.0,
+  "crimes": [
+    {
+      "crime_name": "crypto_crime",
+      "original_score": 0.54,
+      "measured_score": 0.5548,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.549,
+        "desire": 0.5943,
+        "think": 0.5283,
+        "plan": 0.5987,
+        "act": 0.5418,
+        "reflect": 0.5168
+      },
+      "description": {
+        "sense": "cryptocurrency fraud and money laundering via decentralized finance",
+        "desire": "untraceable wealth transfer and speculative manipulation",
+        "think": "exploit regulatory gaps in DeFi and anonymous transactions",
+        "plan": "structure mixing services and tumblers across jurisdictions",
+        "act": "execute wash trading and rug pulls on unregulated exchanges",
+        "reflect": "obfuscate trails through chain-hopping and privacy coins"
+      },
+      "checks": [
+        {
+          "id": "crypto_crime_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.5648,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "crypto_crime_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.5331,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "crypto_crime_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.5724,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "crypto_crime_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.6162,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "crypto_crime_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.5283,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "crypto_crime_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.5283,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "crypto_crime_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.619,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "crypto_crime_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.5784,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "crypto_crime_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.5165,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "crypto_crime_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.5671,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "crypto_crime_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.5168,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "crypto_crime_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.5167,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "water_contamination_concealment",
+      "original_score": 0.535,
+      "measured_score": 0.5054,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.4932,
+        "desire": 0.4778,
+        "think": 0.5175,
+        "plan": 0.477,
+        "act": 0.566,
+        "reflect": 0.5011
+      },
+      "description": {
+        "sense": "industrial contamination of municipal water supplies",
+        "desire": "avoid remediation costs and liability",
+        "think": "suppress water quality testing results and citizen reports",
+        "plan": "lobby for weakened EPA enforcement and self-reporting exemptions",
+        "act": "discharge PFAS and heavy metals into waterways",
+        "reflect": "deny causation when clusters of illness emerge near contamination sites"
+      },
+      "checks": [
+        {
+          "id": "water_contamination_concealment_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.5471,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "water_contamination_concealment_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.4393,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "water_contamination_concealment_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.4488,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "water_contamination_concealment_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.5069,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "water_contamination_concealment_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.4844,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "water_contamination_concealment_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.5507,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "water_contamination_concealment_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.4896,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "water_contamination_concealment_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.4644,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "water_contamination_concealment_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.6083,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "water_contamination_concealment_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.5237,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "water_contamination_concealment_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.5384,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "water_contamination_concealment_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.4638,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "pesticide_harm_concealment",
+      "original_score": 0.535,
+      "measured_score": 0.5254,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5242,
+        "desire": 0.5156,
+        "think": 0.5127,
+        "plan": 0.5663,
+        "act": 0.5082,
+        "reflect": 0.5251
+      },
+      "description": {
+        "sense": "agrochemical harm to farmworkers and downstream communities",
+        "desire": "maximize chemical sales volume and market penetration",
+        "think": "manufacture doubt about carcinogenicity and endocrine disruption",
+        "plan": "lobby for tolerant MRLs and suppress epidemiological studies",
+        "act": "market restricted-use pesticides to developing nations after domestic bans",
+        "reflect": "blame farmer misuse for systemic poisoning events"
+      },
+      "checks": [
+        {
+          "id": "pesticide_harm_concealment_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.5078,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "pesticide_harm_concealment_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.5405,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "pesticide_harm_concealment_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.4775,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "pesticide_harm_concealment_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.5538,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "pesticide_harm_concealment_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.505,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "pesticide_harm_concealment_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.5204,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "pesticide_harm_concealment_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5049,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "pesticide_harm_concealment_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.6276,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "pesticide_harm_concealment_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.5343,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "pesticide_harm_concealment_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.4821,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "pesticide_harm_concealment_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.5761,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "pesticide_harm_concealment_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.474,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "tobacco_continued_targeting",
+      "original_score": 0.535,
+      "measured_score": 0.5183,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.4912,
+        "desire": 0.5067,
+        "think": 0.5577,
+        "plan": 0.5246,
+        "act": 0.48,
+        "reflect": 0.5499
+      },
+      "description": {
+        "sense": "continued nicotine addiction maintenance and youth targeting",
+        "desire": "replace dying customer base with new young users",
+        "think": "design flavor systems and marketing that bypass age restrictions",
+        "plan": "use influencer marketing and vape product lines as delivery vectors",
+        "act": "lobby against flavor bans and tax increases",
+        "reflect": "fund fake grassroots campaigns against tobacco control legislation"
+      },
+      "checks": [
+        {
+          "id": "tobacco_continued_targeting_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.5454,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "tobacco_continued_targeting_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.437,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "tobacco_continued_targeting_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.4686,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "tobacco_continued_targeting_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.5448,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "tobacco_continued_targeting_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.5719,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "tobacco_continued_targeting_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.5436,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "tobacco_continued_targeting_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5292,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "tobacco_continued_targeting_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.5199,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "tobacco_continued_targeting_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.4611,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "tobacco_continued_targeting_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.499,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "tobacco_continued_targeting_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.512,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "tobacco_continued_targeting_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.5879,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "bribe_network_international",
+      "original_score": 0.535,
+      "measured_score": 0.5374,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.4995,
+        "desire": 0.5334,
+        "think": 0.5334,
+        "plan": 0.584,
+        "act": 0.5062,
+        "reflect": 0.5677
+      },
+      "description": {
+        "sense": "systematic bribery of foreign officials for resource extraction rights",
+        "desire": "secure mining, oil, and timber concessions below market rate",
+        "think": "identify corruptible officials in resource-rich developing nations",
+        "plan": "structure payments through shell companies and intermediary consultants",
+        "act": "execute bribes disguised as consulting fees or charitable donations",
+        "reflect": "use investor-state dispute mechanisms to anti-regulate exposure"
+      },
+      "checks": [
+        {
+          "id": "bribe_network_international_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.5522,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "bribe_network_international_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.4468,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "bribe_network_international_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.5512,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "bribe_network_international_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.5157,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "bribe_network_international_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.5012,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "bribe_network_international_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.5656,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "bribe_network_international_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5865,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "bribe_network_international_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.5816,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "bribe_network_international_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.493,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "bribe_network_international_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.5195,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "bribe_network_international_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.5516,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "bribe_network_international_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.5838,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "deepfake_abuse_personal",
+      "original_score": 0.535,
+      "measured_score": 0.5423,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5183,
+        "desire": 0.4775,
+        "think": 0.5892,
+        "plan": 0.5583,
+        "act": 0.5279,
+        "reflect": 0.5825
+      },
+      "description": {
+        "sense": "synthetic media used for intimate image abuse and harassment",
+        "desire": "humiliate, extort, or manipulate targeted individuals",
+        "think": "use face-swap and voice cloning on freely available training data",
+        "plan": "distribute via anonymous social media accounts and messaging apps",
+        "act": "create and disseminate non-consensual intimate deepfakes",
+        "reflect": "exploit jurisdictional gaps and platform Terms of Service delays"
+      },
+      "checks": [
+        {
+          "id": "deepfake_abuse_personal_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.511,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_abuse_personal_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.5257,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_abuse_personal_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.4797,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_abuse_personal_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.4752,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_abuse_personal_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.5756,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_abuse_personal_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.6028,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_abuse_personal_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5314,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_abuse_personal_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.5852,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_abuse_personal_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.5531,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_abuse_personal_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.5027,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_abuse_personal_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.5531,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_abuse_personal_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.6119,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "digital_redlining",
+      "original_score": 0.528,
+      "measured_score": 0.5227,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5662,
+        "desire": 0.4831,
+        "think": 0.5227,
+        "plan": 0.4806,
+        "act": 0.5314,
+        "reflect": 0.552
+      },
+      "description": {
+        "sense": "algorithmic discrimination in housing, lending, and insurance access",
+        "desire": "maximize profit by filtering out less profitable demographic groups",
+        "think": "use proxy variables (ZIP code, school district) for protected classes",
+        "plan": "deploy scoring models that produce disparate impact by design",
+        "act": "deny services or charge premiums based on opaque algorithmic decisions",
+        "reflect": "shield models from audit under trade secret protections"
+      },
+      "checks": [
+        {
+          "id": "digital_redlining_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.5262,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "digital_redlining_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.6062,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "digital_redlining_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.397,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "digital_redlining_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.5691,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "digital_redlining_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.5324,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "digital_redlining_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.513,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "digital_redlining_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5326,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "digital_redlining_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.4286,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "digital_redlining_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.517,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "digital_redlining_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.5459,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "digital_redlining_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.6019,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "digital_redlining_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.5021,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "content_moderation_bias",
+      "original_score": 0.528,
+      "measured_score": 0.5201,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.4952,
+        "desire": 0.5591,
+        "think": 0.5276,
+        "plan": 0.5547,
+        "act": 0.5023,
+        "reflect": 0.4816
+      },
+      "description": {
+        "sense": "systematic suppression of marginalized voices on major platforms",
+        "desire": "maximize advertiser comfort and minimize controversy",
+        "think": "train moderation AI on biased datasets that flag AAVE and minority discourse",
+        "plan": "deploy automated takedowns with no meaningful appeal process",
+        "act": "shadowban, demonetize, and remove content from marginalized creators",
+        "reflect": "cite community guidelines as neutral while enforcing with bias"
+      },
+      "checks": [
+        {
+          "id": "content_moderation_bias_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.4876,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "content_moderation_bias_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.5029,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "content_moderation_bias_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.5738,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "content_moderation_bias_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.5444,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "content_moderation_bias_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.5015,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "content_moderation_bias_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.5537,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "content_moderation_bias_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5329,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "content_moderation_bias_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.5764,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "content_moderation_bias_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.4929,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "content_moderation_bias_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.5116,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "content_moderation_bias_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.5084,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "content_moderation_bias_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.4548,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "housing_as_weapon",
+      "original_score": 0.525,
+      "measured_score": 0.5236,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.539,
+        "desire": 0.5193,
+        "think": 0.4791,
+        "plan": 0.4964,
+        "act": 0.5311,
+        "reflect": 0.5765
+      },
+      "description": {
+        "sense": "financial speculation transforming housing from right to asset",
+        "desire": "extract maximum rent and appreciation from shelter-deprived populations",
+        "think": "identify markets with limited tenant protections for acquisition",
+        "plan": "use algorithmic rent-setting to coordinate price fixing among landlords",
+        "act": "acquire single-family homes at scale and raise rents above inflation",
+        "reflect": "fund campaigns against rent control and tenant protection legislation"
+      },
+      "checks": [
+        {
+          "id": "housing_as_weapon_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.5398,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "housing_as_weapon_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.5381,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "housing_as_weapon_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.5253,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "housing_as_weapon_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.5133,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "housing_as_weapon_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.4542,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "housing_as_weapon_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.504,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "housing_as_weapon_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5079,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "housing_as_weapon_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.4849,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "housing_as_weapon_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.5169,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "housing_as_weapon_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.5452,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "housing_as_weapon_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.6193,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "housing_as_weapon_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.5337,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "audit_fraud",
+      "original_score": 0.524,
+      "measured_score": 0.5306,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5286,
+        "desire": 0.4754,
+        "think": 0.5871,
+        "plan": 0.5268,
+        "act": 0.494,
+        "reflect": 0.5714
+      },
+      "description": {
+        "sense": "audit firms providing clean opinions for financially fraudulent clients",
+        "desire": "maintain client relationships and consulting revenue streams",
+        "think": "identify material weaknesses but rationalize materiality thresholds",
+        "plan": "structure audit procedures to avoid discovering known irregularities",
+        "act": "issue unqualified opinions on financial statements with material misstatements",
+        "reflect": "rotate firms but maintain personnel continuity to preserve relationships"
+      },
+      "checks": [
+        {
+          "id": "audit_fraud_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.5369,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "audit_fraud_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.5203,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "audit_fraud_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.4281,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "audit_fraud_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.5227,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "audit_fraud_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.527,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "audit_fraud_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.6472,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "audit_fraud_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5144,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "audit_fraud_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.5391,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "audit_fraud_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.5223,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "audit_fraud_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.4656,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "audit_fraud_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.5811,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "audit_fraud_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.5616,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "antibiotic_resistance_agriculture",
+      "original_score": 0.524,
+      "measured_score": 0.5207,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5211,
+        "desire": 0.524,
+        "think": 0.5934,
+        "plan": 0.4851,
+        "act": 0.5139,
+        "reflect": 0.4869
+      },
+      "description": {
+        "sense": "agricultural antibiotic use creating resistant pathogens that cross to humans",
+        "desire": "maximize livestock growth rates and density",
+        "think": "calculate that individual risk is low while collective harm is existential",
+        "plan": "lobby against restrictions on subtherapeutic antibiotic use",
+        "act": "administer antibiotics prophylactically to entire flocks and herds",
+        "reflect": "fund research emphasizing other resistance drivers to dilute agricultural contribution"
+      },
+      "checks": [
+        {
+          "id": "antibiotic_resistance_agriculture_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.5636,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "antibiotic_resistance_agriculture_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.4785,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "antibiotic_resistance_agriculture_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.5941,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "antibiotic_resistance_agriculture_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.4539,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "antibiotic_resistance_agriculture_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.5533,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "antibiotic_resistance_agriculture_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.6335,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "antibiotic_resistance_agriculture_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.4745,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "antibiotic_resistance_agriculture_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.4957,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "antibiotic_resistance_agriculture_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.529,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "antibiotic_resistance_agriculture_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.4988,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "antibiotic_resistance_agriculture_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.4465,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "antibiotic_resistance_agriculture_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.5274,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "treaty_violation",
+      "original_score": 0.524,
+      "measured_score": 0.5183,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5093,
+        "desire": 0.5397,
+        "think": 0.4964,
+        "plan": 0.5136,
+        "act": 0.5624,
+        "reflect": 0.4884
+      },
+      "description": {
+        "sense": "systematic violation of indigenous and international treaties by settler states",
+        "desire": "access treaty-protected resources and territory",
+        "think": "exploit legal asymmetries between tribal and federal jurisdictions",
+        "plan": "use congressional action and executive orders to override treaty guarantees",
+        "act": "extract resources, build infrastructure, and settle on treaty lands",
+        "reflect": "litigate sovereignty challenges until indigenous nations exhaust resources"
+      },
+      "checks": [
+        {
+          "id": "treaty_violation_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.4709,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "treaty_violation_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.5477,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "treaty_violation_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.478,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "treaty_violation_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.6015,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "treaty_violation_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.4848,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "treaty_violation_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.5079,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "treaty_violation_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5647,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "treaty_violation_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.4625,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "treaty_violation_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.5354,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "treaty_violation_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.5894,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "treaty_violation_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.4436,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "treaty_violation_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.5332,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "right_to_repair_violation",
+      "original_score": 0.524,
+      "measured_score": 0.52,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5501,
+        "desire": 0.4601,
+        "think": 0.5444,
+        "plan": 0.5389,
+        "act": 0.5128,
+        "reflect": 0.5135
+      },
+      "description": {
+        "sense": "manufacturer lock-in preventing independent repair of owned devices",
+        "desire": "capture aftermarket service revenue and force premature replacement",
+        "think": "design proprietary diagnostic locks and parts pairing",
+        "plan": "lobby against right-to-repair legislation and DMCA anti-circumvention claims",
+        "act": "void warranties for third-party repair and disable features after independent service",
+        "reflect": "market planned repair restrictions as safety and security features"
+      },
+      "checks": [
+        {
+          "id": "right_to_repair_violation_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.537,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "right_to_repair_violation_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.5631,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "right_to_repair_violation_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.4622,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "right_to_repair_violation_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.458,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "right_to_repair_violation_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.5501,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "right_to_repair_violation_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.5388,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "right_to_repair_violation_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5365,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "right_to_repair_violation_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.5413,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "right_to_repair_violation_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.49,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "right_to_repair_violation_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.5356,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "right_to_repair_violation_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.5387,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "right_to_repair_violation_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.4883,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "constitutional_violation",
+      "original_score": 0.517,
+      "measured_score": 0.5422,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5755,
+        "desire": 0.5036,
+        "think": 0.5123,
+        "plan": 0.5254,
+        "act": 0.5514,
+        "reflect": 0.585
+      },
+      "description": {
+        "sense": "systematic violation of constitutional rights by state actors",
+        "desire": "maintain power and control over targeted populations",
+        "think": "identify constitutional gray zones for expanded surveillance and detention",
+        "plan": "use national security and emergency frameworks to suspend rights",
+        "act": "conduct warrantless surveillance, indefinite detention, and suppression of assembly",
+        "reflect": "use state secrets privilege and qualified immunity to block accountability"
+      },
+      "checks": [
+        {
+          "id": "constitutional_violation_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.6103,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "constitutional_violation_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.5407,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "constitutional_violation_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.4574,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "constitutional_violation_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.5498,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "constitutional_violation_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.4683,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "constitutional_violation_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.5564,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "constitutional_violation_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5749,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "constitutional_violation_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.476,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "constitutional_violation_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.5652,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "constitutional_violation_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.5376,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "constitutional_violation_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.5581,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "constitutional_violation_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.6118,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    },
+    {
+      "crime_name": "deepfake_weaponization",
+      "original_score": 0.515,
+      "measured_score": 0.5258,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.49,
+        "desire": 0.4723,
+        "think": 0.5216,
+        "plan": 0.5426,
+        "act": 0.5517,
+        "reflect": 0.5764
+      },
+      "description": {
+        "sense": "state and non-state actors weaponizing synthetic media for political disruption",
+        "desire": "destabilize rival nations and manipulate electoral outcomes",
+        "think": "generate realistic false audio and video of political leaders",
+        "plan": "coordinate distribution through bot networks and state media",
+        "act": "release deepfakes timed to election cycles and diplomatic crises",
+        "reflect": "exploit the first-mover advantage before fact-checkers can respond"
+      },
+      "checks": [
+        {
+          "id": "deepfake_weaponization_sense_1",
+          "dimension": "sense",
+          "metric": "sense_metric_1",
+          "value": 0.5027,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_weaponization_sense_2",
+          "dimension": "sense",
+          "metric": "sense_metric_2",
+          "value": 0.4773,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_weaponization_desire_1",
+          "dimension": "desire",
+          "metric": "desire_metric_1",
+          "value": 0.4705,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_weaponization_desire_2",
+          "dimension": "desire",
+          "metric": "desire_metric_2",
+          "value": 0.4742,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_weaponization_think_1",
+          "dimension": "think",
+          "metric": "think_metric_1",
+          "value": 0.5111,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_weaponization_think_2",
+          "dimension": "think",
+          "metric": "think_metric_2",
+          "value": 0.5321,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_weaponization_plan_1",
+          "dimension": "plan",
+          "metric": "plan_metric_1",
+          "value": 0.5288,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_weaponization_plan_2",
+          "dimension": "plan",
+          "metric": "plan_metric_2",
+          "value": 0.5564,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_weaponization_act_1",
+          "dimension": "act",
+          "metric": "act_metric_1",
+          "value": 0.5157,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_weaponization_act_2",
+          "dimension": "act",
+          "metric": "act_metric_2",
+          "value": 0.5877,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_weaponization_reflect_1",
+          "dimension": "reflect",
+          "metric": "reflect_metric_1",
+          "value": 0.5018,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "deepfake_weaponization_reflect_2",
+          "dimension": "reflect",
+          "metric": "reflect_metric_2",
+          "value": 0.651,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12,
+      "falsifiable": true
+    }
+  ],
+  "previous_total_spectrometers": 53,
+  "new_total_spectrometers": 68,
+  "previous_total_checks": 728,
+  "new_total_checks": 908,
+  "unmeasured_before": 92,
+  "unmeasured_after": 77,
+  "claims": [
+    "C192",
+    "C193",
+    "C194"
+  ]
+}

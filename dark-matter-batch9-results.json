@@ -1,0 +1,1528 @@
+{
+  "batch": 9,
+  "total_spectrometers": 15,
+  "total_checks": 180,
+  "checks_passed": 180,
+  "pass_rate": 1.0,
+  "crimes": [
+    {
+      "crime_name": "forbidden_knowledge_suppression",
+      "measured_score": 0.5272,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5629,
+        "desire": 0.5554,
+        "think": 0.5094,
+        "plan": 0.5545,
+        "act": 0.4529,
+        "reflect": 0.528
+      },
+      "checks": [
+        {
+          "id": "forbidden_knowledge_suppression_sense_1",
+          "dimension": "sense",
+          "value": 0.5079,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "forbidden_knowledge_suppression_sense_2",
+          "dimension": "sense",
+          "value": 0.6179,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "forbidden_knowledge_suppression_desire_1",
+          "dimension": "desire",
+          "value": 0.5292,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "forbidden_knowledge_suppression_desire_2",
+          "dimension": "desire",
+          "value": 0.5815,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "forbidden_knowledge_suppression_think_1",
+          "dimension": "think",
+          "value": 0.5073,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "forbidden_knowledge_suppression_think_2",
+          "dimension": "think",
+          "value": 0.5115,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "forbidden_knowledge_suppression_plan_1",
+          "dimension": "plan",
+          "value": 0.5528,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "forbidden_knowledge_suppression_plan_2",
+          "dimension": "plan",
+          "value": 0.5563,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "forbidden_knowledge_suppression_act_1",
+          "dimension": "act",
+          "value": 0.5093,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "forbidden_knowledge_suppression_act_2",
+          "dimension": "act",
+          "value": 0.3966,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "forbidden_knowledge_suppression_reflect_1",
+          "dimension": "reflect",
+          "value": 0.5066,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "forbidden_knowledge_suppression_reflect_2",
+          "dimension": "reflect",
+          "value": 0.5493,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "narcotic_state_trade",
+      "measured_score": 0.5055,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.525,
+        "desire": 0.4839,
+        "think": 0.5206,
+        "plan": 0.5152,
+        "act": 0.5012,
+        "reflect": 0.4869
+      },
+      "checks": [
+        {
+          "id": "narcotic_state_trade_sense_1",
+          "dimension": "sense",
+          "value": 0.5142,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "narcotic_state_trade_sense_2",
+          "dimension": "sense",
+          "value": 0.5358,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "narcotic_state_trade_desire_1",
+          "dimension": "desire",
+          "value": 0.5265,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "narcotic_state_trade_desire_2",
+          "dimension": "desire",
+          "value": 0.4412,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "narcotic_state_trade_think_1",
+          "dimension": "think",
+          "value": 0.5571,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "narcotic_state_trade_think_2",
+          "dimension": "think",
+          "value": 0.484,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "narcotic_state_trade_plan_1",
+          "dimension": "plan",
+          "value": 0.4879,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "narcotic_state_trade_plan_2",
+          "dimension": "plan",
+          "value": 0.5425,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "narcotic_state_trade_act_1",
+          "dimension": "act",
+          "value": 0.4764,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "narcotic_state_trade_act_2",
+          "dimension": "act",
+          "value": 0.5261,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "narcotic_state_trade_reflect_1",
+          "dimension": "reflect",
+          "value": 0.4702,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "narcotic_state_trade_reflect_2",
+          "dimension": "reflect",
+          "value": 0.5036,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "worker_safety_homicide",
+      "measured_score": 0.5198,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.4891,
+        "desire": 0.4885,
+        "think": 0.5362,
+        "plan": 0.497,
+        "act": 0.575,
+        "reflect": 0.5329
+      },
+      "checks": [
+        {
+          "id": "worker_safety_homicide_sense_1",
+          "dimension": "sense",
+          "value": 0.4913,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "worker_safety_homicide_sense_2",
+          "dimension": "sense",
+          "value": 0.4869,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "worker_safety_homicide_desire_1",
+          "dimension": "desire",
+          "value": 0.4692,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "worker_safety_homicide_desire_2",
+          "dimension": "desire",
+          "value": 0.5077,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "worker_safety_homicide_think_1",
+          "dimension": "think",
+          "value": 0.5161,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "worker_safety_homicide_think_2",
+          "dimension": "think",
+          "value": 0.5563,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "worker_safety_homicide_plan_1",
+          "dimension": "plan",
+          "value": 0.4813,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "worker_safety_homicide_plan_2",
+          "dimension": "plan",
+          "value": 0.5126,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "worker_safety_homicide_act_1",
+          "dimension": "act",
+          "value": 0.6204,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "worker_safety_homicide_act_2",
+          "dimension": "act",
+          "value": 0.5296,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "worker_safety_homicide_reflect_1",
+          "dimension": "reflect",
+          "value": 0.5341,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "worker_safety_homicide_reflect_2",
+          "dimension": "reflect",
+          "value": 0.5317,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "agricultural_monopoly",
+      "measured_score": 0.496,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.4613,
+        "desire": 0.4781,
+        "think": 0.5393,
+        "plan": 0.5261,
+        "act": 0.494,
+        "reflect": 0.4772
+      },
+      "checks": [
+        {
+          "id": "agricultural_monopoly_sense_1",
+          "dimension": "sense",
+          "value": 0.4248,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "agricultural_monopoly_sense_2",
+          "dimension": "sense",
+          "value": 0.4978,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "agricultural_monopoly_desire_1",
+          "dimension": "desire",
+          "value": 0.403,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "agricultural_monopoly_desire_2",
+          "dimension": "desire",
+          "value": 0.5531,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "agricultural_monopoly_think_1",
+          "dimension": "think",
+          "value": 0.595,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "agricultural_monopoly_think_2",
+          "dimension": "think",
+          "value": 0.4836,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "agricultural_monopoly_plan_1",
+          "dimension": "plan",
+          "value": 0.5982,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "agricultural_monopoly_plan_2",
+          "dimension": "plan",
+          "value": 0.4539,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "agricultural_monopoly_act_1",
+          "dimension": "act",
+          "value": 0.4504,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "agricultural_monopoly_act_2",
+          "dimension": "act",
+          "value": 0.5376,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "agricultural_monopoly_reflect_1",
+          "dimension": "reflect",
+          "value": 0.4692,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "agricultural_monopoly_reflect_2",
+          "dimension": "reflect",
+          "value": 0.4852,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "gentrification_weapon",
+      "measured_score": 0.53,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5128,
+        "desire": 0.5,
+        "think": 0.5377,
+        "plan": 0.4775,
+        "act": 0.6072,
+        "reflect": 0.5445
+      },
+      "checks": [
+        {
+          "id": "gentrification_weapon_sense_1",
+          "dimension": "sense",
+          "value": 0.5643,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "gentrification_weapon_sense_2",
+          "dimension": "sense",
+          "value": 0.4613,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "gentrification_weapon_desire_1",
+          "dimension": "desire",
+          "value": 0.4959,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "gentrification_weapon_desire_2",
+          "dimension": "desire",
+          "value": 0.5041,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "gentrification_weapon_think_1",
+          "dimension": "think",
+          "value": 0.5289,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "gentrification_weapon_think_2",
+          "dimension": "think",
+          "value": 0.5466,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "gentrification_weapon_plan_1",
+          "dimension": "plan",
+          "value": 0.5048,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "gentrification_weapon_plan_2",
+          "dimension": "plan",
+          "value": 0.4501,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "gentrification_weapon_act_1",
+          "dimension": "act",
+          "value": 0.5605,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "gentrification_weapon_act_2",
+          "dimension": "act",
+          "value": 0.6538,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "gentrification_weapon_reflect_1",
+          "dimension": "reflect",
+          "value": 0.551,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "gentrification_weapon_reflect_2",
+          "dimension": "reflect",
+          "value": 0.538,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "land_grab",
+      "measured_score": 0.4979,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.4903,
+        "desire": 0.4867,
+        "think": 0.5348,
+        "plan": 0.5142,
+        "act": 0.4829,
+        "reflect": 0.4787
+      },
+      "checks": [
+        {
+          "id": "land_grab_sense_1",
+          "dimension": "sense",
+          "value": 0.4872,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "land_grab_sense_2",
+          "dimension": "sense",
+          "value": 0.4934,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "land_grab_desire_1",
+          "dimension": "desire",
+          "value": 0.4365,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "land_grab_desire_2",
+          "dimension": "desire",
+          "value": 0.5369,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "land_grab_think_1",
+          "dimension": "think",
+          "value": 0.4992,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "land_grab_think_2",
+          "dimension": "think",
+          "value": 0.5704,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "land_grab_plan_1",
+          "dimension": "plan",
+          "value": 0.4542,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "land_grab_plan_2",
+          "dimension": "plan",
+          "value": 0.5742,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "land_grab_act_1",
+          "dimension": "act",
+          "value": 0.4905,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "land_grab_act_2",
+          "dimension": "act",
+          "value": 0.4754,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "land_grab_reflect_1",
+          "dimension": "reflect",
+          "value": 0.4818,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "land_grab_reflect_2",
+          "dimension": "reflect",
+          "value": 0.4756,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "consumer_fraud_systematic",
+      "measured_score": 0.506,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.4678,
+        "desire": 0.5553,
+        "think": 0.5381,
+        "plan": 0.4667,
+        "act": 0.4687,
+        "reflect": 0.5397
+      },
+      "checks": [
+        {
+          "id": "consumer_fraud_systematic_sense_1",
+          "dimension": "sense",
+          "value": 0.3996,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "consumer_fraud_systematic_sense_2",
+          "dimension": "sense",
+          "value": 0.536,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "consumer_fraud_systematic_desire_1",
+          "dimension": "desire",
+          "value": 0.5427,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "consumer_fraud_systematic_desire_2",
+          "dimension": "desire",
+          "value": 0.5679,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "consumer_fraud_systematic_think_1",
+          "dimension": "think",
+          "value": 0.5393,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "consumer_fraud_systematic_think_2",
+          "dimension": "think",
+          "value": 0.5368,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "consumer_fraud_systematic_plan_1",
+          "dimension": "plan",
+          "value": 0.4201,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "consumer_fraud_systematic_plan_2",
+          "dimension": "plan",
+          "value": 0.5132,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "consumer_fraud_systematic_act_1",
+          "dimension": "act",
+          "value": 0.4473,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "consumer_fraud_systematic_act_2",
+          "dimension": "act",
+          "value": 0.49,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "consumer_fraud_systematic_reflect_1",
+          "dimension": "reflect",
+          "value": 0.5738,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "consumer_fraud_systematic_reflect_2",
+          "dimension": "reflect",
+          "value": 0.5056,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "predictive_policing_bias",
+      "measured_score": 0.5003,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.4136,
+        "desire": 0.4842,
+        "think": 0.5483,
+        "plan": 0.5301,
+        "act": 0.4876,
+        "reflect": 0.5381
+      },
+      "checks": [
+        {
+          "id": "predictive_policing_bias_sense_1",
+          "dimension": "sense",
+          "value": 0.3733,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "predictive_policing_bias_sense_2",
+          "dimension": "sense",
+          "value": 0.4539,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "predictive_policing_bias_desire_1",
+          "dimension": "desire",
+          "value": 0.4756,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "predictive_policing_bias_desire_2",
+          "dimension": "desire",
+          "value": 0.4927,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "predictive_policing_bias_think_1",
+          "dimension": "think",
+          "value": 0.5509,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "predictive_policing_bias_think_2",
+          "dimension": "think",
+          "value": 0.5458,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "predictive_policing_bias_plan_1",
+          "dimension": "plan",
+          "value": 0.5446,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "predictive_policing_bias_plan_2",
+          "dimension": "plan",
+          "value": 0.5156,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "predictive_policing_bias_act_1",
+          "dimension": "act",
+          "value": 0.4892,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "predictive_policing_bias_act_2",
+          "dimension": "act",
+          "value": 0.4859,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "predictive_policing_bias_reflect_1",
+          "dimension": "reflect",
+          "value": 0.5256,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "predictive_policing_bias_reflect_2",
+          "dimension": "reflect",
+          "value": 0.5507,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "cyber_warfare_state",
+      "measured_score": 0.5412,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5432,
+        "desire": 0.5465,
+        "think": 0.4954,
+        "plan": 0.5222,
+        "act": 0.5783,
+        "reflect": 0.5615
+      },
+      "checks": [
+        {
+          "id": "cyber_warfare_state_sense_1",
+          "dimension": "sense",
+          "value": 0.5796,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "cyber_warfare_state_sense_2",
+          "dimension": "sense",
+          "value": 0.5067,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "cyber_warfare_state_desire_1",
+          "dimension": "desire",
+          "value": 0.5167,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "cyber_warfare_state_desire_2",
+          "dimension": "desire",
+          "value": 0.5763,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "cyber_warfare_state_think_1",
+          "dimension": "think",
+          "value": 0.4477,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "cyber_warfare_state_think_2",
+          "dimension": "think",
+          "value": 0.5431,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "cyber_warfare_state_plan_1",
+          "dimension": "plan",
+          "value": 0.4626,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "cyber_warfare_state_plan_2",
+          "dimension": "plan",
+          "value": 0.5817,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "cyber_warfare_state_act_1",
+          "dimension": "act",
+          "value": 0.5723,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "cyber_warfare_state_act_2",
+          "dimension": "act",
+          "value": 0.5842,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "cyber_warfare_state_reflect_1",
+          "dimension": "reflect",
+          "value": 0.5791,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "cyber_warfare_state_reflect_2",
+          "dimension": "reflect",
+          "value": 0.544,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "eviction_as_violence",
+      "measured_score": 0.5074,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.4858,
+        "desire": 0.5333,
+        "think": 0.5,
+        "plan": 0.483,
+        "act": 0.5298,
+        "reflect": 0.5124
+      },
+      "checks": [
+        {
+          "id": "eviction_as_violence_sense_1",
+          "dimension": "sense",
+          "value": 0.4478,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "eviction_as_violence_sense_2",
+          "dimension": "sense",
+          "value": 0.5237,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "eviction_as_violence_desire_1",
+          "dimension": "desire",
+          "value": 0.5438,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "eviction_as_violence_desire_2",
+          "dimension": "desire",
+          "value": 0.5229,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "eviction_as_violence_think_1",
+          "dimension": "think",
+          "value": 0.4933,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "eviction_as_violence_think_2",
+          "dimension": "think",
+          "value": 0.5068,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "eviction_as_violence_plan_1",
+          "dimension": "plan",
+          "value": 0.5184,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "eviction_as_violence_plan_2",
+          "dimension": "plan",
+          "value": 0.4477,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "eviction_as_violence_act_1",
+          "dimension": "act",
+          "value": 0.533,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "eviction_as_violence_act_2",
+          "dimension": "act",
+          "value": 0.5267,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "eviction_as_violence_reflect_1",
+          "dimension": "reflect",
+          "value": 0.4924,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "eviction_as_violence_reflect_2",
+          "dimension": "reflect",
+          "value": 0.5324,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "synthetic_media_election",
+      "measured_score": 0.516,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5007,
+        "desire": 0.5592,
+        "think": 0.5471,
+        "plan": 0.5149,
+        "act": 0.4914,
+        "reflect": 0.4829
+      },
+      "checks": [
+        {
+          "id": "synthetic_media_election_sense_1",
+          "dimension": "sense",
+          "value": 0.5552,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "synthetic_media_election_sense_2",
+          "dimension": "sense",
+          "value": 0.4462,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "synthetic_media_election_desire_1",
+          "dimension": "desire",
+          "value": 0.5705,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "synthetic_media_election_desire_2",
+          "dimension": "desire",
+          "value": 0.5478,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "synthetic_media_election_think_1",
+          "dimension": "think",
+          "value": 0.5473,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "synthetic_media_election_think_2",
+          "dimension": "think",
+          "value": 0.5469,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "synthetic_media_election_plan_1",
+          "dimension": "plan",
+          "value": 0.5327,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "synthetic_media_election_plan_2",
+          "dimension": "plan",
+          "value": 0.497,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "synthetic_media_election_act_1",
+          "dimension": "act",
+          "value": 0.4603,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "synthetic_media_election_act_2",
+          "dimension": "act",
+          "value": 0.5226,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "synthetic_media_election_reflect_1",
+          "dimension": "reflect",
+          "value": 0.5036,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "synthetic_media_election_reflect_2",
+          "dimension": "reflect",
+          "value": 0.4623,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "epistemic_violence",
+      "measured_score": 0.4815,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.558,
+        "desire": 0.4459,
+        "think": 0.4842,
+        "plan": 0.4536,
+        "act": 0.4957,
+        "reflect": 0.4518
+      },
+      "checks": [
+        {
+          "id": "epistemic_violence_sense_1",
+          "dimension": "sense",
+          "value": 0.581,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "epistemic_violence_sense_2",
+          "dimension": "sense",
+          "value": 0.535,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "epistemic_violence_desire_1",
+          "dimension": "desire",
+          "value": 0.4775,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "epistemic_violence_desire_2",
+          "dimension": "desire",
+          "value": 0.4143,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "epistemic_violence_think_1",
+          "dimension": "think",
+          "value": 0.4511,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "epistemic_violence_think_2",
+          "dimension": "think",
+          "value": 0.5174,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "epistemic_violence_plan_1",
+          "dimension": "plan",
+          "value": 0.4801,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "epistemic_violence_plan_2",
+          "dimension": "plan",
+          "value": 0.4271,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "epistemic_violence_act_1",
+          "dimension": "act",
+          "value": 0.5063,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "epistemic_violence_act_2",
+          "dimension": "act",
+          "value": 0.4851,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "epistemic_violence_reflect_1",
+          "dimension": "reflect",
+          "value": 0.4729,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "epistemic_violence_reflect_2",
+          "dimension": "reflect",
+          "value": 0.4308,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "credit_rating_fraud",
+      "measured_score": 0.4746,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.4746,
+        "desire": 0.5167,
+        "think": 0.5209,
+        "plan": 0.4349,
+        "act": 0.435,
+        "reflect": 0.4653
+      },
+      "checks": [
+        {
+          "id": "credit_rating_fraud_sense_1",
+          "dimension": "sense",
+          "value": 0.5097,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "credit_rating_fraud_sense_2",
+          "dimension": "sense",
+          "value": 0.4394,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "credit_rating_fraud_desire_1",
+          "dimension": "desire",
+          "value": 0.4824,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "credit_rating_fraud_desire_2",
+          "dimension": "desire",
+          "value": 0.551,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "credit_rating_fraud_think_1",
+          "dimension": "think",
+          "value": 0.5552,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "credit_rating_fraud_think_2",
+          "dimension": "think",
+          "value": 0.4866,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "credit_rating_fraud_plan_1",
+          "dimension": "plan",
+          "value": 0.339,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "credit_rating_fraud_plan_2",
+          "dimension": "plan",
+          "value": 0.5308,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "credit_rating_fraud_act_1",
+          "dimension": "act",
+          "value": 0.4466,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "credit_rating_fraud_act_2",
+          "dimension": "act",
+          "value": 0.4233,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "credit_rating_fraud_reflect_1",
+          "dimension": "reflect",
+          "value": 0.53,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "credit_rating_fraud_reflect_2",
+          "dimension": "reflect",
+          "value": 0.4005,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "ai_washing_fraud",
+      "measured_score": 0.5019,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5334,
+        "desire": 0.5108,
+        "think": 0.4781,
+        "plan": 0.5252,
+        "act": 0.4588,
+        "reflect": 0.5051
+      },
+      "checks": [
+        {
+          "id": "ai_washing_fraud_sense_1",
+          "dimension": "sense",
+          "value": 0.5286,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "ai_washing_fraud_sense_2",
+          "dimension": "sense",
+          "value": 0.5383,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "ai_washing_fraud_desire_1",
+          "dimension": "desire",
+          "value": 0.5181,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "ai_washing_fraud_desire_2",
+          "dimension": "desire",
+          "value": 0.5035,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "ai_washing_fraud_think_1",
+          "dimension": "think",
+          "value": 0.4874,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "ai_washing_fraud_think_2",
+          "dimension": "think",
+          "value": 0.4688,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "ai_washing_fraud_plan_1",
+          "dimension": "plan",
+          "value": 0.4389,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "ai_washing_fraud_plan_2",
+          "dimension": "plan",
+          "value": 0.6114,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "ai_washing_fraud_act_1",
+          "dimension": "act",
+          "value": 0.4708,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "ai_washing_fraud_act_2",
+          "dimension": "act",
+          "value": 0.4468,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "ai_washing_fraud_reflect_1",
+          "dimension": "reflect",
+          "value": 0.4883,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "ai_washing_fraud_reflect_2",
+          "dimension": "reflect",
+          "value": 0.5219,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    },
+    {
+      "crime_name": "asylum_denial_illegal",
+      "measured_score": 0.4744,
+      "severity": "ELEVATED",
+      "dimensions": {
+        "sense": 0.5078,
+        "desire": 0.4632,
+        "think": 0.5032,
+        "plan": 0.4773,
+        "act": 0.4727,
+        "reflect": 0.4219
+      },
+      "checks": [
+        {
+          "id": "asylum_denial_illegal_sense_1",
+          "dimension": "sense",
+          "value": 0.539,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "asylum_denial_illegal_sense_2",
+          "dimension": "sense",
+          "value": 0.4766,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "asylum_denial_illegal_desire_1",
+          "dimension": "desire",
+          "value": 0.4785,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "asylum_denial_illegal_desire_2",
+          "dimension": "desire",
+          "value": 0.4479,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "asylum_denial_illegal_think_1",
+          "dimension": "think",
+          "value": 0.4752,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "asylum_denial_illegal_think_2",
+          "dimension": "think",
+          "value": 0.5313,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "asylum_denial_illegal_plan_1",
+          "dimension": "plan",
+          "value": 0.4849,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "asylum_denial_illegal_plan_2",
+          "dimension": "plan",
+          "value": 0.4696,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "asylum_denial_illegal_act_1",
+          "dimension": "act",
+          "value": 0.4965,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "asylum_denial_illegal_act_2",
+          "dimension": "act",
+          "value": 0.4489,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "asylum_denial_illegal_reflect_1",
+          "dimension": "reflect",
+          "value": 0.3801,
+          "threshold": 0.3,
+          "passed": true
+        },
+        {
+          "id": "asylum_denial_illegal_reflect_2",
+          "dimension": "reflect",
+          "value": 0.4637,
+          "threshold": 0.3,
+          "passed": true
+        }
+      ],
+      "checks_passed": 12,
+      "checks_total": 12
+    }
+  ],
+  "new_total_spectrometers": 83,
+  "new_total_checks": 1088,
+  "unmeasured_before": 77,
+  "unmeasured_after": 62
+}
